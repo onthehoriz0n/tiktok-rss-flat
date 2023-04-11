@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@lydiaaas__</id>
+  <title>lydiaaas__ TikTok</title>
+  <updated>2023-04-11T08:08:12+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss/rss/lydiaaas__.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7218531088627535130</id>
+    <title>No Title</title>
+    <updated>2023-04-05T11:47:30+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7218531088627535130" rel="alternate"/>
+    <published>2023-04-05T11:47:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7218857069988957466</id>
+    <title>sama dede2 hehehe</title>
+    <updated>2023-04-06T08:52:40+00:00</updated>
+    <content>sama dede2 hehehe</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7218857069988957466" rel="alternate"/>
+    <published>2023-04-06T08:52:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7219628241898769691</id>
+    <title>gangerti</title>
+    <updated>2023-04-08T10:44:59+00:00</updated>
+    <content>gangerti</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7219628241898769691" rel="alternate"/>
+    <published>2023-04-08T10:44:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7219631288326606107</id>
+    <title>Jangan sampe bukber sama temen tapi kulit masih kusam! kalau mau dapetin kulit glowing pas mudik yuk datengin booth di rest area dengan cara datengin citra beauty bar di indomaret rest area kanci pejagan yaa tanggal 14-20 April! #GlowingBebasKusam</title>
+    <updated>2023-04-08T10:56:52+00:00</updated>
+    <content>Jangan sampe bukber sama temen tapi kulit masih kusam! kalau mau dapetin kulit glowing pas mudik yuk datengin booth di rest area dengan cara datengin citra beauty bar di indomaret rest area kanci pejagan yaa tanggal 14-20 April! #GlowingBebasKusam</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7219631288326606107" rel="alternate"/>
+    <published>2023-04-08T10:56:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7220701068395580699</id>
+    <title>asian check</title>
+    <updated>2023-04-11T08:08:12+00:00</updated>
+    <content>asian check</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7220701068395580699" rel="alternate"/>
+    <published>2023-04-11T08:08:12+00:00</published>
+  </entry>
+</feed>

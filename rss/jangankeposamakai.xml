@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@jangankeposamakai</id>
+  <title>jangankeposamakai TikTok</title>
+  <updated>2023-04-11T03:04:59+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss/rss/jangankeposamakai.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7219139837985606939</id>
+    <title>#mamahmuda #jj #djmamahmudaremix #fyp #fypシ </title>
+    <updated>2023-04-07T03:09:56+00:00</updated>
+    <content>#mamahmuda #jj #djmamahmudaremix #fyp #fypシ </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7219139837985606939" rel="alternate"/>
+    <published>2023-04-07T03:09:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7219523321212226842</id>
+    <title>#gangster #gangsterwife #daddy #foryou </title>
+    <updated>2023-04-08T03:57:59+00:00</updated>
+    <content>#gangster #gangsterwife #daddy #foryou </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7219523321212226842" rel="alternate"/>
+    <published>2023-04-08T03:57:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7219681610482928922</id>
+    <title>#fyp </title>
+    <updated>2023-04-08T14:12:06+00:00</updated>
+    <content>#fyp </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7219681610482928922" rel="alternate"/>
+    <published>2023-04-08T14:12:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7220421479932906778</id>
+    <title>honey 🤗 #babylove #baby #fyp #foryourpage #japan #japane #cat #catwoman </title>
+    <updated>2023-04-10T14:03:15+00:00</updated>
+    <content>honey 🤗 #babylove #baby #fyp #foryourpage #japan #japane #cat #catwoman </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7220421479932906778" rel="alternate"/>
+    <published>2023-04-10T14:03:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7220622907985235226</id>
+    <title>#fyp #fakebodyy⚠️ #fypシ #asian </title>
+    <updated>2023-04-11T03:04:59+00:00</updated>
+    <content>#fyp #fakebodyy⚠️ #fypシ #asian </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7220622907985235226" rel="alternate"/>
+    <published>2023-04-11T03:04:59+00:00</published>
+  </entry>
+</feed>
