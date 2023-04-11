@@ -8,9 +8,9 @@
     <email>conor@conoroneill.com</email>
   </author>
   <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://tiktokrss.onthehoriz0n.com/rss/abigailgusmawan.xml" rel="self"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss/rss/abigailgusmawan.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <logo>https://tiktokrss.onthehoriz0n.com/tiktok-rss.png</logo>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7217693419110518043</id>
