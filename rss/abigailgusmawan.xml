@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@abigailgusmawan</id>
+  <title>abigailgusmawan TikTok</title>
+  <updated>2023-04-10T07:42:10+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss-flat/rss/abigailgusmawan.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7217693419110518043</id>
+    <title>Tangkal pinus, bandung</title>
+    <updated>2023-04-03T05:37:01+00:00</updated>
+    <content>Tangkal pinus, bandung</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7217693419110518043" rel="alternate"/>
+    <published>2023-04-03T05:37:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7218522428337573147</id>
+    <title>stengah ngarang</title>
+    <updated>2023-04-05T11:13:57+00:00</updated>
+    <content>stengah ngarang</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7218522428337573147" rel="alternate"/>
+    <published>2023-04-05T11:13:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7218895360700337434</id>
+    <title>bring back the naruto run💨💨</title>
+    <updated>2023-04-06T11:21:03+00:00</updated>
+    <content>bring back the naruto run💨💨</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7218895360700337434" rel="alternate"/>
+    <published>2023-04-06T11:21:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7219551219537235227</id>
+    <title>akwkakwkakwka</title>
+    <updated>2023-04-08T05:46:11+00:00</updated>
+    <content>akwkakwkakwka</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7219551219537235227" rel="alternate"/>
+    <published>2023-04-08T05:46:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7220323256920853786</id>
+    <title>why is this song so famousss</title>
+    <updated>2023-04-10T07:42:10+00:00</updated>
+    <content>why is this song so famousss</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7220323256920853786" rel="alternate"/>
+    <published>2023-04-10T07:42:10+00:00</published>
+  </entry>
+</feed>

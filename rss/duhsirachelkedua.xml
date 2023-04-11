@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@duhsirachelkedua</id>
+  <title>duhsirachelkedua TikTok</title>
+  <updated>2023-04-10T08:38:20+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss-flat/rss/duhsirachelkedua.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from duhsirachelkedua</subtitle>
+  <entry>
+    <id>https://tiktok.com/@duhsirachelkedua/video/7218972949729135898</id>
+    <title>No Title</title>
+    <updated>2023-04-06T16:22:14+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachelkedua/video/7218972949729135898" rel="alternate"/>
+    <published>2023-04-06T16:22:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachelkedua/video/7219157954765933851</id>
+    <title>No Title</title>
+    <updated>2023-04-07T04:20:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachelkedua/video/7219157954765933851" rel="alternate"/>
+    <published>2023-04-07T04:20:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachelkedua/video/7219254914848017690</id>
+    <title>repost</title>
+    <updated>2023-04-07T10:36:17+00:00</updated>
+    <content>repost</content>
+    <link href="https://tiktok.com/@duhsirachelkedua/video/7219254914848017690" rel="alternate"/>
+    <published>2023-04-07T10:36:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachelkedua/video/7219959663113030939</id>
+    <title>bali</title>
+    <updated>2023-04-09T08:11:08+00:00</updated>
+    <content>bali</content>
+    <link href="https://tiktok.com/@duhsirachelkedua/video/7219959663113030939" rel="alternate"/>
+    <published>2023-04-09T08:11:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachelkedua/video/7220337746093559066</id>
+    <title>No Title</title>
+    <updated>2023-04-10T08:38:20+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachelkedua/video/7220337746093559066" rel="alternate"/>
+    <published>2023-04-10T08:38:20+00:00</published>
+  </entry>
+</feed>
