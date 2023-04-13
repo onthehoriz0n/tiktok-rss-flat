@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@naddwie</id>
+  <title>naddwie TikTok</title>
+  <updated>2023-02-20T14:33:16+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss/rss/naddwie.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from naddwie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@naddwie/video/7199099451087047963</id>
+    <title>No Title</title>
+    <updated>2023-02-12T03:02:48+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@naddwie/video/7199099451087047963" rel="alternate"/>
+    <published>2023-02-12T03:02:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@naddwie/video/7202125032540130586</id>
+    <title>No Title</title>
+    <updated>2023-02-20T06:43:34+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@naddwie/video/7202125032540130586" rel="alternate"/>
+    <published>2023-02-20T06:43:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@naddwie/video/7202133131779001626</id>
+    <title>im spamming ig</title>
+    <updated>2023-02-20T07:15:02+00:00</updated>
+    <content>im spamming ig</content>
+    <link href="https://tiktok.com/@naddwie/video/7202133131779001626" rel="alternate"/>
+    <published>2023-02-20T07:15:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@naddwie/video/7202222928161721601</id>
+    <title>&lt;3 featuring hanni </title>
+    <updated>2023-02-20T13:03:27+00:00</updated>
+    <content>&lt;3 featuring hanni </content>
+    <link href="https://tiktok.com/@naddwie/video/7202222928161721601" rel="alternate"/>
+    <published>2023-02-20T13:03:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@naddwie/video/7202246073878891777</id>
+    <title>No Title</title>
+    <updated>2023-02-20T14:33:16+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@naddwie/video/7202246073878891777" rel="alternate"/>
+    <published>2023-02-20T14:33:16+00:00</published>
+  </entry>
+</feed>

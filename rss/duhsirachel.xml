@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@duhsirachel</id>
+  <title>duhsirachel TikTok</title>
+  <updated>2023-04-13T04:35:48+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss/rss/duhsirachel.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7220246874136071450</id>
+    <title>No Title</title>
+    <updated>2023-04-10T02:45:46+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7220246874136071450" rel="alternate"/>
+    <published>2023-04-10T02:45:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7220400083186027802</id>
+    <title>sedih</title>
+    <updated>2023-04-10T12:40:08+00:00</updated>
+    <content>sedih</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7220400083186027802" rel="alternate"/>
+    <published>2023-04-10T12:40:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7220413120970263834</id>
+    <title>lupa 60 detik</title>
+    <updated>2023-04-10T13:30:45+00:00</updated>
+    <content>lupa 60 detik</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7220413120970263834" rel="alternate"/>
+    <published>2023-04-10T13:30:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7220751879809027355</id>
+    <title>ya</title>
+    <updated>2023-04-11T11:25:15+00:00</updated>
+    <content>ya</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7220751879809027355" rel="alternate"/>
+    <published>2023-04-11T11:25:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7221388495552564507</id>
+    <title>draft</title>
+    <updated>2023-04-13T04:35:48+00:00</updated>
+    <content>draft</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7221388495552564507" rel="alternate"/>
+    <published>2023-04-13T04:35:48+00:00</published>
+  </entry>
+</feed>
