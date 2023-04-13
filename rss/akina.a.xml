@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-04-10T09:14:32+00:00</updated>
+  <updated>2023-04-12T06:07:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7203969192045890842</id>
-    <title>Versi anime wkkwkwkw</title>
-    <updated>2023-02-25T05:59:52+00:00</updated>
-    <content>Versi anime wkkwkwkw</content>
-    <link href="https://tiktok.com/@akina.a/video/7203969192045890842" rel="alternate"/>
-    <published>2023-02-25T05:59:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7208099457563495706</id>
     <title>Yang naik motor Honda mana suaranya?!🤭✋</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@akina.a/video/7220347081460944155" rel="alternate"/>
     <published>2023-04-10T09:14:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7221041010732764442</id>
+    <title>Sayang di draft</title>
+    <updated>2023-04-12T06:07:25+00:00</updated>
+    <content>Sayang di draft</content>
+    <link href="https://tiktok.com/@akina.a/video/7221041010732764442" rel="alternate"/>
+    <published>2023-04-12T06:07:25+00:00</published>
   </entry>
 </feed>

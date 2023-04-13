@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@jepangilang</id>
+  <title>jepangilang TikTok</title>
+  <updated>2023-04-11T13:15:48+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss/rss/jepangilang.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7217334005702692102</id>
+    <title>warpat</title>
+    <updated>2023-04-02T06:22:10+00:00</updated>
+    <content>warpat</content>
+    <link href="https://tiktok.com/@jepangilang/video/7217334005702692102" rel="alternate"/>
+    <published>2023-04-02T06:22:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7217899669517569286</id>
+    <title>No Title</title>
+    <updated>2023-04-03T18:57:09+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jepangilang/video/7217899669517569286" rel="alternate"/>
+    <published>2023-04-03T18:57:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7217902226201775365</id>
+    <title>No Title</title>
+    <updated>2023-04-03T19:07:06+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jepangilang/video/7217902226201775365" rel="alternate"/>
+    <published>2023-04-03T19:07:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7220071906232356123</id>
+    <title>ke cut🤙🏽</title>
+    <updated>2023-04-09T15:26:41+00:00</updated>
+    <content>ke cut🤙🏽</content>
+    <link href="https://tiktok.com/@jepangilang/video/7220071906232356123" rel="alternate"/>
+    <published>2023-04-09T15:26:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7220780363012967706</id>
+    <title>No Title</title>
+    <updated>2023-04-11T13:15:48+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jepangilang/video/7220780363012967706" rel="alternate"/>
+    <published>2023-04-11T13:15:48+00:00</published>
+  </entry>
+</feed>
