@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-04-11T09:21:10+00:00</updated>
+  <updated>2023-04-12T12:39:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7217857067304963355</id>
-    <title>Join </title>
-    <updated>2023-04-03T16:12:07+00:00</updated>
-    <content>Join </content>
-    <link href="https://tiktok.com/@eline.angeline/video/7217857067304963355" rel="alternate"/>
-    <published>2023-04-03T16:12:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7218573532773551386</id>
-    <title>No Title</title>
-    <updated>2023-04-05T14:32:12+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7218573532773551386" rel="alternate"/>
-    <published>2023-04-05T14:32:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7218981893553933595</id>
-    <title>Arti lagu ini apa ya</title>
-    <updated>2023-04-06T16:57:48+00:00</updated>
-    <content>Arti lagu ini apa ya</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7218981893553933595" rel="alternate"/>
-    <published>2023-04-06T16:57:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7220273510709529882</id>
     <title>No Title</title>
@@ -51,5 +27,29 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7220719875491220763" rel="alternate"/>
     <published>2023-04-11T09:21:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7220764015981514010</id>
+    <title>No Title</title>
+    <updated>2023-04-11T12:12:27+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7220764015981514010" rel="alternate"/>
+    <published>2023-04-11T12:12:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7220985316763553051</id>
+    <title>No Title</title>
+    <updated>2023-04-12T02:31:18+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7220985316763553051" rel="alternate"/>
+    <published>2023-04-12T02:31:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7221142082784611610</id>
+    <title>Yes🫠</title>
+    <updated>2023-04-12T12:39:25+00:00</updated>
+    <content>Yes🫠</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7221142082784611610" rel="alternate"/>
+    <published>2023-04-12T12:39:25+00:00</published>
   </entry>
 </feed>
