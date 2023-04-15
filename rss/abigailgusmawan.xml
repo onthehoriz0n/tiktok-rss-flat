@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-04-10T07:42:10+00:00</updated>
+  <updated>2023-04-13T10:41:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7217693419110518043</id>
-    <title>Tangkal pinus, bandung</title>
-    <updated>2023-04-03T05:37:01+00:00</updated>
-    <content>Tangkal pinus, bandung</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7217693419110518043" rel="alternate"/>
-    <published>2023-04-03T05:37:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7218522428337573147</id>
     <title>stengah ngarang</title>
@@ -51,5 +43,13 @@
     <content>why is this song so famousss</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7220323256920853786" rel="alternate"/>
     <published>2023-04-10T07:42:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7221482837487242522</id>
+    <title>freedom</title>
+    <updated>2023-04-13T10:41:48+00:00</updated>
+    <content>freedom</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7221482837487242522" rel="alternate"/>
+    <published>2023-04-13T10:41:48+00:00</published>
   </entry>
 </feed>
