@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@molotovbomb</id>
   <title>molotovbomb TikTok</title>
-  <updated>2023-04-08T08:33:30+00:00</updated>
+  <updated>2023-04-15T10:21:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from molotovbomb</subtitle>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7214441594991217946</id>
-    <title>night walk</title>
-    <updated>2023-03-25T11:18:10+00:00</updated>
-    <content>night walk</content>
-    <link href="https://tiktok.com/@molotovbomb/video/7214441594991217946" rel="alternate"/>
-    <published>2023-03-25T11:18:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@molotovbomb/video/7215199964027374875</id>
     <title>Replying to @ty☆ siapa suka onde onde 🤤 #history #chinesehistory #indonesia </title>
@@ -51,5 +43,13 @@
     <content>belajar (ril)</content>
     <link href="https://tiktok.com/@molotovbomb/video/7219594360579493122" rel="alternate"/>
     <published>2023-04-08T08:33:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@molotovbomb/video/7222219765291552002</id>
+    <title>pancasila 5 dasar sop kaki kambing terenak</title>
+    <updated>2023-04-15T10:21:26+00:00</updated>
+    <content>pancasila 5 dasar sop kaki kambing terenak</content>
+    <link href="https://tiktok.com/@molotovbomb/video/7222219765291552002" rel="alternate"/>
+    <published>2023-04-15T10:21:26+00:00</published>
   </entry>
 </feed>
