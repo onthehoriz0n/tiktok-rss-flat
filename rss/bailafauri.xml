@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@bailafauri</id>
+  <title>bailafauri TikTok</title>
+  <updated>2023-04-13T12:13:27+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://onthehoriz0n.github.io/tiktok-rss/rss/bailafauri.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7221015540062604570</id>
+    <title>no rizz</title>
+    <updated>2023-04-12T04:28:35+00:00</updated>
+    <content>no rizz</content>
+    <link href="https://tiktok.com/@bailafauri/video/7221015540062604570" rel="alternate"/>
+    <published>2023-04-12T04:28:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7221030819794603291</id>
+    <title>help</title>
+    <updated>2023-04-12T05:27:51+00:00</updated>
+    <content>help</content>
+    <link href="https://tiktok.com/@bailafauri/video/7221030819794603291" rel="alternate"/>
+    <published>2023-04-12T05:27:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7221146607406959898</id>
+    <title>hi hi hi &lt;33</title>
+    <updated>2023-04-12T12:56:58+00:00</updated>
+    <content>hi hi hi &lt;33</content>
+    <link href="https://tiktok.com/@bailafauri/video/7221146607406959898" rel="alternate"/>
+    <published>2023-04-12T12:56:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7221385873680583963</id>
+    <title>gm ily have a good day</title>
+    <updated>2023-04-13T04:25:36+00:00</updated>
+    <content>gm ily have a good day</content>
+    <link href="https://tiktok.com/@bailafauri/video/7221385873680583963" rel="alternate"/>
+    <published>2023-04-13T04:25:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7221506472566410523</id>
+    <title>First try </title>
+    <updated>2023-04-13T12:13:27+00:00</updated>
+    <content>First try </content>
+    <link href="https://tiktok.com/@bailafauri/video/7221506472566410523" rel="alternate"/>
+    <published>2023-04-13T12:13:27+00:00</published>
+  </entry>
+</feed>
