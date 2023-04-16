@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-04-11T16:10:50+00:00</updated>
+  <updated>2023-04-15T10:56:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7218857069988957466</id>
-    <title>sama dede2 hehehe</title>
-    <updated>2023-04-06T08:52:40+00:00</updated>
-    <content>sama dede2 hehehe</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7218857069988957466" rel="alternate"/>
-    <published>2023-04-06T08:52:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7219628241898769691</id>
-    <title>gangerti</title>
-    <updated>2023-04-08T10:44:59+00:00</updated>
-    <content>gangerti</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7219628241898769691" rel="alternate"/>
-    <published>2023-04-08T10:44:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7219631288326606107</id>
     <title>Jangan sampe bukber sama temen tapi kulit masih kusam! kalau mau dapetin kulit glowing pas mudik yuk datengin booth di rest area dengan cara datengin citra beauty bar di indomaret rest area kanci pejagan yaa tanggal 14-20 April! #GlowingBebasKusam</title>
@@ -51,5 +35,21 @@
     <content>apaa</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7220825448647789850" rel="alternate"/>
     <published>2023-04-11T16:10:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7221857375458741530</id>
+    <title>diajarin bang pior 5 menit jadi</title>
+    <updated>2023-04-14T10:55:09+00:00</updated>
+    <content>diajarin bang pior 5 menit jadi</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7221857375458741530" rel="alternate"/>
+    <published>2023-04-14T10:55:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7222228855753428250</id>
+    <title>do you love meee</title>
+    <updated>2023-04-15T10:56:47+00:00</updated>
+    <content>do you love meee</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7222228855753428250" rel="alternate"/>
+    <published>2023-04-15T10:56:47+00:00</published>
   </entry>
 </feed>
