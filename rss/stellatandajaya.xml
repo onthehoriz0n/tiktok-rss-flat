@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-04-17T17:09:53+00:00</updated>
+  <updated>2023-04-23T05:06:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7220022363268582682</id>
-    <title>🖤🤎</title>
-    <updated>2023-04-09T12:14:23+00:00</updated>
-    <content>🖤🤎</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7220022363268582682" rel="alternate"/>
-    <published>2023-04-09T12:14:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7220029489319841051</id>
-    <title>👋🏼</title>
-    <updated>2023-04-09T12:42:01+00:00</updated>
-    <content>👋🏼</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7220029489319841051" rel="alternate"/>
-    <published>2023-04-09T12:42:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7220290534378573082</id>
     <title>fits ✨🎧☁️⌨️💕</title>
@@ -51,5 +35,21 @@
     <content>🫣</content>
     <link href="https://tiktok.com/@stellatandajaya/video/7223067201895419163" rel="alternate"/>
     <published>2023-04-17T17:09:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7225105889441762586</id>
+    <title>✨</title>
+    <updated>2023-04-23T05:01:05+00:00</updated>
+    <content>✨</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7225105889441762586" rel="alternate"/>
+    <published>2023-04-23T05:01:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7225107274530868506</id>
+    <title>me? obssesed with u? </title>
+    <updated>2023-04-23T05:06:26+00:00</updated>
+    <content>me? obssesed with u? </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7225107274530868506" rel="alternate"/>
+    <published>2023-04-23T05:06:26+00:00</published>
   </entry>
 </feed>
