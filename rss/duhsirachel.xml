@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-04-15T02:51:11+00:00</updated>
+  <updated>2023-04-22T07:42:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7220751879809027355</id>
-    <title>ya</title>
-    <updated>2023-04-11T11:25:15+00:00</updated>
-    <content>ya</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7220751879809027355" rel="alternate"/>
-    <published>2023-04-11T11:25:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7221388495552564507</id>
-    <title>draft</title>
-    <updated>2023-04-13T04:35:48+00:00</updated>
-    <content>draft</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7221388495552564507" rel="alternate"/>
-    <published>2023-04-13T04:35:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7221545314799389979</id>
     <title>PLISS NYESEL KALIAN KALAU GAK BURUAN PAKE INIII😭🫶🏻 @Lucido-L Indonesia @Summer Kosmetik Surabaya #EasyPumpEasyGlow #LucidoLHairVitOilMini </title>
@@ -45,11 +29,27 @@
     <published>2023-04-14T05:21:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7222103681062292762</id>
-    <title>mencari pods hilang</title>
-    <updated>2023-04-15T02:51:11+00:00</updated>
-    <content>mencari pods hilang</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7222103681062292762" rel="alternate"/>
-    <published>2023-04-15T02:51:11+00:00</published>
+    <id>https://tiktok.com/@duhsirachel/video/7222927578489802010</id>
+    <title>ouch</title>
+    <updated>2023-04-17T08:08:07+00:00</updated>
+    <content>ouch</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7222927578489802010" rel="alternate"/>
+    <published>2023-04-17T08:08:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7223227532777131291</id>
+    <title>#CapCut 😶‍🌫️</title>
+    <updated>2023-04-18T03:32:03+00:00</updated>
+    <content>#CapCut 😶‍🌫️</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7223227532777131291" rel="alternate"/>
+    <published>2023-04-18T03:32:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7224776293894720794</id>
+    <title>#CapCut 🐶</title>
+    <updated>2023-04-22T07:42:01+00:00</updated>
+    <content>#CapCut 🐶</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7224776293894720794" rel="alternate"/>
+    <published>2023-04-22T07:42:01+00:00</published>
   </entry>
 </feed>
