@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-04-11T08:48:02+00:00</updated>
+  <updated>2023-04-25T13:08:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7215532502713322778</id>
-    <title>#lavojoy #enjouryourbathtime #5minsfrizzfreehairmask #hairsteammask #smoothing </title>
-    <updated>2023-03-28T09:51:28+00:00</updated>
-    <content>#lavojoy #enjouryourbathtime #5minsfrizzfreehairmask #hairsteammask #smoothing </content>
-    <link href="https://tiktok.com/@spillstinax/video/7215532502713322778" rel="alternate"/>
-    <published>2023-03-28T09:51:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7215834245644750107</id>
-    <title>pardon my socks..</title>
-    <updated>2023-03-29T05:22:30+00:00</updated>
-    <content>pardon my socks..</content>
-    <link href="https://tiktok.com/@spillstinax/video/7215834245644750107" rel="alternate"/>
-    <published>2023-03-29T05:22:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7217733657014947098</id>
-    <title>😉</title>
-    <updated>2023-04-03T08:13:18+00:00</updated>
-    <content>😉</content>
-    <link href="https://tiktok.com/@spillstinax/video/7217733657014947098" rel="alternate"/>
-    <published>2023-04-03T08:13:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7220228339028528411</id>
     <title>#cleansingbalm #makeupremover #10secondchallenge </title>
@@ -51,5 +27,29 @@
     <content>#volcanoclaystick #claymask #maskermukaviral </content>
     <link href="https://tiktok.com/@spillstinax/video/7220711351121956123" rel="alternate"/>
     <published>2023-04-11T08:48:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7221537517852462362</id>
+    <title>No Title</title>
+    <updated>2023-04-13T14:13:55+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@spillstinax/video/7221537517852462362" rel="alternate"/>
+    <published>2023-04-13T14:13:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7222206780565146907</id>
+    <title>#brighteningmoisturizer #tasyafarasyapproved #mshniacinamide </title>
+    <updated>2023-04-15T09:31:04+00:00</updated>
+    <content>#brighteningmoisturizer #tasyafarasyapproved #mshniacinamide </content>
+    <link href="https://tiktok.com/@spillstinax/video/7222206780565146907" rel="alternate"/>
+    <published>2023-04-15T09:31:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7225973629777988890</id>
+    <title>No Title</title>
+    <updated>2023-04-25T13:08:17+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@spillstinax/video/7225973629777988890" rel="alternate"/>
+    <published>2023-04-25T13:08:17+00:00</published>
   </entry>
 </feed>
