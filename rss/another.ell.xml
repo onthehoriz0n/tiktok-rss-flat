@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-04-13T05:21:12+00:00</updated>
+  <updated>2023-04-16T15:15:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7220076663495757083</id>
-    <title>buat yg belum nikah jg udah bisa🙈 #noeralighteningcream </title>
-    <updated>2023-04-09T15:45:05+00:00</updated>
-    <content>buat yg belum nikah jg udah bisa🙈 #noeralighteningcream </content>
-    <link href="https://tiktok.com/@another.ell/video/7220076663495757083" rel="alternate"/>
-    <published>2023-04-09T15:45:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7220373193649884442</id>
     <title>draft lg karna masih sick</title>
@@ -51,5 +43,13 @@
     <content>make him obsessed🥵</content>
     <link href="https://tiktok.com/@another.ell/video/7221400240782445829" rel="alternate"/>
     <published>2023-04-13T05:21:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7222666632059981062</id>
+    <title>dari jkt-mdo masih wangi🥲</title>
+    <updated>2023-04-16T15:15:26+00:00</updated>
+    <content>dari jkt-mdo masih wangi🥲</content>
+    <link href="https://tiktok.com/@another.ell/video/7222666632059981062" rel="alternate"/>
+    <published>2023-04-16T15:15:26+00:00</published>
   </entry>
 </feed>
