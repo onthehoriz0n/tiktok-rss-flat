@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-04-12T06:07:25+00:00</updated>
+  <updated>2023-04-25T11:19:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7208099457563495706</id>
-    <title>Yang naik motor Honda mana suaranya?!🤭✋</title>
-    <updated>2023-03-08T09:07:22+00:00</updated>
-    <content>Yang naik motor Honda mana suaranya?!🤭✋</content>
-    <link href="https://tiktok.com/@akina.a/video/7208099457563495706" rel="alternate"/>
-    <published>2023-03-08T09:07:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7209979884775492890</id>
-    <title>No Title</title>
-    <updated>2023-03-13T10:44:27+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7209979884775492890" rel="alternate"/>
-    <published>2023-03-13T10:44:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7209980046029753627</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>Sayang di draft</content>
     <link href="https://tiktok.com/@akina.a/video/7221041010732764442" rel="alternate"/>
     <published>2023-04-12T06:07:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7225945473050217755</id>
+    <title>No Title</title>
+    <updated>2023-04-25T11:19:00+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7225945473050217755" rel="alternate"/>
+    <published>2023-04-25T11:19:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7225945578444754203</id>
+    <title>No Title</title>
+    <updated>2023-04-25T11:19:26+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7225945578444754203" rel="alternate"/>
+    <published>2023-04-25T11:19:26+00:00</published>
   </entry>
 </feed>
