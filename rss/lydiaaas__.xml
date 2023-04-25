@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-04-20T13:12:02+00:00</updated>
+  <updated>2023-04-25T07:34:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7222652076378049818</id>
-    <title>hari yang melelahkan</title>
-    <updated>2023-04-16T14:19:00+00:00</updated>
-    <content>hari yang melelahkan</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7222652076378049818" rel="alternate"/>
-    <published>2023-04-16T14:19:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7223261358609927450</id>
-    <title>terbang ke atas</title>
-    <updated>2023-04-18T05:43:20+00:00</updated>
-    <content>terbang ke atas</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7223261358609927450" rel="alternate"/>
-    <published>2023-04-18T05:43:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7223631706773851419</id>
-    <title>ada apa dengan surabaya? @vonnyfelicia @sheyysze </title>
-    <updated>2023-04-19T05:40:37+00:00</updated>
-    <content>ada apa dengan surabaya? @vonnyfelicia @sheyysze </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7223631706773851419" rel="alternate"/>
-    <published>2023-04-19T05:40:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7224059453497265434</id>
     <title>oppaaaa</title>
@@ -51,5 +27,29 @@
     <content>makasih ya </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7224119163885784346" rel="alternate"/>
     <published>2023-04-20T13:12:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7225238148895345947</id>
+    <title>can i get a kiss</title>
+    <updated>2023-04-23T13:34:14+00:00</updated>
+    <content>can i get a kiss</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7225238148895345947" rel="alternate"/>
+    <published>2023-04-23T13:34:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7225640600282926362</id>
+    <title>pusing kepala </title>
+    <updated>2023-04-24T15:36:03+00:00</updated>
+    <content>pusing kepala </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7225640600282926362" rel="alternate"/>
+    <published>2023-04-24T15:36:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7225887533886868763</id>
+    <title>liat liatan </title>
+    <updated>2023-04-25T07:34:12+00:00</updated>
+    <content>liat liatan </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7225887533886868763" rel="alternate"/>
+    <published>2023-04-25T07:34:12+00:00</published>
   </entry>
 </feed>
