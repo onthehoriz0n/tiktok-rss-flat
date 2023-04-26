@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-04-22T16:15:59+00:00</updated>
+  <updated>2023-04-26T12:20:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7221586970554682650</id>
-    <title>hihi</title>
-    <updated>2023-04-13T17:25:54+00:00</updated>
-    <content>hihi</content>
-    <link href="https://tiktok.com/@jepangilang/video/7221586970554682650" rel="alternate"/>
-    <published>2023-04-13T17:25:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7224078531234483483</id>
     <title>🫶🏻</title>
@@ -51,5 +43,13 @@
     <content>ketinggalan</content>
     <link href="https://tiktok.com/@jepangilang/video/7224908750484819226" rel="alternate"/>
     <published>2023-04-22T16:15:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7226332469673331994</id>
+    <title>harley😍</title>
+    <updated>2023-04-26T12:20:46+00:00</updated>
+    <content>harley😍</content>
+    <link href="https://tiktok.com/@jepangilang/video/7226332469673331994" rel="alternate"/>
+    <published>2023-04-26T12:20:46+00:00</published>
   </entry>
 </feed>
