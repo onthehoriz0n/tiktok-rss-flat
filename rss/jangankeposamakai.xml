@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-04-23T04:23:24+00:00</updated>
+  <updated>2023-04-25T11:05:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7223220077473123611</id>
-    <title>#chainsawman #cupid #fyp #foryou #animecosplay #makimanurse </title>
-    <updated>2023-04-18T03:03:09+00:00</updated>
-    <content>#chainsawman #cupid #fyp #foryou #animecosplay #makimanurse </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7223220077473123611" rel="alternate"/>
-    <published>2023-04-18T03:03:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7223594075465764122</id>
-    <title>#flower #jisoo #flowerjisoo #fyp </title>
-    <updated>2023-04-19T03:14:36+00:00</updated>
-    <content>#flower #jisoo #flowerjisoo #fyp </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7223594075465764122" rel="alternate"/>
-    <published>2023-04-19T03:14:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7223991760052096283</id>
     <title>smashh #nicorobin #onepiece #nicorobincosplay #foryou </title>
@@ -51,5 +35,21 @@
     <content>#CapCut #onepiece #jj #nicorobin #nicorobincosplay #jadianime #anime #fypシ #abckreasikrezi </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7225096185109941531" rel="alternate"/>
     <published>2023-04-23T04:23:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7225299962966330650</id>
+    <title>#fyp #foryourpage #mommy </title>
+    <updated>2023-04-23T17:34:05+00:00</updated>
+    <content>#fyp #foryourpage #mommy </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7225299962966330650" rel="alternate"/>
+    <published>2023-04-23T17:34:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7225941892511386906</id>
+    <title>hehe #fypage </title>
+    <updated>2023-04-25T11:05:09+00:00</updated>
+    <content>hehe #fypage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7225941892511386906" rel="alternate"/>
+    <published>2023-04-25T11:05:09+00:00</published>
   </entry>
 </feed>
