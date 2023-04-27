@@ -13,6 +13,14 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
   <entry>
+    <id>https://tiktok.com/@akina.a/video/7209979884775492890</id>
+    <title>No Title</title>
+    <updated>2023-03-13T10:44:27+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7209979884775492890" rel="alternate"/>
+    <published>2023-03-13T10:44:27+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@akina.a/video/7209980046029753627</id>
     <title>No Title</title>
     <updated>2023-03-13T10:45:24+00:00</updated>
@@ -35,14 +43,6 @@
     <content>Sayang di draft</content>
     <link href="https://tiktok.com/@akina.a/video/7221041010732764442" rel="alternate"/>
     <published>2023-04-12T06:07:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7225945473050217755</id>
-    <title>No Title</title>
-    <updated>2023-04-25T11:19:00+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7225945473050217755" rel="alternate"/>
-    <published>2023-04-25T11:19:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7225945578444754203</id>
