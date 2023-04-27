@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-04-25T13:08:17+00:00</updated>
+  <updated>2023-04-26T07:47:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7220228339028528411</id>
-    <title>#cleansingbalm #makeupremover #10secondchallenge </title>
-    <updated>2023-04-10T01:33:52+00:00</updated>
-    <content>#cleansingbalm #makeupremover #10secondchallenge </content>
-    <link href="https://tiktok.com/@spillstinax/video/7220228339028528411" rel="alternate"/>
-    <published>2023-04-10T01:33:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7220711351121956123</id>
     <title>#volcanoclaystick #claymask #maskermukaviral </title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@spillstinax/video/7225973629777988890" rel="alternate"/>
     <published>2023-04-25T13:08:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7226262035925880090</id>
+    <title>#brighteningserum #niacinamide #darkspottreatment #niacinamideserum #OlsaSüperOlur </title>
+    <updated>2023-04-26T07:47:30+00:00</updated>
+    <content>#brighteningserum #niacinamide #darkspottreatment #niacinamideserum #OlsaSüperOlur </content>
+    <link href="https://tiktok.com/@spillstinax/video/7226262035925880090" rel="alternate"/>
+    <published>2023-04-26T07:47:30+00:00</published>
   </entry>
 </feed>
