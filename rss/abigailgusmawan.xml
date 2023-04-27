@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-04-21T03:45:25+00:00</updated>
+  <updated>2023-04-27T14:09:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7219551219537235227</id>
-    <title>akwkakwkakwka</title>
-    <updated>2023-04-08T05:46:11+00:00</updated>
-    <content>akwkakwkakwka</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7219551219537235227" rel="alternate"/>
-    <published>2023-04-08T05:46:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7220323256920853786</id>
     <title>why is this song so famousss</title>
@@ -51,5 +43,13 @@
     <content>Curcol time w/ @LABORE  #LaboreSensitiveSkinExpert #Labore </content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7224344165163814170" rel="alternate"/>
     <published>2023-04-21T03:45:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7226731619565063450</id>
+    <title>any good hair day izza good day</title>
+    <updated>2023-04-27T14:09:41+00:00</updated>
+    <content>any good hair day izza good day</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7226731619565063450" rel="alternate"/>
+    <published>2023-04-27T14:09:41+00:00</published>
   </entry>
 </feed>
