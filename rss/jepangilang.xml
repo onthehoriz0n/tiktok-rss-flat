@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-04-26T12:20:46+00:00</updated>
+  <updated>2023-04-27T08:14:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7224078531234483483</id>
-    <title>🫶🏻</title>
-    <updated>2023-04-20T10:34:22+00:00</updated>
-    <content>🫶🏻</content>
-    <link href="https://tiktok.com/@jepangilang/video/7224078531234483483" rel="alternate"/>
-    <published>2023-04-20T10:34:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7224603819924016410</id>
-    <title>6929</title>
-    <updated>2023-04-21T20:32:45+00:00</updated>
-    <content>6929</content>
-    <link href="https://tiktok.com/@jepangilang/video/7224603819924016410" rel="alternate"/>
-    <published>2023-04-21T20:32:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7224762129281338651</id>
-    <title>raya transition😚</title>
-    <updated>2023-04-22T06:47:03+00:00</updated>
-    <content>raya transition😚</content>
-    <link href="https://tiktok.com/@jepangilang/video/7224762129281338651" rel="alternate"/>
-    <published>2023-04-22T06:47:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7224908750484819226</id>
     <title>ketinggalan</title>
@@ -51,5 +27,29 @@
     <content>harley😍</content>
     <link href="https://tiktok.com/@jepangilang/video/7226332469673331994" rel="alternate"/>
     <published>2023-04-26T12:20:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7226601494659796251</id>
+    <title>mlh bikin kulit gue kuning😭🤏🏻</title>
+    <updated>2023-04-27T05:44:57+00:00</updated>
+    <content>mlh bikin kulit gue kuning😭🤏🏻</content>
+    <link href="https://tiktok.com/@jepangilang/video/7226601494659796251" rel="alternate"/>
+    <published>2023-04-27T05:44:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7226639716441984283</id>
+    <title>No Title</title>
+    <updated>2023-04-27T08:13:06+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jepangilang/video/7226639716441984283" rel="alternate"/>
+    <published>2023-04-27T08:13:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7226640081325477147</id>
+    <title>:3</title>
+    <updated>2023-04-27T08:14:29+00:00</updated>
+    <content>:3</content>
+    <link href="https://tiktok.com/@jepangilang/video/7226640081325477147" rel="alternate"/>
+    <published>2023-04-27T08:14:29+00:00</published>
   </entry>
 </feed>
