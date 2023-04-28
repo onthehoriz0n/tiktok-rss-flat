@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-04-27T13:32:52+00:00</updated>
+  <updated>2023-04-28T03:44:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7226523301097557274</id>
-    <title>morn morn</title>
-    <updated>2023-04-27T00:41:34+00:00</updated>
-    <content>morn morn</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7226523301097557274" rel="alternate"/>
-    <published>2023-04-27T00:41:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7226633070651247899</id>
-    <title>No Title</title>
-    <updated>2023-04-27T07:47:21+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7226633070651247899" rel="alternate"/>
-    <published>2023-04-27T07:47:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7226633794122419482</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7226722124810030362" rel="alternate"/>
     <published>2023-04-27T13:32:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7226730149818027291</id>
+    <title>#StopMotion NANANANANANA</title>
+    <updated>2023-04-27T14:03:58+00:00</updated>
+    <content>#StopMotion NANANANANANA</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7226730149818027291" rel="alternate"/>
+    <published>2023-04-27T14:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7226941464339647770</id>
+    <title>done yaaa!! #adayinmylife </title>
+    <updated>2023-04-28T03:44:12+00:00</updated>
+    <content>done yaaa!! #adayinmylife </content>
+    <link href="https://tiktok.com/@duhsirachel/video/7226941464339647770" rel="alternate"/>
+    <published>2023-04-28T03:44:12+00:00</published>
   </entry>
 </feed>
