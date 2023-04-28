@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-04-28T03:44:12+00:00</updated>
+  <updated>2023-04-28T08:30:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7226633794122419482</id>
-    <title>No Title</title>
-    <updated>2023-04-27T07:50:06+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7226633794122419482" rel="alternate"/>
-    <published>2023-04-27T07:50:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7226652471807200539</id>
-    <title>abangz</title>
-    <updated>2023-04-27T09:02:34+00:00</updated>
-    <content>abangz</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7226652471807200539" rel="alternate"/>
-    <published>2023-04-27T09:02:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7226722124810030362</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>done yaaa!! #adayinmylife </content>
     <link href="https://tiktok.com/@duhsirachel/video/7226941464339647770" rel="alternate"/>
     <published>2023-04-28T03:44:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7227003883120233755</id>
+    <title>No Title</title>
+    <updated>2023-04-28T07:46:15+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7227003883120233755" rel="alternate"/>
+    <published>2023-04-28T07:46:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7227015171867249946</id>
+    <title>aku gatau ini udah botol ke berapaa😭❤️</title>
+    <updated>2023-04-28T08:30:09+00:00</updated>
+    <content>aku gatau ini udah botol ke berapaa😭❤️</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7227015171867249946" rel="alternate"/>
+    <published>2023-04-28T08:30:09+00:00</published>
   </entry>
 </feed>
