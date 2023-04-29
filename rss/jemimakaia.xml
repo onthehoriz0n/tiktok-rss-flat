@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-04-17T15:48:49+00:00</updated>
+  <updated>2023-04-28T10:49:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7215989192415874331</id>
-    <title>versi pendek coz idk where my good pics went 🤷🏻‍♀️</title>
-    <updated>2023-03-29T15:23:40+00:00</updated>
-    <content>versi pendek coz idk where my good pics went 🤷🏻‍♀️</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7215989192415874331" rel="alternate"/>
-    <published>2023-03-29T15:23:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7219136905537965339</id>
-    <title>pokoknya dulu muka ga pernah kliatan full 100%😂😭</title>
-    <updated>2023-04-07T02:58:29+00:00</updated>
-    <content>pokoknya dulu muka ga pernah kliatan full 100%😂😭</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7219136905537965339" rel="alternate"/>
-    <published>2023-04-07T02:58:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7220308769706609946</id>
     <title>i miss the vibes</title>
@@ -51,5 +35,21 @@
     <content>amin aja 🙏 </content>
     <link href="https://tiktok.com/@jemimakaia/video/7223046306153991450" rel="alternate"/>
     <published>2023-04-17T15:48:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7227045407560453403</id>
+    <title>pusing bikinnya</title>
+    <updated>2023-04-28T10:27:25+00:00</updated>
+    <content>pusing bikinnya</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7227045407560453403" rel="alternate"/>
+    <published>2023-04-28T10:27:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7227051188775095579</id>
+    <title>THE TAN IS SO PRETTY</title>
+    <updated>2023-04-28T10:49:52+00:00</updated>
+    <content>THE TAN IS SO PRETTY</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7227051188775095579" rel="alternate"/>
+    <published>2023-04-28T10:49:52+00:00</published>
   </entry>
 </feed>

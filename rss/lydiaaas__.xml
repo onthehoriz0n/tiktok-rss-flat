@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-04-27T11:01:42+00:00</updated>
+  <updated>2023-04-29T06:46:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7224119163885784346</id>
-    <title>makasih ya </title>
-    <updated>2023-04-20T13:12:02+00:00</updated>
-    <content>makasih ya </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7224119163885784346" rel="alternate"/>
-    <published>2023-04-20T13:12:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7225238148895345947</id>
     <title>can i get a kiss</title>
@@ -51,5 +43,13 @@
     <content>lydia pirang</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7226683185067724059" rel="alternate"/>
     <published>2023-04-27T11:01:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7227359533650169115</id>
+    <title>draft saat lydia gabut  bersama leka </title>
+    <updated>2023-04-29T06:46:20+00:00</updated>
+    <content>draft saat lydia gabut  bersama leka </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7227359533650169115" rel="alternate"/>
+    <published>2023-04-29T06:46:20+00:00</published>
   </entry>
 </feed>
