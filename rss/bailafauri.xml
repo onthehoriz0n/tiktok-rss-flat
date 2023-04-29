@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-04-27T06:57:36+00:00</updated>
+  <updated>2023-04-29T10:42:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7221146607406959898</id>
-    <title>hi hi hi &lt;33</title>
-    <updated>2023-04-12T12:56:58+00:00</updated>
-    <content>hi hi hi &lt;33</content>
-    <link href="https://tiktok.com/@bailafauri/video/7221146607406959898" rel="alternate"/>
-    <published>2023-04-12T12:56:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7221385873680583963</id>
     <title>gm ily have a good day</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@bailafauri/video/7226620258440793371" rel="alternate"/>
     <published>2023-04-27T06:57:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7227420459577527579</id>
+    <title>back in my lover era</title>
+    <updated>2023-04-29T10:42:48+00:00</updated>
+    <content>back in my lover era</content>
+    <link href="https://tiktok.com/@bailafauri/video/7227420459577527579" rel="alternate"/>
+    <published>2023-04-29T10:42:48+00:00</published>
   </entry>
 </feed>
