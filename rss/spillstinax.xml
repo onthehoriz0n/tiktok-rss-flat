@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-04-26T07:47:30+00:00</updated>
+  <updated>2023-05-01T06:35:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7220711351121956123</id>
-    <title>#volcanoclaystick #claymask #maskermukaviral </title>
-    <updated>2023-04-11T08:48:02+00:00</updated>
-    <content>#volcanoclaystick #claymask #maskermukaviral </content>
-    <link href="https://tiktok.com/@spillstinax/video/7220711351121956123" rel="alternate"/>
-    <published>2023-04-11T08:48:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7221537517852462362</id>
-    <title>No Title</title>
-    <updated>2023-04-13T14:13:55+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@spillstinax/video/7221537517852462362" rel="alternate"/>
-    <published>2023-04-13T14:13:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7222206780565146907</id>
     <title>#brighteningmoisturizer #tasyafarasyapproved #mshniacinamide </title>
@@ -51,5 +35,21 @@
     <content>#brighteningserum #niacinamide #darkspottreatment #niacinamideserum #OlsaSüperOlur </content>
     <link href="https://tiktok.com/@spillstinax/video/7226262035925880090" rel="alternate"/>
     <published>2023-04-26T07:47:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7227401846778842395</id>
+    <title>#5xceramide #brighteningmoisturizer #acnetreatment #darkspottreatment </title>
+    <updated>2023-04-29T09:30:34+00:00</updated>
+    <content>#5xceramide #brighteningmoisturizer #acnetreatment #darkspottreatment </content>
+    <link href="https://tiktok.com/@spillstinax/video/7227401846778842395" rel="alternate"/>
+    <published>2023-04-29T09:30:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7228098855089360155</id>
+    <title>#darkspottreatment #377symwhite </title>
+    <updated>2023-05-01T06:35:23+00:00</updated>
+    <content>#darkspottreatment #377symwhite </content>
+    <link href="https://tiktok.com/@spillstinax/video/7228098855089360155" rel="alternate"/>
+    <published>2023-05-01T06:35:23+00:00</published>
   </entry>
 </feed>
