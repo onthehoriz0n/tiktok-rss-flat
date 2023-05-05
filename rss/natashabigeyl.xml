@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-04-21T15:39:21+00:00</updated>
+  <updated>2023-05-03T15:34:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7222207088590703899</id>
-    <title>kata iben, “gajelas” HAHAH🙂</title>
-    <updated>2023-04-15T09:32:16+00:00</updated>
-    <content>kata iben, “gajelas” HAHAH🙂</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7222207088590703899" rel="alternate"/>
-    <published>2023-04-15T09:32:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7222617384333430043</id>
-    <title>Replying to @user7969284105029  Jujur deh, kalian udh bolong berapa hari?!  Anyway kalo mau bukber bareng, bisa pesen pake GrabFood Group Order yaah! Ada diskon s/d 250rb, mayan BGT #MakanBarengGrabFood #GrabFoodJakarta</title>
-    <updated>2023-04-16T12:04:23+00:00</updated>
-    <content>Replying to @user7969284105029  Jujur deh, kalian udh bolong berapa hari?!  Anyway kalo mau bukber bareng, bisa pesen pake GrabFood Group Order yaah! Ada diskon s/d 250rb, mayan BGT #MakanBarengGrabFood #GrabFoodJakarta</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7222617384333430043" rel="alternate"/>
-    <published>2023-04-16T12:04:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7223319508453248283</id>
-    <title>Puasa tuh sisa 3 hari lagi yaaa? Kalian pada bukber sama siapa nih?❤️ #Glowithin #SeaThruTheBeauty #OaseaLaboratories </title>
-    <updated>2023-04-18T09:28:58+00:00</updated>
-    <content>Puasa tuh sisa 3 hari lagi yaaa? Kalian pada bukber sama siapa nih?❤️ #Glowithin #SeaThruTheBeauty #OaseaLaboratories </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7223319508453248283" rel="alternate"/>
-    <published>2023-04-18T09:28:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7223642277535681819</id>
     <title>KALIAN LEBARAN PADA KEMANAAAA? #MakeOverBeautyBeyondCompare </title>
@@ -51,5 +27,29 @@
     <content>Replying to @elmiawilda255 HEHE TELAT BGT, PLIS BANTUIN GUE PILIH. YAA. YG MANA NIHH?</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7224528223487462682" rel="alternate"/>
     <published>2023-04-21T15:39:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7228486239547051291</id>
+    <title>Daerah kalian panas gini juga gaksih??🥲 #glad2glow </title>
+    <updated>2023-05-02T07:38:43+00:00</updated>
+    <content>Daerah kalian panas gini juga gaksih??🥲 #glad2glow </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7228486239547051291" rel="alternate"/>
+    <published>2023-05-02T07:38:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7228900870484774170</id>
+    <title>Ada yang ADHD juga gaksih di sini?? plis cerita dong kalo stress biasanya ngapaainnn😭 #adhd #creambathkeratin #creambathphbalanced #haircare </title>
+    <updated>2023-05-03T10:27:35+00:00</updated>
+    <content>Ada yang ADHD juga gaksih di sini?? plis cerita dong kalo stress biasanya ngapaainnn😭 #adhd #creambathkeratin #creambathphbalanced #haircare </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7228900870484774170" rel="alternate"/>
+    <published>2023-05-03T10:27:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7228980011078847770</id>
+    <title>Pengen bgt wedding makeup gue se-flawless Sofia??😭🫶🏼</title>
+    <updated>2023-05-03T15:34:39+00:00</updated>
+    <content>Pengen bgt wedding makeup gue se-flawless Sofia??😭🫶🏼</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7228980011078847770" rel="alternate"/>
+    <published>2023-05-03T15:34:39+00:00</published>
   </entry>
 </feed>
