@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-04-27T08:14:29+00:00</updated>
+  <updated>2023-05-05T10:37:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7224908750484819226</id>
-    <title>ketinggalan</title>
-    <updated>2023-04-22T16:15:59+00:00</updated>
-    <content>ketinggalan</content>
-    <link href="https://tiktok.com/@jepangilang/video/7224908750484819226" rel="alternate"/>
-    <published>2023-04-22T16:15:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7226332469673331994</id>
-    <title>harley😍</title>
-    <updated>2023-04-26T12:20:46+00:00</updated>
-    <content>harley😍</content>
-    <link href="https://tiktok.com/@jepangilang/video/7226332469673331994" rel="alternate"/>
-    <published>2023-04-26T12:20:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7226601494659796251</id>
     <title>mlh bikin kulit gue kuning😭🤏🏻</title>
@@ -51,5 +35,21 @@
     <content>:3</content>
     <link href="https://tiktok.com/@jepangilang/video/7226640081325477147" rel="alternate"/>
     <published>2023-04-27T08:14:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7228237918366747930</id>
+    <title>@dosy  @(ง'̀-'́)ง </title>
+    <updated>2023-05-01T15:34:59+00:00</updated>
+    <content>@dosy  @(ง'̀-'́)ง </content>
+    <link href="https://tiktok.com/@jepangilang/video/7228237918366747930" rel="alternate"/>
+    <published>2023-05-01T15:34:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7229645608112393499</id>
+    <title>kmn ya kita </title>
+    <updated>2023-05-05T10:37:27+00:00</updated>
+    <content>kmn ya kita </content>
+    <link href="https://tiktok.com/@jepangilang/video/7229645608112393499" rel="alternate"/>
+    <published>2023-05-05T10:37:27+00:00</published>
   </entry>
 </feed>
