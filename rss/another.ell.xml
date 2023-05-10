@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-04-16T15:15:26+00:00</updated>
+  <updated>2023-05-10T01:16:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7220373193649884442</id>
-    <title>draft lg karna masih sick</title>
-    <updated>2023-04-10T10:55:51+00:00</updated>
-    <content>draft lg karna masih sick</content>
-    <link href="https://tiktok.com/@another.ell/video/7220373193649884442" rel="alternate"/>
-    <published>2023-04-10T10:55:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7220446380093984027</id>
-    <title>masih tema pink</title>
-    <updated>2023-04-10T15:39:52+00:00</updated>
-    <content>masih tema pink</content>
-    <link href="https://tiktok.com/@another.ell/video/7220446380093984027" rel="alternate"/>
-    <published>2023-04-10T15:39:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7220558816830688539</id>
     <title>love bgt ss ini🥹🫶🏻 #noerasunscreen #noerabyreisha </title>
@@ -51,5 +35,21 @@
     <content>dari jkt-mdo masih wangi🥲</content>
     <link href="https://tiktok.com/@another.ell/video/7222666632059981062" rel="alternate"/>
     <published>2023-04-16T15:15:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7228998022674402587</id>
+    <title>mix</title>
+    <updated>2023-05-03T16:44:33+00:00</updated>
+    <content>mix</content>
+    <link href="https://tiktok.com/@another.ell/video/7228998022674402587" rel="alternate"/>
+    <published>2023-05-03T16:44:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7231356421432986906</id>
+    <title>tas buat daily🤍 #guess </title>
+    <updated>2023-05-10T01:16:28+00:00</updated>
+    <content>tas buat daily🤍 #guess </content>
+    <link href="https://tiktok.com/@another.ell/video/7231356421432986906" rel="alternate"/>
+    <published>2023-05-10T01:16:28+00:00</published>
   </entry>
 </feed>
