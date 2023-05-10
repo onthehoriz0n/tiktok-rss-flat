@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-05-01T06:35:23+00:00</updated>
+  <updated>2023-05-03T03:32:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -19,14 +19,6 @@
     <content>#brighteningmoisturizer #tasyafarasyapproved #mshniacinamide </content>
     <link href="https://tiktok.com/@spillstinax/video/7222206780565146907" rel="alternate"/>
     <published>2023-04-15T09:31:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7225973629777988890</id>
-    <title>No Title</title>
-    <updated>2023-04-25T13:08:17+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@spillstinax/video/7225973629777988890" rel="alternate"/>
-    <published>2023-04-25T13:08:17+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7226262035925880090</id>
@@ -51,5 +43,13 @@
     <content>#darkspottreatment #377symwhite </content>
     <link href="https://tiktok.com/@spillstinax/video/7228098855089360155" rel="alternate"/>
     <published>2023-05-01T06:35:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7228793949316566299</id>
+    <title>#5xceramide #sunscreen #nosticky #nowhitecastsunscreen </title>
+    <updated>2023-05-03T03:32:52+00:00</updated>
+    <content>#5xceramide #sunscreen #nosticky #nowhitecastsunscreen </content>
+    <link href="https://tiktok.com/@spillstinax/video/7228793949316566299" rel="alternate"/>
+    <published>2023-05-03T03:32:52+00:00</published>
   </entry>
 </feed>
