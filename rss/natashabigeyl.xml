@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-05-06T18:21:14+00:00</updated>
+  <updated>2023-05-09T11:00:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7228900870484774170</id>
-    <title>Ada yang ADHD juga gaksih di sini?? plis cerita dong kalo stress biasanya ngapaainnn😭 #adhd #creambathkeratin #creambathphbalanced #haircare </title>
-    <updated>2023-05-03T10:27:35+00:00</updated>
-    <content>Ada yang ADHD juga gaksih di sini?? plis cerita dong kalo stress biasanya ngapaainnn😭 #adhd #creambathkeratin #creambathphbalanced #haircare </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7228900870484774170" rel="alternate"/>
-    <published>2023-05-03T10:27:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7228980011078847770</id>
-    <title>Pengen bgt wedding makeup gue se-flawless Sofia??😭🫶🏼</title>
-    <updated>2023-05-03T15:34:39+00:00</updated>
-    <content>Pengen bgt wedding makeup gue se-flawless Sofia??😭🫶🏼</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7228980011078847770" rel="alternate"/>
-    <published>2023-05-03T15:34:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7229697369015618843</id>
-    <title>hehe anaknya suka beli barang, baru pake 1x terus lupa🙂 Ada yg suka gini juga?!</title>
-    <updated>2023-05-05T13:58:17+00:00</updated>
-    <content>hehe anaknya suka beli barang, baru pake 1x terus lupa🙂 Ada yg suka gini juga?!</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7229697369015618843" rel="alternate"/>
-    <published>2023-05-05T13:58:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7229783645551119642</id>
     <title>Udah pada cobain belom?!</title>
@@ -51,5 +27,29 @@
     <content>NEXTNYA BUKA DIMANA LAGI NIH? @Iben M.A. </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7230136210302192923" rel="alternate"/>
     <published>2023-05-06T18:21:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7230859232067865882</id>
+    <title>Favorit kalian yang mana?!</title>
+    <updated>2023-05-08T17:07:04+00:00</updated>
+    <content>Favorit kalian yang mana?!</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7230859232067865882" rel="alternate"/>
+    <published>2023-05-08T17:07:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7231098303545347355</id>
+    <title>Untuk harganya, ini worth it bgt!! #DermiesMax #Brighteningtreatment @Dermies Max </title>
+    <updated>2023-05-09T08:34:38+00:00</updated>
+    <content>Untuk harganya, ini worth it bgt!! #DermiesMax #Brighteningtreatment @Dermies Max </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7231098303545347355" rel="alternate"/>
+    <published>2023-05-09T08:34:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7231135862212300059</id>
+    <title>Natasha in her leather pants era🖤</title>
+    <updated>2023-05-09T11:00:21+00:00</updated>
+    <content>Natasha in her leather pants era🖤</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7231135862212300059" rel="alternate"/>
+    <published>2023-05-09T11:00:21+00:00</published>
   </entry>
 </feed>

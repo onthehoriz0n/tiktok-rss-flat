@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-05-08T07:18:44+00:00</updated>
+  <updated>2023-05-10T07:11:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7226731619565063450</id>
-    <title>any good hair day izza good day</title>
-    <updated>2023-04-27T14:09:41+00:00</updated>
-    <content>any good hair day izza good day</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7226731619565063450" rel="alternate"/>
-    <published>2023-04-27T14:09:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7227764206831979803</id>
-    <title>Little ms.runaway</title>
-    <updated>2023-04-30T08:56:43+00:00</updated>
-    <content>Little ms.runaway</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7227764206831979803" rel="alternate"/>
-    <published>2023-04-30T08:56:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7228824477948300571</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>&lt;3#RoadTrip #CarsOnTheRoad </content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7230707629507628314" rel="alternate"/>
     <published>2023-05-08T07:18:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7231092226506427675</id>
+    <title>otak be like: stop ga</title>
+    <updated>2023-05-09T08:11:04+00:00</updated>
+    <content>otak be like: stop ga</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7231092226506427675" rel="alternate"/>
+    <published>2023-05-09T08:11:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7231447991641476378</id>
+    <title>No Title</title>
+    <updated>2023-05-10T07:11:41+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7231447991641476378" rel="alternate"/>
+    <published>2023-05-10T07:11:41+00:00</published>
   </entry>
 </feed>

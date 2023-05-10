@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-04-29T10:42:48+00:00</updated>
+  <updated>2023-05-10T03:16:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7221385873680583963</id>
-    <title>gm ily have a good day</title>
-    <updated>2023-04-13T04:25:36+00:00</updated>
-    <content>gm ily have a good day</content>
-    <link href="https://tiktok.com/@bailafauri/video/7221385873680583963" rel="alternate"/>
-    <published>2023-04-13T04:25:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7221506472566410523</id>
-    <title>First try </title>
-    <updated>2023-04-13T12:13:27+00:00</updated>
-    <content>First try </content>
-    <link href="https://tiktok.com/@bailafauri/video/7221506472566410523" rel="alternate"/>
-    <published>2023-04-13T12:13:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7225591558173642011</id>
-    <title>i’m back</title>
-    <updated>2023-04-24T12:25:39+00:00</updated>
-    <content>i’m back</content>
-    <link href="https://tiktok.com/@bailafauri/video/7225591558173642011" rel="alternate"/>
-    <published>2023-04-24T12:25:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7226620258440793371</id>
     <title>No Title</title>
@@ -51,5 +27,29 @@
     <content>back in my lover era</content>
     <link href="https://tiktok.com/@bailafauri/video/7227420459577527579" rel="alternate"/>
     <published>2023-04-29T10:42:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7229225586269424923</id>
+    <title>&lt;3</title>
+    <updated>2023-05-04T07:27:38+00:00</updated>
+    <content>&lt;3</content>
+    <link href="https://tiktok.com/@bailafauri/video/7229225586269424923" rel="alternate"/>
+    <published>2023-05-04T07:27:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7231109222560320795</id>
+    <title>stuck in bed so i’m clearing up my drafts. 2020 baila 😭</title>
+    <updated>2023-05-09T09:17:00+00:00</updated>
+    <content>stuck in bed so i’m clearing up my drafts. 2020 baila 😭</content>
+    <link href="https://tiktok.com/@bailafauri/video/7231109222560320795" rel="alternate"/>
+    <published>2023-05-09T09:17:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7231387347193974042</id>
+    <title>i cant wait to see her lord</title>
+    <updated>2023-05-10T03:16:28+00:00</updated>
+    <content>i cant wait to see her lord</content>
+    <link href="https://tiktok.com/@bailafauri/video/7231387347193974042" rel="alternate"/>
+    <published>2023-05-10T03:16:28+00:00</published>
   </entry>
 </feed>
