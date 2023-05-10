@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-05-05T10:37:27+00:00</updated>
+  <updated>2023-05-09T13:07:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7226601494659796251</id>
-    <title>mlh bikin kulit gue kuning😭🤏🏻</title>
-    <updated>2023-04-27T05:44:57+00:00</updated>
-    <content>mlh bikin kulit gue kuning😭🤏🏻</content>
-    <link href="https://tiktok.com/@jepangilang/video/7226601494659796251" rel="alternate"/>
-    <published>2023-04-27T05:44:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7226639716441984283</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>kmn ya kita </content>
     <link href="https://tiktok.com/@jepangilang/video/7229645608112393499" rel="alternate"/>
     <published>2023-05-05T10:37:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7231168590425132314</id>
+    <title>😘</title>
+    <updated>2023-05-09T13:07:22+00:00</updated>
+    <content>😘</content>
+    <link href="https://tiktok.com/@jepangilang/video/7231168590425132314" rel="alternate"/>
+    <published>2023-05-09T13:07:22+00:00</published>
   </entry>
 </feed>
