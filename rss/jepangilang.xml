@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-05-09T13:07:22+00:00</updated>
+  <updated>2023-05-14T11:14:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
   <entry>
-    <id>https://tiktok.com/@jepangilang/video/7226639716441984283</id>
+    <id>https://tiktok.com/@jepangilang/video/7232281433874648346</id>
+    <title>sumn</title>
+    <updated>2023-05-12T13:05:49+00:00</updated>
+    <content>sumn</content>
+    <link href="https://tiktok.com/@jepangilang/video/7232281433874648346" rel="alternate"/>
+    <published>2023-05-12T13:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7232292469897989402</id>
     <title>No Title</title>
-    <updated>2023-04-27T08:13:06+00:00</updated>
+    <updated>2023-05-12T13:48:40+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@jepangilang/video/7226639716441984283" rel="alternate"/>
-    <published>2023-04-27T08:13:06+00:00</published>
+    <link href="https://tiktok.com/@jepangilang/video/7232292469897989402" rel="alternate"/>
+    <published>2023-05-12T13:48:40+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jepangilang/video/7226640081325477147</id>
-    <title>:3</title>
-    <updated>2023-04-27T08:14:29+00:00</updated>
-    <content>:3</content>
-    <link href="https://tiktok.com/@jepangilang/video/7226640081325477147" rel="alternate"/>
-    <published>2023-04-27T08:14:29+00:00</published>
+    <id>https://tiktok.com/@jepangilang/video/7232303335934577946</id>
+    <title>No Title</title>
+    <updated>2023-05-12T14:30:50+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jepangilang/video/7232303335934577946" rel="alternate"/>
+    <published>2023-05-12T14:30:50+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jepangilang/video/7228237918366747930</id>
-    <title>@dosy  @(ง'̀-'́)ง </title>
-    <updated>2023-05-01T15:34:59+00:00</updated>
-    <content>@dosy  @(ง'̀-'́)ง </content>
-    <link href="https://tiktok.com/@jepangilang/video/7228237918366747930" rel="alternate"/>
-    <published>2023-05-01T15:34:59+00:00</published>
+    <id>https://tiktok.com/@jepangilang/video/7232382203844480283</id>
+    <title>😗</title>
+    <updated>2023-05-12T19:36:54+00:00</updated>
+    <content>😗</content>
+    <link href="https://tiktok.com/@jepangilang/video/7232382203844480283" rel="alternate"/>
+    <published>2023-05-12T19:36:54+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jepangilang/video/7229645608112393499</id>
-    <title>kmn ya kita </title>
-    <updated>2023-05-05T10:37:27+00:00</updated>
-    <content>kmn ya kita </content>
-    <link href="https://tiktok.com/@jepangilang/video/7229645608112393499" rel="alternate"/>
-    <published>2023-05-05T10:37:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7231168590425132314</id>
-    <title>😘</title>
-    <updated>2023-05-09T13:07:22+00:00</updated>
-    <content>😘</content>
-    <link href="https://tiktok.com/@jepangilang/video/7231168590425132314" rel="alternate"/>
-    <published>2023-05-09T13:07:22+00:00</published>
+    <id>https://tiktok.com/@jepangilang/video/7232994787723447578</id>
+    <title>bare facee</title>
+    <updated>2023-05-14T11:14:05+00:00</updated>
+    <content>bare facee</content>
+    <link href="https://tiktok.com/@jepangilang/video/7232994787723447578" rel="alternate"/>
+    <published>2023-05-14T11:14:05+00:00</published>
   </entry>
 </feed>
