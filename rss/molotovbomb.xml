@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@molotovbomb</id>
   <title>molotovbomb TikTok</title>
-  <updated>2023-05-06T15:20:33+00:00</updated>
+  <updated>2023-05-15T11:50:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from molotovbomb</subtitle>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7227409384542883098</id>
-    <title>when you and your bestie have different styles (video2 yg okenya ga kesave coy)</title>
-    <updated>2023-04-29T09:59:49+00:00</updated>
-    <content>when you and your bestie have different styles (video2 yg okenya ga kesave coy)</content>
-    <link href="https://tiktok.com/@molotovbomb/video/7227409384542883098" rel="alternate"/>
-    <published>2023-04-29T09:59:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@molotovbomb/video/7228919474320149778</id>
     <title>Replying to @Efrian Tomi </title>
@@ -51,5 +43,13 @@
     <content>pengen ga sih lu sehari aja jadi genteng asbes</content>
     <link href="https://tiktok.com/@molotovbomb/video/7230089660964343058" rel="alternate"/>
     <published>2023-05-06T15:20:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@molotovbomb/video/7233375186668506386</id>
+    <title>No Title</title>
+    <updated>2023-05-15T11:50:03+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@molotovbomb/video/7233375186668506386" rel="alternate"/>
+    <published>2023-05-15T11:50:03+00:00</published>
   </entry>
 </feed>
