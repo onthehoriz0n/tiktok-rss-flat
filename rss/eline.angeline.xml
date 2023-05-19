@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-05-15T15:57:36+00:00</updated>
+  <updated>2023-05-19T05:40:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7230459802147687707</id>
-    <title>Hafalinnya stenga mati :)</title>
-    <updated>2023-05-07T15:17:01+00:00</updated>
-    <content>Hafalinnya stenga mati :)</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7230459802147687707" rel="alternate"/>
-    <published>2023-05-07T15:17:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7231170845064858906</id>
-    <title>Gym❌ Tiktokan✅</title>
-    <updated>2023-05-09T13:16:08+00:00</updated>
-    <content>Gym❌ Tiktokan✅</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7231170845064858906" rel="alternate"/>
-    <published>2023-05-09T13:16:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7231558753055788315</id>
     <title>Acik ad tmen</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7233438955960651034" rel="alternate"/>
     <published>2023-05-15T15:57:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7234358084641066245</id>
+    <title>No Title</title>
+    <updated>2023-05-18T03:24:14+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7234358084641066245" rel="alternate"/>
+    <published>2023-05-18T03:24:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7234764299862854918</id>
+    <title>No Title</title>
+    <updated>2023-05-19T05:40:32+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7234764299862854918" rel="alternate"/>
+    <published>2023-05-19T05:40:32+00:00</published>
   </entry>
 </feed>
