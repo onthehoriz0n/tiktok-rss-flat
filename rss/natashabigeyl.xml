@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-05-16T11:21:47+00:00</updated>
+  <updated>2023-05-19T11:24:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7231869711460404507</id>
-    <title>ya ini baru 3 dari sekian banyak vest gue🙂</title>
-    <updated>2023-05-11T10:28:11+00:00</updated>
-    <content>ya ini baru 3 dari sekian banyak vest gue🙂</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7231869711460404507" rel="alternate"/>
-    <published>2023-05-11T10:28:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7232545436421115162</id>
-    <title>HEHE sorry bgt gabisa ga beli😌🙏🏻</title>
-    <updated>2023-05-13T06:10:25+00:00</updated>
-    <content>HEHE sorry bgt gabisa ga beli😌🙏🏻</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7232545436421115162" rel="alternate"/>
-    <published>2023-05-13T06:10:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7233375450473483546</id>
     <title>emang harus ditinggal deh biar cerah @Iben M.A.  #DaruratCerah #GarnierVitaminCPalingCerah @Garnier Indonesia </title>
@@ -51,5 +35,21 @@
     <content>pulang yuk cepetan @Iben M.A. biar gue ga makan sendirian #RamenPalingSUGOI @Tokyo Belly </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7233738985619688709" rel="alternate"/>
     <published>2023-05-16T11:21:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7234171510301183238</id>
+    <title>masih cocok gak jadi anak SMA?!</title>
+    <updated>2023-05-17T15:20:12+00:00</updated>
+    <content>masih cocok gak jadi anak SMA?!</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7234171510301183238" rel="alternate"/>
+    <published>2023-05-17T15:20:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7234852962940570885</id>
+    <title>gue bisa pake ini seminggu 4x🙂</title>
+    <updated>2023-05-19T11:24:35+00:00</updated>
+    <content>gue bisa pake ini seminggu 4x🙂</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7234852962940570885" rel="alternate"/>
+    <published>2023-05-19T11:24:35+00:00</published>
   </entry>
 </feed>
