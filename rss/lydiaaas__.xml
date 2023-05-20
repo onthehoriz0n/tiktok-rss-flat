@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-05-17T08:13:42+00:00</updated>
+  <updated>2023-05-19T13:29:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7231898799524842778</id>
-    <title>come hereeee</title>
-    <updated>2023-05-11T12:21:01+00:00</updated>
-    <content>come hereeee</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7231898799524842778" rel="alternate"/>
-    <published>2023-05-11T12:21:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7232256008016448795</id>
-    <title>tanggal 16 </title>
-    <updated>2023-05-12T11:27:08+00:00</updated>
-    <content>tanggal 16 </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7232256008016448795" rel="alternate"/>
-    <published>2023-05-12T11:27:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7232560754044439835</id>
     <title>apakah harus ganti warna rambut </title>
@@ -51,5 +35,21 @@
     <content>kenangan</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7234061533951675675" rel="alternate"/>
     <published>2023-05-17T08:13:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7234502179824880901</id>
+    <title>No Title</title>
+    <updated>2023-05-18T12:43:21+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7234502179824880901" rel="alternate"/>
+    <published>2023-05-18T12:43:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7234885207269199110</id>
+    <title>cantik</title>
+    <updated>2023-05-19T13:29:43+00:00</updated>
+    <content>cantik</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7234885207269199110" rel="alternate"/>
+    <published>2023-05-19T13:29:43+00:00</published>
   </entry>
 </feed>
