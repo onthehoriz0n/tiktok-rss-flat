@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@molotovbomb</id>
   <title>molotovbomb TikTok</title>
-  <updated>2023-05-15T11:50:03+00:00</updated>
+  <updated>2023-05-20T05:34:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from molotovbomb</subtitle>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7228919474320149778</id>
-    <title>Replying to @Efrian Tomi </title>
-    <updated>2023-05-03T11:39:39+00:00</updated>
-    <content>Replying to @Efrian Tomi </content>
-    <link href="https://tiktok.com/@molotovbomb/video/7228919474320149778" rel="alternate"/>
-    <published>2023-05-03T11:39:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7228974282192243976</id>
-    <title>me and my buddha necklace against the world</title>
-    <updated>2023-05-03T15:12:28+00:00</updated>
-    <content>me and my buddha necklace against the world</content>
-    <link href="https://tiktok.com/@molotovbomb/video/7228974282192243976" rel="alternate"/>
-    <published>2023-05-03T15:12:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@molotovbomb/video/7229209866382888199</id>
     <title>this song hits different bro gw mau nangis di jalanan 😔</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@molotovbomb/video/7233375186668506386" rel="alternate"/>
     <published>2023-05-15T11:50:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@molotovbomb/video/7234901572189261061</id>
+    <title>suara bunglon core 🤙 </title>
+    <updated>2023-05-19T14:33:12+00:00</updated>
+    <content>suara bunglon core 🤙 </content>
+    <link href="https://tiktok.com/@molotovbomb/video/7234901572189261061" rel="alternate"/>
+    <published>2023-05-19T14:33:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@molotovbomb/video/7235133773333925125</id>
+    <title>forza juve </title>
+    <updated>2023-05-20T05:34:17+00:00</updated>
+    <content>forza juve </content>
+    <link href="https://tiktok.com/@molotovbomb/video/7235133773333925125" rel="alternate"/>
+    <published>2023-05-20T05:34:17+00:00</published>
   </entry>
 </feed>

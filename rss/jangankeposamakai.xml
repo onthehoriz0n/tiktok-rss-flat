@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-05-19T11:45:06+00:00</updated>
+  <updated>2023-05-20T04:51:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7234066314115992859</id>
-    <title>#tsunade #tsunadecosplay #jj #foryou </title>
-    <updated>2023-05-17T08:32:15+00:00</updated>
-    <content>#tsunade #tsunadecosplay #jj #foryou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7234066314115992859" rel="alternate"/>
-    <published>2023-05-17T08:32:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7234179037248113926</id>
     <title>sorry for the messy wig 😅#CapCutVelocity #aliceinborderland #japanese </title>
@@ -51,5 +43,13 @@
     <content>#CapCut #jj #viralcapcuttrend #asian #viral </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7234858247025446150" rel="alternate"/>
     <published>2023-05-19T11:45:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7235122720550374661</id>
+    <title>#fyp </title>
+    <updated>2023-05-20T04:51:23+00:00</updated>
+    <content>#fyp </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7235122720550374661" rel="alternate"/>
+    <published>2023-05-20T04:51:23+00:00</published>
   </entry>
 </feed>
