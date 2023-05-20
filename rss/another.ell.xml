@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-05-16T16:10:39+00:00</updated>
+  <updated>2023-05-20T10:36:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7233330338980711707</id>
-    <title>dirumah aja hrs tetep wangi🫶🏻</title>
-    <updated>2023-05-15T08:56:09+00:00</updated>
-    <content>dirumah aja hrs tetep wangi🫶🏻</content>
-    <link href="https://tiktok.com/@another.ell/video/7233330338980711707" rel="alternate"/>
-    <published>2023-05-15T08:56:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7233713751277473029</id>
     <title>keliatan tinggi✨ </title>
@@ -51,5 +43,13 @@
     <content>pusing</content>
     <link href="https://tiktok.com/@another.ell/video/7233813400415964443" rel="alternate"/>
     <published>2023-05-16T16:10:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7235211623789563141</id>
+    <title>candu </title>
+    <updated>2023-05-20T10:36:24+00:00</updated>
+    <content>candu </content>
+    <link href="https://tiktok.com/@another.ell/video/7235211623789563141" rel="alternate"/>
+    <published>2023-05-20T10:36:24+00:00</published>
   </entry>
 </feed>
