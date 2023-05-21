@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-05-20T09:20:29+00:00</updated>
+  <updated>2023-05-18T14:36:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7234039708249115930</id>
+    <title>yang rambutnya rusakk cobain dehh❤️ #haircare #creambathkeratin #creambathphbalanced </title>
+    <updated>2023-05-17T06:48:55+00:00</updated>
+    <content>yang rambutnya rusakk cobain dehh❤️ #haircare #creambathkeratin #creambathphbalanced </content>
+    <link href="https://tiktok.com/@duhsirachel/video/7234039708249115930" rel="alternate"/>
+    <published>2023-05-17T06:48:55+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7234112922643959045</id>
     <title>sumpahh wajib punya buat yang peciclann💖💖</title>
@@ -43,13 +51,5 @@
     <content>jemput eyel ke sky 2</content>
     <link href="https://tiktok.com/@duhsirachel/video/7234531264001330437" rel="alternate"/>
     <published>2023-05-18T14:36:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7235192066861452550</id>
-    <title>No Title</title>
-    <updated>2023-05-20T09:20:29+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7235192066861452550" rel="alternate"/>
-    <published>2023-05-20T09:20:29+00:00</published>
   </entry>
 </feed>
