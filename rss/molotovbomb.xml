@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@molotovbomb</id>
   <title>molotovbomb TikTok</title>
-  <updated>2023-05-20T05:34:17+00:00</updated>
+  <updated>2023-05-21T16:46:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from molotovbomb</subtitle>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7229209866382888199</id>
-    <title>this song hits different bro gw mau nangis di jalanan 😔</title>
-    <updated>2023-05-04T06:26:42+00:00</updated>
-    <content>this song hits different bro gw mau nangis di jalanan 😔</content>
-    <link href="https://tiktok.com/@molotovbomb/video/7229209866382888199" rel="alternate"/>
-    <published>2023-05-04T06:26:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@molotovbomb/video/7230089660964343058</id>
     <title>pengen ga sih lu sehari aja jadi genteng asbes</title>
@@ -51,5 +43,13 @@
     <content>forza juve </content>
     <link href="https://tiktok.com/@molotovbomb/video/7235133773333925125" rel="alternate"/>
     <published>2023-05-20T05:34:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@molotovbomb/video/7235678018738441477</id>
+    <title>just pooped😁</title>
+    <updated>2023-05-21T16:46:14+00:00</updated>
+    <content>just pooped😁</content>
+    <link href="https://tiktok.com/@molotovbomb/video/7235678018738441477" rel="alternate"/>
+    <published>2023-05-21T16:46:14+00:00</published>
   </entry>
 </feed>
