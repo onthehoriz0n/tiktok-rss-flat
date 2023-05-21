@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-05-19T11:24:35+00:00</updated>
+  <updated>2023-05-21T16:24:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7233375450473483546</id>
-    <title>emang harus ditinggal deh biar cerah @Iben M.A.  #DaruratCerah #GarnierVitaminCPalingCerah @Garnier Indonesia </title>
-    <updated>2023-05-15T11:51:07+00:00</updated>
-    <content>emang harus ditinggal deh biar cerah @Iben M.A.  #DaruratCerah #GarnierVitaminCPalingCerah @Garnier Indonesia </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7233375450473483546" rel="alternate"/>
-    <published>2023-05-15T11:51:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7233692524102044933</id>
-    <title>Sumpah enak banget meskipun harganya agak kerasa ya🥲 #hairtreatmentjakarta #kerastasetreatment #creambath </title>
-    <updated>2023-05-16T08:21:29+00:00</updated>
-    <content>Sumpah enak banget meskipun harganya agak kerasa ya🥲 #hairtreatmentjakarta #kerastasetreatment #creambath </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7233692524102044933" rel="alternate"/>
-    <published>2023-05-16T08:21:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7233738985619688709</id>
-    <title>pulang yuk cepetan @Iben M.A. biar gue ga makan sendirian #RamenPalingSUGOI @Tokyo Belly </title>
-    <updated>2023-05-16T11:21:47+00:00</updated>
-    <content>pulang yuk cepetan @Iben M.A. biar gue ga makan sendirian #RamenPalingSUGOI @Tokyo Belly </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7233738985619688709" rel="alternate"/>
-    <published>2023-05-16T11:21:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7234171510301183238</id>
     <title>masih cocok gak jadi anak SMA?!</title>
@@ -51,5 +27,29 @@
     <content>gue bisa pake ini seminggu 4x🙂</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7234852962940570885" rel="alternate"/>
     <published>2023-05-19T11:24:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7235618580153355526</id>
+    <title>Kira-kira Chris Martin pangling gak liat bibir gue? HAHAHA #MACCosmeticsID #MACSquirtPlumpingGloss #MACLovesLips #Y2K #2000s #PlumpingLipGloss #LipGloss</title>
+    <updated>2023-05-21T12:55:34+00:00</updated>
+    <content>Kira-kira Chris Martin pangling gak liat bibir gue? HAHAHA #MACCosmeticsID #MACSquirtPlumpingGloss #MACLovesLips #Y2K #2000s #PlumpingLipGloss #LipGloss</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7235618580153355526" rel="alternate"/>
+    <published>2023-05-21T12:55:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7235645699189263621</id>
+    <title>Gue harus pake yg mana nih?! #CologneIntense #JoMaloneID </title>
+    <updated>2023-05-21T14:40:48+00:00</updated>
+    <content>Gue harus pake yg mana nih?! #CologneIntense #JoMaloneID </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7235645699189263621" rel="alternate"/>
+    <published>2023-05-21T14:40:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7235672418981891334</id>
+    <title>emang makanan tuh gaboleh dimainin🙏🏻</title>
+    <updated>2023-05-21T16:24:31+00:00</updated>
+    <content>emang makanan tuh gaboleh dimainin🙏🏻</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7235672418981891334" rel="alternate"/>
+    <published>2023-05-21T16:24:31+00:00</published>
   </entry>
 </feed>
