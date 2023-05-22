@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@notriisaaa</id>
   <title>notriisaaa TikTok</title>
-  <updated>2023-04-25T10:35:48+00:00</updated>
+  <updated>2023-05-18T04:14:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,30 +13,6 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from notriisaaa</subtitle>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7221464889380916506</id>
-    <title>No Title</title>
-    <updated>2023-04-13T09:32:07+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7221464889380916506" rel="alternate"/>
-    <published>2023-04-13T09:32:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7224403936877284634</id>
-    <title>No Title</title>
-    <updated>2023-04-21T07:37:10+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7224403936877284634" rel="alternate"/>
-    <published>2023-04-21T07:37:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7225222628179561733</id>
-    <title>No Title</title>
-    <updated>2023-04-23T12:33:57+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7225222628179561733" rel="alternate"/>
-    <published>2023-04-23T12:33:57+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@notriisaaa/video/7225639561005665542</id>
     <title>No Title</title>
     <updated>2023-04-24T15:31:53+00:00</updated>
@@ -45,11 +21,35 @@
     <published>2023-04-24T15:31:53+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7225934349001051397</id>
+    <id>https://tiktok.com/@notriisaaa/video/7231469989247634715</id>
+    <title>Grwn🫧🫧       #pinkflashbeauty </title>
+    <updated>2023-05-10T08:37:09+00:00</updated>
+    <content>Grwn🫧🫧       #pinkflashbeauty </content>
+    <link href="https://tiktok.com/@notriisaaa/video/7231469989247634715" rel="alternate"/>
+    <published>2023-05-10T08:37:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7231820766315121947</id>
+    <title>Mon maap knp ga lebaran haji aja ris tutor nya🙏🏻 #pinkflashbeauty </title>
+    <updated>2023-05-11T07:18:17+00:00</updated>
+    <content>Mon maap knp ga lebaran haji aja ris tutor nya🙏🏻 #pinkflashbeauty </content>
+    <link href="https://tiktok.com/@notriisaaa/video/7231820766315121947" rel="alternate"/>
+    <published>2023-05-11T07:18:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7234365202752376070</id>
     <title>No Title</title>
-    <updated>2023-04-25T10:35:48+00:00</updated>
+    <updated>2023-05-18T03:51:49+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7225934349001051397" rel="alternate"/>
-    <published>2023-04-25T10:35:48+00:00</published>
+    <link href="https://tiktok.com/@notriisaaa/video/7234365202752376070" rel="alternate"/>
+    <published>2023-05-18T03:51:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7234370971254213893</id>
+    <title>No Title</title>
+    <updated>2023-05-18T04:14:13+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7234370971254213893" rel="alternate"/>
+    <published>2023-05-18T04:14:13+00:00</published>
   </entry>
 </feed>
