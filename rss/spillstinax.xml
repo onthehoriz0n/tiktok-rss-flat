@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-05-19T14:50:46+00:00</updated>
+  <updated>2023-05-22T10:46:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7228793949316566299</id>
-    <title>#5xceramide #sunscreen #nosticky #nowhitecastsunscreen </title>
-    <updated>2023-05-03T03:32:52+00:00</updated>
-    <content>#5xceramide #sunscreen #nosticky #nowhitecastsunscreen </content>
-    <link href="https://tiktok.com/@spillstinax/video/7228793949316566299" rel="alternate"/>
-    <published>2023-05-03T03:32:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7232689393461415173</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>#scarlett #bodylotion #bodyserum #bodycream #whitening #scarlettwhitening </content>
     <link href="https://tiktok.com/@spillstinax/video/7234906100200426757" rel="alternate"/>
     <published>2023-05-19T14:50:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7235956354102414597</id>
+    <title>#scarlettwhitening #scarlettsunbrightdailysunscreen #dailysunscreen #spf50pa➕➕➕ </title>
+    <updated>2023-05-22T10:46:19+00:00</updated>
+    <content>#scarlettwhitening #scarlettsunbrightdailysunscreen #dailysunscreen #spf50pa➕➕➕ </content>
+    <link href="https://tiktok.com/@spillstinax/video/7235956354102414597" rel="alternate"/>
+    <published>2023-05-22T10:46:19+00:00</published>
   </entry>
 </feed>
