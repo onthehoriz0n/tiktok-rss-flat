@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-05-06T15:59:03+00:00</updated>
+  <updated>2023-05-23T06:51:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7223046306153991450</id>
-    <title>amin aja 🙏 </title>
-    <updated>2023-04-17T15:48:49+00:00</updated>
-    <content>amin aja 🙏 </content>
-    <link href="https://tiktok.com/@jemimakaia/video/7223046306153991450" rel="alternate"/>
-    <published>2023-04-17T15:48:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7227045407560453403</id>
-    <title>pusing bikinnya</title>
-    <updated>2023-04-28T10:27:25+00:00</updated>
-    <content>pusing bikinnya</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7227045407560453403" rel="alternate"/>
-    <published>2023-04-28T10:27:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7227051188775095579</id>
-    <title>THE TAN IS SO PRETTY</title>
-    <updated>2023-04-28T10:49:52+00:00</updated>
-    <content>THE TAN IS SO PRETTY</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7227051188775095579" rel="alternate"/>
-    <published>2023-04-28T10:49:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7230008171740335386</id>
     <title>he’s the sweetest </title>
@@ -51,5 +27,29 @@
     <content>so greasy but 🫶🏼🫶🏼</content>
     <link href="https://tiktok.com/@jemimakaia/video/7230099565435817242" rel="alternate"/>
     <published>2023-05-06T15:59:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7235538075068173573</id>
+    <title>🏝</title>
+    <updated>2023-05-21T07:43:10+00:00</updated>
+    <content>🏝</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7235538075068173573" rel="alternate"/>
+    <published>2023-05-21T07:43:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7235936720561130757</id>
+    <title>flo mili shii</title>
+    <updated>2023-05-22T09:30:07+00:00</updated>
+    <content>flo mili shii</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7235936720561130757" rel="alternate"/>
+    <published>2023-05-22T09:30:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7236266954758130949</id>
+    <title>i tried HAHAH ib: @Nadira Fairuza </title>
+    <updated>2023-05-23T06:51:36+00:00</updated>
+    <content>i tried HAHAH ib: @Nadira Fairuza </content>
+    <link href="https://tiktok.com/@jemimakaia/video/7236266954758130949" rel="alternate"/>
+    <published>2023-05-23T06:51:36+00:00</published>
   </entry>
 </feed>
