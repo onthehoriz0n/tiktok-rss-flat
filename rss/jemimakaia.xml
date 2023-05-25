@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-05-23T06:51:36+00:00</updated>
+  <updated>2023-05-24T05:37:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7230008171740335386</id>
-    <title>he’s the sweetest </title>
-    <updated>2023-05-06T10:04:23+00:00</updated>
-    <content>he’s the sweetest </content>
-    <link href="https://tiktok.com/@jemimakaia/video/7230008171740335386" rel="alternate"/>
-    <published>2023-05-06T10:04:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7230099565435817242</id>
     <title>so greasy but 🫶🏼🫶🏼</title>
@@ -51,5 +43,13 @@
     <content>i tried HAHAH ib: @Nadira Fairuza </content>
     <link href="https://tiktok.com/@jemimakaia/video/7236266954758130949" rel="alternate"/>
     <published>2023-05-23T06:51:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7236618935385296133</id>
+    <title>#CapCut 🙂🙃</title>
+    <updated>2023-05-24T05:37:28+00:00</updated>
+    <content>#CapCut 🙂🙃</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7236618935385296133" rel="alternate"/>
+    <published>2023-05-24T05:37:28+00:00</published>
   </entry>
 </feed>
