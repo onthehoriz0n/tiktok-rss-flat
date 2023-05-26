@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-05-19T12:19:27+00:00</updated>
+  <updated>2023-05-23T06:59:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
   <entry>
-    <id>https://tiktok.com/@choufeer/video/7233723468213243141</id>
+    <id>https://tiktok.com/@choufeer/video/7235902945550699782</id>
     <title>No Title</title>
-    <updated>2023-05-16T10:21:41+00:00</updated>
+    <updated>2023-05-22T07:19:04+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7233723468213243141" rel="alternate"/>
-    <published>2023-05-16T10:21:41+00:00</published>
+    <link href="https://tiktok.com/@choufeer/video/7235902945550699782" rel="alternate"/>
+    <published>2023-05-22T07:19:04+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@choufeer/video/7234180084221955333</id>
+    <id>https://tiktok.com/@choufeer/video/7235913021191752965</id>
     <title>No Title</title>
-    <updated>2023-05-17T15:53:29+00:00</updated>
+    <updated>2023-05-22T07:58:11+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7234180084221955333" rel="alternate"/>
-    <published>2023-05-17T15:53:29+00:00</published>
+    <link href="https://tiktok.com/@choufeer/video/7235913021191752965" rel="alternate"/>
+    <published>2023-05-22T07:58:11+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@choufeer/video/7234404313353719045</id>
-    <title>cat rambut kali ya</title>
-    <updated>2023-05-18T06:23:36+00:00</updated>
-    <content>cat rambut kali ya</content>
-    <link href="https://tiktok.com/@choufeer/video/7234404313353719045" rel="alternate"/>
-    <published>2023-05-18T06:23:36+00:00</published>
+    <id>https://tiktok.com/@choufeer/video/7235945178412928261</id>
+    <title>No Title</title>
+    <updated>2023-05-22T10:02:57+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@choufeer/video/7235945178412928261" rel="alternate"/>
+    <published>2023-05-22T10:02:57+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@choufeer/video/7234779825288809733</id>
+    <id>https://tiktok.com/@choufeer/video/7235986478638124294</id>
     <title>No Title</title>
-    <updated>2023-05-19T06:40:47+00:00</updated>
+    <updated>2023-05-22T12:43:12+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7234779825288809733" rel="alternate"/>
-    <published>2023-05-19T06:40:47+00:00</published>
+    <link href="https://tiktok.com/@choufeer/video/7235986478638124294" rel="alternate"/>
+    <published>2023-05-22T12:43:12+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@choufeer/video/7234867103122197765</id>
+    <id>https://tiktok.com/@choufeer/video/7236269094314659078</id>
     <title>No Title</title>
-    <updated>2023-05-19T12:19:27+00:00</updated>
+    <updated>2023-05-23T06:59:55+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7234867103122197765" rel="alternate"/>
-    <published>2023-05-19T12:19:27+00:00</published>
+    <link href="https://tiktok.com/@choufeer/video/7236269094314659078" rel="alternate"/>
+    <published>2023-05-23T06:59:55+00:00</published>
   </entry>
 </feed>
