@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-05-21T11:26:21+00:00</updated>
+  <updated>2023-05-27T08:37:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7232560754044439835</id>
-    <title>apakah harus ganti warna rambut </title>
-    <updated>2023-05-13T07:09:50+00:00</updated>
-    <content>apakah harus ganti warna rambut </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7232560754044439835" rel="alternate"/>
-    <published>2023-05-13T07:09:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7233411157774634267</id>
     <title>senamm</title>
@@ -51,5 +43,13 @@
     <content>gemoy anggurnya </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7235595585380781317" rel="alternate"/>
     <published>2023-05-21T11:26:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7237778693823778054</id>
+    <title>bestie poreper</title>
+    <updated>2023-05-27T08:37:56+00:00</updated>
+    <content>bestie poreper</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7237778693823778054" rel="alternate"/>
+    <published>2023-05-27T08:37:56+00:00</published>
   </entry>
 </feed>
