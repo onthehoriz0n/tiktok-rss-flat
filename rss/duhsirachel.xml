@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-05-26T11:11:25+00:00</updated>
+  <updated>2023-05-27T02:10:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7236286712530472198</id>
-    <title>No Title</title>
-    <updated>2023-05-23T08:08:17+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7236286712530472198" rel="alternate"/>
-    <published>2023-05-23T08:08:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7236305779043716358</id>
-    <title>No Title</title>
-    <updated>2023-05-23T09:22:15+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7236305779043716358" rel="alternate"/>
-    <published>2023-05-23T09:22:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7236549487735377158</id>
     <title>y ok</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7237447166577446150" rel="alternate"/>
     <published>2023-05-26T11:11:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7237678171603160326</id>
+    <title>rayiwaw</title>
+    <updated>2023-05-27T02:07:50+00:00</updated>
+    <content>rayiwaw</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7237678171603160326" rel="alternate"/>
+    <published>2023-05-27T02:07:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7237678934404386054</id>
+    <title>komat kamit</title>
+    <updated>2023-05-27T02:10:48+00:00</updated>
+    <content>komat kamit</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7237678934404386054" rel="alternate"/>
+    <published>2023-05-27T02:10:48+00:00</published>
   </entry>
 </feed>
