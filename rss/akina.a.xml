@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-05-20T03:03:26+00:00</updated>
+  <updated>2023-05-28T10:13:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7221041010732764442</id>
-    <title>Sayang di draft</title>
-    <updated>2023-04-12T06:07:25+00:00</updated>
-    <content>Sayang di draft</content>
-    <link href="https://tiktok.com/@akina.a/video/7221041010732764442" rel="alternate"/>
-    <published>2023-04-12T06:07:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7225945578444754203</id>
-    <title>No Title</title>
-    <updated>2023-04-25T11:19:26+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7225945578444754203" rel="alternate"/>
-    <published>2023-04-25T11:19:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7231840261398170907</id>
     <title>Motor apayahh dibelakang @HondafansBali </title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@akina.a/video/7235094894371556614" rel="alternate"/>
     <published>2023-05-20T03:03:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7238163439405862149</id>
+    <title>No Title</title>
+    <updated>2023-05-28T09:30:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7238163439405862149" rel="alternate"/>
+    <published>2023-05-28T09:30:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7238174319451327749</id>
+    <title>Kokk baguss</title>
+    <updated>2023-05-28T10:13:09+00:00</updated>
+    <content>Kokk baguss</content>
+    <link href="https://tiktok.com/@akina.a/video/7238174319451327749" rel="alternate"/>
+    <published>2023-05-28T10:13:09+00:00</published>
   </entry>
 </feed>
