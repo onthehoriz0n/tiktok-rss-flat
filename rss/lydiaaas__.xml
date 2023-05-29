@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-05-28T04:08:58+00:00</updated>
+  <updated>2023-05-28T11:12:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7234061533951675675</id>
-    <title>kenangan</title>
-    <updated>2023-05-17T08:13:42+00:00</updated>
-    <content>kenangan</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7234061533951675675" rel="alternate"/>
-    <published>2023-05-17T08:13:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7234885207269199110</id>
     <title>cantik</title>
@@ -51,5 +43,13 @@
     <content>sebelum :</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7238080473451203846" rel="alternate"/>
     <published>2023-05-28T04:08:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7238189521290988805</id>
+    <title>bestie kok guys 🙏🙏</title>
+    <updated>2023-05-28T11:12:08+00:00</updated>
+    <content>bestie kok guys 🙏🙏</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7238189521290988805" rel="alternate"/>
+    <published>2023-05-28T11:12:08+00:00</published>
   </entry>
 </feed>
