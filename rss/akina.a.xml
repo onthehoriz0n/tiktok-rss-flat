@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-05-28T10:13:09+00:00</updated>
+  <updated>2023-05-30T18:32:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7231840261398170907</id>
-    <title>Motor apayahh dibelakang @HondafansBali </title>
-    <updated>2023-05-11T08:33:57+00:00</updated>
-    <content>Motor apayahh dibelakang @HondafansBali </content>
-    <link href="https://tiktok.com/@akina.a/video/7231840261398170907" rel="alternate"/>
-    <published>2023-05-11T08:33:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7235094239472913670</id>
     <title>Rahajeng Saraswatii</title>
@@ -51,5 +43,13 @@
     <content>Kokk baguss</content>
     <link href="https://tiktok.com/@akina.a/video/7238174319451327749" rel="alternate"/>
     <published>2023-05-28T10:13:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7239045122292190469</id>
+    <title>#CapCut </title>
+    <updated>2023-05-30T18:32:18+00:00</updated>
+    <content>#CapCut </content>
+    <link href="https://tiktok.com/@akina.a/video/7239045122292190469" rel="alternate"/>
+    <published>2023-05-30T18:32:18+00:00</published>
   </entry>
 </feed>

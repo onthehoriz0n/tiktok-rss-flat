@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-05-19T02:42:50+00:00</updated>
+  <updated>2023-05-30T06:19:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7231092226506427675</id>
-    <title>otak be like: stop ga</title>
-    <updated>2023-05-09T08:11:04+00:00</updated>
-    <content>otak be like: stop ga</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7231092226506427675" rel="alternate"/>
-    <published>2023-05-09T08:11:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7231447991641476378</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Office outing at its finest 😝</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7234718507613621509" rel="alternate"/>
     <published>2023-05-19T02:42:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7238856142087064838</id>
+    <title>night ride &gt;&gt;&gt;&gt;</title>
+    <updated>2023-05-30T06:19:00+00:00</updated>
+    <content>night ride &gt;&gt;&gt;&gt;</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7238856142087064838" rel="alternate"/>
+    <published>2023-05-30T06:19:00+00:00</published>
   </entry>
 </feed>
