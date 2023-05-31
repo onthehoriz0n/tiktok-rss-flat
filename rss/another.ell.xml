@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-05-29T09:25:36+00:00</updated>
+  <updated>2023-05-30T13:03:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7237068277871037702</id>
-    <title>comeback🕷️</title>
-    <updated>2023-05-25T10:41:08+00:00</updated>
-    <content>comeback🕷️</content>
-    <link href="https://tiktok.com/@another.ell/video/7237068277871037702" rel="alternate"/>
-    <published>2023-05-25T10:41:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7237500459852811526</id>
     <title>besok sabtuuu</title>
@@ -51,5 +43,13 @@
     <content>draft</content>
     <link href="https://tiktok.com/@another.ell/video/7238533153424411909" rel="alternate"/>
     <published>2023-05-29T09:25:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7238960447909612805</id>
+    <title>Rosé &amp; Ryujin’s</title>
+    <updated>2023-05-30T13:03:43+00:00</updated>
+    <content>Rosé &amp; Ryujin’s</content>
+    <link href="https://tiktok.com/@another.ell/video/7238960447909612805" rel="alternate"/>
+    <published>2023-05-30T13:03:43+00:00</published>
   </entry>
 </feed>
