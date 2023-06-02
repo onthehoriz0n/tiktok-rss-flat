@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-05-30T06:55:50+00:00</updated>
+  <updated>2023-05-31T07:21:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7232382203844480283</id>
-    <title>😗</title>
-    <updated>2023-05-12T19:36:54+00:00</updated>
-    <content>😗</content>
-    <link href="https://tiktok.com/@jepangilang/video/7232382203844480283" rel="alternate"/>
-    <published>2023-05-12T19:36:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7233058446168444186</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@jepangilang/video/7238865640960888069" rel="alternate"/>
     <published>2023-05-30T06:55:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7239243237649648901</id>
+    <title>its not that hard guys come on </title>
+    <updated>2023-05-31T07:21:06+00:00</updated>
+    <content>its not that hard guys come on </content>
+    <link href="https://tiktok.com/@jepangilang/video/7239243237649648901" rel="alternate"/>
+    <published>2023-05-31T07:21:06+00:00</published>
   </entry>
 </feed>

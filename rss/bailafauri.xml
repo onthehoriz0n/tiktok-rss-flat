@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-05-26T06:50:55+00:00</updated>
+  <updated>2023-06-01T14:36:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7233363626634054938</id>
-    <title>&lt;3</title>
-    <updated>2023-05-15T11:05:17+00:00</updated>
-    <content>&lt;3</content>
-    <link href="https://tiktok.com/@bailafauri/video/7233363626634054938" rel="alternate"/>
-    <published>2023-05-15T11:05:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7233365101477104923</id>
-    <title>lawl</title>
-    <updated>2023-05-15T11:10:59+00:00</updated>
-    <content>lawl</content>
-    <link href="https://tiktok.com/@bailafauri/video/7233365101477104923" rel="alternate"/>
-    <published>2023-05-15T11:10:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7233697333806976262</id>
     <title>❤️</title>
@@ -51,5 +35,21 @@
     <content>Cash app or zelle?</content>
     <link href="https://tiktok.com/@bailafauri/video/7237380038641896709" rel="alternate"/>
     <published>2023-05-26T06:50:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7239285492255100165</id>
+    <title>i always play taylor swift when i’m doing my makeup, so i’m proud of him</title>
+    <updated>2023-05-31T10:05:04+00:00</updated>
+    <content>i always play taylor swift when i’m doing my makeup, so i’m proud of him</content>
+    <link href="https://tiktok.com/@bailafauri/video/7239285492255100165" rel="alternate"/>
+    <published>2023-05-31T10:05:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7239726551401565445</id>
+    <title>Q&lt;3</title>
+    <updated>2023-06-01T14:36:37+00:00</updated>
+    <content>Q&lt;3</content>
+    <link href="https://tiktok.com/@bailafauri/video/7239726551401565445" rel="alternate"/>
+    <published>2023-06-01T14:36:37+00:00</published>
   </entry>
 </feed>
