@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-05-31T07:21:06+00:00</updated>
+  <updated>2023-06-06T11:51:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7233058446168444186</id>
-    <title>No Title</title>
-    <updated>2023-05-14T15:21:01+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@jepangilang/video/7233058446168444186" rel="alternate"/>
-    <published>2023-05-14T15:21:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7236314496162221317</id>
-    <title>bareface pucet skli</title>
-    <updated>2023-05-23T09:56:05+00:00</updated>
-    <content>bareface pucet skli</content>
-    <link href="https://tiktok.com/@jepangilang/video/7236314496162221317" rel="alternate"/>
-    <published>2023-05-23T09:56:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7236367306383822086</id>
     <title>👁️👄👁️</title>
@@ -51,5 +35,21 @@
     <content>its not that hard guys come on </content>
     <link href="https://tiktok.com/@jepangilang/video/7239243237649648901" rel="alternate"/>
     <published>2023-05-31T07:21:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7241495332616441093</id>
+    <title>jjr kalian cupu</title>
+    <updated>2023-06-06T09:00:22+00:00</updated>
+    <content>jjr kalian cupu</content>
+    <link href="https://tiktok.com/@jepangilang/video/7241495332616441093" rel="alternate"/>
+    <published>2023-06-06T09:00:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7241539412398509317</id>
+    <title>tiati bang</title>
+    <updated>2023-06-06T11:51:25+00:00</updated>
+    <content>tiati bang</content>
+    <link href="https://tiktok.com/@jepangilang/video/7241539412398509317" rel="alternate"/>
+    <published>2023-06-06T11:51:25+00:00</published>
   </entry>
 </feed>
