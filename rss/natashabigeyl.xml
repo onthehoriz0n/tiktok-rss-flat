@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-06-01T03:01:34+00:00</updated>
+  <updated>2023-06-03T12:00:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7237105386661137669</id>
-    <title>sekali2 bikin transisi❤️</title>
-    <updated>2023-05-25T13:05:08+00:00</updated>
-    <content>sekali2 bikin transisi❤️</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7237105386661137669" rel="alternate"/>
-    <published>2023-05-25T13:05:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7237336942524861702</id>
-    <title>sebenernya kepo juga sama contour sticknya!! Ada yang udah coba? </title>
-    <updated>2023-05-26T04:03:42+00:00</updated>
-    <content>sebenernya kepo juga sama contour sticknya!! Ada yang udah coba? </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7237336942524861702" rel="alternate"/>
-    <published>2023-05-26T04:03:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7237418435897019653</id>
     <title>Replying to @freekalem hehe tiba2 curcol, love you deh @Iben M.A.❤️ #PakeKiehls #KiehlsID #KiehlsPureSerum #EnoughSaid #AlwaysOn </title>
@@ -51,5 +35,21 @@
     <content>Ada yang ketemu pacar seminggu sekali doang jg?🙋🏻‍♀️  #StayCoolUnderTheSun #VaselineSPF50+ </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7239547436056743173" rel="alternate"/>
     <published>2023-06-01T03:01:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7240421153926319366</id>
+    <title>udah cocok belom ikutan red carpet? HAHAHA  @L'Oreal Paris Indonesia #lorealpariscannesid #walkyourworth #worthformyface </title>
+    <updated>2023-06-03T11:32:01+00:00</updated>
+    <content>udah cocok belom ikutan red carpet? HAHAHA  @L'Oreal Paris Indonesia #lorealpariscannesid #walkyourworth #worthformyface </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7240421153926319366" rel="alternate"/>
+    <published>2023-06-03T11:32:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7240428498521902341</id>
+    <title>cantik ga? </title>
+    <updated>2023-06-03T12:00:31+00:00</updated>
+    <content>cantik ga? </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7240428498521902341" rel="alternate"/>
+    <published>2023-06-03T12:00:31+00:00</published>
   </entry>
 </feed>
