@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-06-06T11:17:52+00:00</updated>
+  <updated>2023-06-07T13:29:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7233684938908765446</id>
-    <title>groceries shopping with me 🛒🧴🫧🧖🏻‍♀️🚿🎧☁️ #RambutCapek #RambutKeCharged #fasxmiracles #fasxjgnsetengah2 #fasPTN #ptnyogya</title>
-    <updated>2023-05-16T07:52:04+00:00</updated>
-    <content>groceries shopping with me 🛒🧴🫧🧖🏻‍♀️🚿🎧☁️ #RambutCapek #RambutKeCharged #fasxmiracles #fasxjgnsetengah2 #fasPTN #ptnyogya</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7233684938908765446" rel="alternate"/>
-    <published>2023-05-16T07:52:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7233994931923176730</id>
     <title>🫧🖤</title>
@@ -51,5 +43,13 @@
     <content>rekomendasi shampoo mini market favorite aku 🧖🏻‍♀️💕🚿🧴 #RambutNoDrama #fas #HairCare #Shampoo #rejoicexfas </content>
     <link href="https://tiktok.com/@stellatandajaya/video/7241530763726966022" rel="alternate"/>
     <published>2023-06-06T11:17:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7241935703494479110</id>
+    <title>minimal ya. ib: @it’s szn (ex 78) </title>
+    <updated>2023-06-07T13:29:13+00:00</updated>
+    <content>minimal ya. ib: @it’s szn (ex 78) </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7241935703494479110" rel="alternate"/>
+    <published>2023-06-07T13:29:13+00:00</published>
   </entry>
 </feed>
