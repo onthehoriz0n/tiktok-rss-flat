@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-06-01T14:36:37+00:00</updated>
+  <updated>2023-06-03T08:40:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7233697333806976262</id>
-    <title>❤️</title>
-    <updated>2023-05-16T08:40:11+00:00</updated>
-    <content>❤️</content>
-    <link href="https://tiktok.com/@bailafauri/video/7233697333806976262" rel="alternate"/>
-    <published>2023-05-16T08:40:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7236407206176951558</id>
     <title>draft</title>
@@ -51,5 +43,13 @@
     <content>Q&lt;3</content>
     <link href="https://tiktok.com/@bailafauri/video/7239726551401565445" rel="alternate"/>
     <published>2023-06-01T14:36:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7240376894930177285</id>
+    <title>gareming</title>
+    <updated>2023-06-03T08:40:35+00:00</updated>
+    <content>gareming</content>
+    <link href="https://tiktok.com/@bailafauri/video/7240376894930177285" rel="alternate"/>
+    <published>2023-06-03T08:40:35+00:00</published>
   </entry>
 </feed>
