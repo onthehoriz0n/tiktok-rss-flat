@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-05-31T15:55:59+00:00</updated>
+  <updated>2023-06-07T13:16:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7238080473451203846</id>
-    <title>sebelum :</title>
-    <updated>2023-05-28T04:08:58+00:00</updated>
-    <content>sebelum :</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7238080473451203846" rel="alternate"/>
-    <published>2023-05-28T04:08:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7238189521290988805</id>
     <title>bestie kok guys 🙏🙏</title>
@@ -51,5 +43,13 @@
     <content>kata kayes “ NT LYD “</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7239375925123484934" rel="alternate"/>
     <published>2023-05-31T15:55:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7241932299485433093</id>
+    <title>trio kembar</title>
+    <updated>2023-06-07T13:16:02+00:00</updated>
+    <content>trio kembar</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7241932299485433093" rel="alternate"/>
+    <published>2023-06-07T13:16:02+00:00</published>
   </entry>
 </feed>
