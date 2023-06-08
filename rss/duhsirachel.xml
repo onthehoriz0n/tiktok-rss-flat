@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-06-08T02:17:22+00:00</updated>
+  <updated>2023-06-08T09:58:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7241790062298467589</id>
-    <title>ujian</title>
-    <updated>2023-06-07T04:04:07+00:00</updated>
-    <content>ujian</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7241790062298467589" rel="alternate"/>
-    <published>2023-06-07T04:04:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7241790072939449605</id>
-    <title>met</title>
-    <updated>2023-06-07T04:04:08+00:00</updated>
-    <content>met</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7241790072939449605" rel="alternate"/>
-    <published>2023-06-07T04:04:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7241940961826196741</id>
-    <title>ga hafal</title>
-    <updated>2023-06-07T13:49:38+00:00</updated>
-    <content>ga hafal</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7241940961826196741" rel="alternate"/>
-    <published>2023-06-07T13:49:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7241941276176747781</id>
     <title>apasi gjls</title>
@@ -51,5 +27,29 @@
     <content>hihi</content>
     <link href="https://tiktok.com/@duhsirachel/video/7242133647732575494" rel="alternate"/>
     <published>2023-06-08T02:17:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7242189535738711302</id>
+    <title>kamis apes</title>
+    <updated>2023-06-08T05:54:15+00:00</updated>
+    <content>kamis apes</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7242189535738711302" rel="alternate"/>
+    <published>2023-06-08T05:54:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7242195269977214214</id>
+    <title>we good?</title>
+    <updated>2023-06-08T06:16:30+00:00</updated>
+    <content>we good?</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7242195269977214214" rel="alternate"/>
+    <published>2023-06-08T06:16:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7242252553893809414</id>
+    <title>bener" baguss💘</title>
+    <updated>2023-06-08T09:58:47+00:00</updated>
+    <content>bener" baguss💘</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7242252553893809414" rel="alternate"/>
+    <published>2023-06-08T09:58:47+00:00</published>
   </entry>
 </feed>

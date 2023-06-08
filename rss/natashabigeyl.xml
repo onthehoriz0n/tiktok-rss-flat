@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-06-03T12:00:31+00:00</updated>
+  <updated>2023-06-08T10:26:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7237418435897019653</id>
-    <title>Replying to @freekalem hehe tiba2 curcol, love you deh @Iben M.A.❤️ #PakeKiehls #KiehlsID #KiehlsPureSerum #EnoughSaid #AlwaysOn </title>
-    <updated>2023-05-26T09:19:57+00:00</updated>
-    <content>Replying to @freekalem hehe tiba2 curcol, love you deh @Iben M.A.❤️ #PakeKiehls #KiehlsID #KiehlsPureSerum #EnoughSaid #AlwaysOn </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7237418435897019653" rel="alternate"/>
-    <published>2023-05-26T09:19:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7238893275560611078</id>
-    <title>Replying to @aygjen0 PERLU GUE SPILL GAK NIHH? #iNOAhairID #LorealProID </title>
-    <updated>2023-05-30T08:43:04+00:00</updated>
-    <content>Replying to @aygjen0 PERLU GUE SPILL GAK NIHH? #iNOAhairID #LorealProID </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7238893275560611078" rel="alternate"/>
-    <published>2023-05-30T08:43:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7239547436056743173</id>
     <title>Ada yang ketemu pacar seminggu sekali doang jg?🙋🏻‍♀️  #StayCoolUnderTheSun #VaselineSPF50+ </title>
@@ -51,5 +35,21 @@
     <content>cantik ga? </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7240428498521902341" rel="alternate"/>
     <published>2023-06-03T12:00:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7242256913893739782</id>
+    <title>not sponsored tp SEBAGUS ITU sih ini🥺</title>
+    <updated>2023-06-08T10:15:42+00:00</updated>
+    <content>not sponsored tp SEBAGUS ITU sih ini🥺</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7242256913893739782" rel="alternate"/>
+    <published>2023-06-08T10:15:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7242259696374009093</id>
+    <title>hopping on the trend❤️ IB: @Yasmin Hero </title>
+    <updated>2023-06-08T10:26:29+00:00</updated>
+    <content>hopping on the trend❤️ IB: @Yasmin Hero </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7242259696374009093" rel="alternate"/>
+    <published>2023-06-08T10:26:29+00:00</published>
   </entry>
 </feed>
