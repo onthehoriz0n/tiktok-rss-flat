@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-06-05T02:11:58+00:00</updated>
+  <updated>2023-06-07T13:50:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
   <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7238443165944974598</id>
-    <title>No Title</title>
-    <updated>2023-05-29T03:36:25+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7238443165944974598" rel="alternate"/>
-    <published>2023-05-29T03:36:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7239147287203630342</id>
-    <title>jamkos jamkos</title>
-    <updated>2023-05-31T01:08:47+00:00</updated>
-    <content>jamkos jamkos</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7239147287203630342" rel="alternate"/>
-    <published>2023-05-31T01:08:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7239489229267553542</id>
-    <title>ikutin oten</title>
-    <updated>2023-05-31T23:15:41+00:00</updated>
-    <content>ikutin oten</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7239489229267553542" rel="alternate"/>
-    <published>2023-05-31T23:15:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7240042385902734598</id>
-    <title>No Title</title>
-    <updated>2023-06-02T11:02:12+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7240042385902734598" rel="alternate"/>
-    <published>2023-06-02T11:02:12+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@duhsirachel/video/7241018996215139589</id>
     <title>selamat ujiann guyss🫶🏻</title>
     <updated>2023-06-05T02:11:58+00:00</updated>
     <content>selamat ujiann guyss🫶🏻</content>
     <link href="https://tiktok.com/@duhsirachel/video/7241018996215139589" rel="alternate"/>
     <published>2023-06-05T02:11:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7241790062298467589</id>
+    <title>ujian</title>
+    <updated>2023-06-07T04:04:07+00:00</updated>
+    <content>ujian</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7241790062298467589" rel="alternate"/>
+    <published>2023-06-07T04:04:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7241790072939449605</id>
+    <title>met</title>
+    <updated>2023-06-07T04:04:08+00:00</updated>
+    <content>met</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7241790072939449605" rel="alternate"/>
+    <published>2023-06-07T04:04:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7241940961826196741</id>
+    <title>ga hafal</title>
+    <updated>2023-06-07T13:49:38+00:00</updated>
+    <content>ga hafal</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7241940961826196741" rel="alternate"/>
+    <published>2023-06-07T13:49:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7241941276176747781</id>
+    <title>apasi gjls</title>
+    <updated>2023-06-07T13:50:51+00:00</updated>
+    <content>apasi gjls</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7241941276176747781" rel="alternate"/>
+    <published>2023-06-07T13:50:51+00:00</published>
   </entry>
 </feed>
