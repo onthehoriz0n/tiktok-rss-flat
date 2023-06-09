@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-06-06T04:23:22+00:00</updated>
+  <updated>2023-06-08T09:57:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7240283117515279622</id>
-    <title>saya jg bingung #trendphotorandom #alditaher #indonesia #viralvideo #abckreasikrezi </title>
-    <updated>2023-06-03T02:36:24+00:00</updated>
-    <content>saya jg bingung #trendphotorandom #alditaher #indonesia #viralvideo #abckreasikrezi </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7240283117515279622" rel="alternate"/>
-    <published>2023-06-03T02:36:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7240771551405051142</id>
-    <title>#asian #glasses #fypシ #foryourpage </title>
-    <updated>2023-06-04T10:11:44+00:00</updated>
-    <content>#asian #glasses #fypシ #foryourpage </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7240771551405051142" rel="alternate"/>
-    <published>2023-06-04T10:11:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7241228371269586182</id>
-    <title>#fyp #ifweeverbrokeup #i </title>
-    <updated>2023-06-05T15:44:26+00:00</updated>
-    <content>#fyp #ifweeverbrokeup #i </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7241228371269586182" rel="alternate"/>
-    <published>2023-06-05T15:44:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7241402140462206214</id>
     <title>🥰 #radio #nowmylifeissweetlikecinnamon #fypシ #lanadelrey </title>
@@ -51,5 +27,29 @@
     <content>#foryou </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7241423950155156742" rel="alternate"/>
     <published>2023-06-06T04:23:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7241927022837124358</id>
+    <title>#fypシ #dvacosplay #dvaoverwatch #switch #foryou </title>
+    <updated>2023-06-07T12:55:34+00:00</updated>
+    <content>#fypシ #dvacosplay #dvaoverwatch #switch #foryou </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7241927022837124358" rel="alternate"/>
+    <published>2023-06-07T12:55:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7242136194304331013</id>
+    <title>#transition #cosplayanime #overwatch #4u </title>
+    <updated>2023-06-08T02:27:17+00:00</updated>
+    <content>#transition #cosplayanime #overwatch #4u </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7242136194304331013" rel="alternate"/>
+    <published>2023-06-08T02:27:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7242252115064802566</id>
+    <title>#dvacosplay #dvaoverwatch #jj #untukmu #viral #tiktok #indonesia </title>
+    <updated>2023-06-08T09:57:04+00:00</updated>
+    <content>#dvacosplay #dvaoverwatch #jj #untukmu #viral #tiktok #indonesia </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7242252115064802566" rel="alternate"/>
+    <published>2023-06-08T09:57:04+00:00</published>
   </entry>
 </feed>
