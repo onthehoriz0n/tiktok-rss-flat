@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-06-08T09:58:47+00:00</updated>
+  <updated>2023-06-09T03:24:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7241941276176747781</id>
-    <title>apasi gjls</title>
-    <updated>2023-06-07T13:50:51+00:00</updated>
-    <content>apasi gjls</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7241941276176747781" rel="alternate"/>
-    <published>2023-06-07T13:50:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7242133647732575494</id>
-    <title>hihi</title>
-    <updated>2023-06-08T02:17:22+00:00</updated>
-    <content>hihi</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7242133647732575494" rel="alternate"/>
-    <published>2023-06-08T02:17:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7242189535738711302</id>
     <title>kamis apes</title>
@@ -51,5 +35,21 @@
     <content>bener" baguss💘</content>
     <link href="https://tiktok.com/@duhsirachel/video/7242252553893809414" rel="alternate"/>
     <published>2023-06-08T09:58:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7242521439973297413</id>
+    <title>yeayy a day in my life lagiii💗 #bibirnaikkelas #pulpentetapajaib </title>
+    <updated>2023-06-09T03:22:12+00:00</updated>
+    <content>yeayy a day in my life lagiii💗 #bibirnaikkelas #pulpentetapajaib </content>
+    <link href="https://tiktok.com/@duhsirachel/video/7242521439973297413" rel="alternate"/>
+    <published>2023-06-09T03:22:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7242522096222375173</id>
+    <title>sky paragoy</title>
+    <updated>2023-06-09T03:24:46+00:00</updated>
+    <content>sky paragoy</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7242522096222375173" rel="alternate"/>
+    <published>2023-06-09T03:24:46+00:00</published>
   </entry>
 </feed>
