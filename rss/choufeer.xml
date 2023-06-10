@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-06-10T11:28:40+00:00</updated>
+  <updated>2023-06-10T15:37:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7241922118269619461</id>
-    <title>No Title</title>
-    <updated>2023-06-07T12:36:31+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7241922118269619461" rel="alternate"/>
-    <published>2023-06-07T12:36:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7242239326053027077</id>
     <title>💛💙 #vaporesso #xros3nano </title>
@@ -51,5 +43,13 @@
     <content>@kayess </content>
     <link href="https://tiktok.com/@choufeer/video/7243017890859879686" rel="alternate"/>
     <published>2023-06-10T11:28:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7243081964478139654</id>
+    <title>HAHAHHAHA @raisa </title>
+    <updated>2023-06-10T15:37:19+00:00</updated>
+    <content>HAHAHHAHA @raisa </content>
+    <link href="https://tiktok.com/@choufeer/video/7243081964478139654" rel="alternate"/>
+    <published>2023-06-10T15:37:19+00:00</published>
   </entry>
 </feed>
