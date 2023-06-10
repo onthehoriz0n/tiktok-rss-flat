@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-06-08T09:57:04+00:00</updated>
+  <updated>2023-06-10T19:33:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7241402140462206214</id>
-    <title>🥰 #radio #nowmylifeissweetlikecinnamon #fypシ #lanadelrey </title>
-    <updated>2023-06-06T02:58:44+00:00</updated>
-    <content>🥰 #radio #nowmylifeissweetlikecinnamon #fypシ #lanadelrey </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7241402140462206214" rel="alternate"/>
-    <published>2023-06-06T02:58:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7241423950155156742</id>
     <title>#foryou </title>
@@ -51,5 +43,13 @@
     <content>#dvacosplay #dvaoverwatch #jj #untukmu #viral #tiktok #indonesia </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7242252115064802566" rel="alternate"/>
     <published>2023-06-08T09:57:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7243142944763546886</id>
+    <title>Which one? #secretary #fyp #4u </title>
+    <updated>2023-06-10T19:33:58+00:00</updated>
+    <content>Which one? #secretary #fyp #4u </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7243142944763546886" rel="alternate"/>
+    <published>2023-06-10T19:33:58+00:00</published>
   </entry>
 </feed>
