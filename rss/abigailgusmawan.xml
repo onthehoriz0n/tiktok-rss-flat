@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-05-31T04:26:48+00:00</updated>
+  <updated>2023-06-11T08:45:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7232105621271711003</id>
-    <title>Hell nah 🤙🏻</title>
-    <updated>2023-05-12T01:43:40+00:00</updated>
-    <content>Hell nah 🤙🏻</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7232105621271711003" rel="alternate"/>
-    <published>2023-05-12T01:43:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7234063687290604806</id>
-    <title>#InstantFilm </title>
-    <updated>2023-05-17T08:21:50+00:00</updated>
-    <content>#InstantFilm </content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7234063687290604806" rel="alternate"/>
-    <published>2023-05-17T08:21:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7234718507613621509</id>
     <title>Office outing at its finest 😝</title>
@@ -51,5 +35,21 @@
     <content>Seriously lasted all day🤯</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7239198320273427717" rel="alternate"/>
     <published>2023-05-31T04:26:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7243127779426913542</id>
+    <title>in my healing era</title>
+    <updated>2023-06-10T18:35:06+00:00</updated>
+    <content>in my healing era</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7243127779426913542" rel="alternate"/>
+    <published>2023-06-10T18:35:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7243347036412660998</id>
+    <title>No Title</title>
+    <updated>2023-06-11T08:45:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7243347036412660998" rel="alternate"/>
+    <published>2023-06-11T08:45:56+00:00</published>
   </entry>
 </feed>
