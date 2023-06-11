@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-06-09T10:38:52+00:00</updated>
+  <updated>2023-06-10T12:44:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7240428498521902341</id>
-    <title>cantik ga? </title>
-    <updated>2023-06-03T12:00:31+00:00</updated>
-    <content>cantik ga? </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7240428498521902341" rel="alternate"/>
-    <published>2023-06-03T12:00:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7242256913893739782</id>
     <title>not sponsored tp SEBAGUS ITU sih ini🥺</title>
@@ -51,5 +43,13 @@
     <content>ok skrg gue tau wanginya Zendaya kaya gimana🙏🏻</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7242633966094650629" rel="alternate"/>
     <published>2023-06-09T10:38:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7243037322810313989</id>
+    <title>🙂🙂🙂🙂🙂🙂🙂</title>
+    <updated>2023-06-10T12:44:05+00:00</updated>
+    <content>🙂🙂🙂🙂🙂🙂🙂</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7243037322810313989" rel="alternate"/>
+    <published>2023-06-10T12:44:05+00:00</published>
   </entry>
 </feed>
