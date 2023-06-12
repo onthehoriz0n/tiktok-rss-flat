@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-06-12T03:18:38+00:00</updated>
+  <updated>2023-06-12T03:13:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7242259696374009093</id>
+    <title>hopping on the trend❤️ IB: @Yasmin Hero </title>
+    <updated>2023-06-08T10:26:29+00:00</updated>
+    <content>hopping on the trend❤️ IB: @Yasmin Hero </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7242259696374009093" rel="alternate"/>
+    <published>2023-06-08T10:26:29+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7242359260103855365</id>
     <title>Menurut kalian worth it gakkk? Aku sih cinta bgt @CAPRIQUES ® 🥺❤️</title>
@@ -43,13 +51,5 @@
     <content>plis tiap bangun tidur gini terus ya😌🙏🏻 @L'Oreal Paris Indonesia  #extraordinaryhair #lorealpariscannesid</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7243632370878893318" rel="alternate"/>
     <published>2023-06-12T03:13:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7243633775324974341</id>
-    <title>@ tiktok, you don’t need to expose me that much🤡</title>
-    <updated>2023-06-12T03:18:38+00:00</updated>
-    <content>@ tiktok, you don’t need to expose me that much🤡</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7243633775324974341" rel="alternate"/>
-    <published>2023-06-12T03:18:38+00:00</published>
   </entry>
 </feed>
