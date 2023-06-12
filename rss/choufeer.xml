@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-06-10T15:37:19+00:00</updated>
+  <updated>2023-06-12T07:19:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7242239326053027077</id>
-    <title>💛💙 #vaporesso #xros3nano </title>
-    <updated>2023-06-08T09:07:26+00:00</updated>
-    <content>💛💙 #vaporesso #xros3nano </content>
-    <link href="https://tiktok.com/@choufeer/video/7242239326053027077" rel="alternate"/>
-    <published>2023-06-08T09:07:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7242659590448418054</id>
-    <title>No Title</title>
-    <updated>2023-06-09T12:18:18+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7242659590448418054" rel="alternate"/>
-    <published>2023-06-09T12:18:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7242727825088810245</id>
-    <title>ini mah dea @D </title>
-    <updated>2023-06-09T16:43:05+00:00</updated>
-    <content>ini mah dea @D </content>
-    <link href="https://tiktok.com/@choufeer/video/7242727825088810245" rel="alternate"/>
-    <published>2023-06-09T16:43:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7243017890859879686</id>
     <title>@kayess </title>
@@ -51,5 +27,29 @@
     <content>HAHAHHAHA @raisa </content>
     <link href="https://tiktok.com/@choufeer/video/7243081964478139654" rel="alternate"/>
     <published>2023-06-10T15:37:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7243679761027910918</id>
+    <title>@acha </title>
+    <updated>2023-06-12T06:17:05+00:00</updated>
+    <content>@acha </content>
+    <link href="https://tiktok.com/@choufeer/video/7243679761027910918" rel="alternate"/>
+    <published>2023-06-12T06:17:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7243681650486430982</id>
+    <title>@acha </title>
+    <updated>2023-06-12T06:24:26+00:00</updated>
+    <content>@acha </content>
+    <link href="https://tiktok.com/@choufeer/video/7243681650486430982" rel="alternate"/>
+    <published>2023-06-12T06:24:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7243695953331473670</id>
+    <title>@acha </title>
+    <updated>2023-06-12T07:19:56+00:00</updated>
+    <content>@acha </content>
+    <link href="https://tiktok.com/@choufeer/video/7243695953331473670" rel="alternate"/>
+    <published>2023-06-12T07:19:56+00:00</published>
   </entry>
 </feed>
