@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-06-13T10:20:42+00:00</updated>
+  <updated>2023-06-13T13:11:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7239375925123484934</id>
-    <title>kata kayes “ NT LYD “</title>
-    <updated>2023-05-31T15:55:59+00:00</updated>
-    <content>kata kayes “ NT LYD “</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7239375925123484934" rel="alternate"/>
-    <published>2023-05-31T15:55:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7241932299485433093</id>
     <title>trio kembar</title>
@@ -51,5 +43,13 @@
     <content>@BumbleDog Petshop Siapa yang pelihara kucing atau anjing angkat tangan🤚 Beli perlengkapan mulai dari makanan hingga aksesoris dan grooming di BumbleDog PetShop </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7244113633771343110" rel="alternate"/>
     <published>2023-06-13T10:20:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7244157764338011398</id>
+    <title>No Title</title>
+    <updated>2023-06-13T13:11:58+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7244157764338011398" rel="alternate"/>
+    <published>2023-06-13T13:11:58+00:00</published>
   </entry>
 </feed>
