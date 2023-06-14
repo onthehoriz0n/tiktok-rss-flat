@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-06-13T08:21:06+00:00</updated>
+  <updated>2023-06-14T01:04:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7242609282083048709</id>
-    <title>No Title</title>
-    <updated>2023-06-09T09:03:05+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7242609282083048709" rel="alternate"/>
-    <published>2023-06-09T09:03:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7243227292393131269</id>
     <title>lg mood pargoy</title>
@@ -51,5 +43,13 @@
     <content>pelan pelan pak supir</content>
     <link href="https://tiktok.com/@duhsirachel/video/7244082807369256198" rel="alternate"/>
     <published>2023-06-13T08:21:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7244341288340901125</id>
+    <title>No Title</title>
+    <updated>2023-06-14T01:04:09+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7244341288340901125" rel="alternate"/>
+    <published>2023-06-14T01:04:09+00:00</published>
   </entry>
 </feed>
