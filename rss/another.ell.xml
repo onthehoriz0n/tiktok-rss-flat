@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-06-15T03:44:19+00:00</updated>
+  <updated>2023-06-15T09:00:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7243802113451543813</id>
-    <title>ga sia” huhu🫶🏻 #noerabyreisha </title>
-    <updated>2023-06-12T14:11:51+00:00</updated>
-    <content>ga sia” huhu🫶🏻 #noerabyreisha </content>
-    <link href="https://tiktok.com/@another.ell/video/7243802113451543813" rel="alternate"/>
-    <published>2023-06-12T14:11:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7243979616942116101</id>
     <title>bucket bikin cerah😍✨ #noeracollagendrink  </title>
@@ -51,5 +43,13 @@
     <content>jadi pake headset or ngga nih?🥲 #kiip </content>
     <link href="https://tiktok.com/@another.ell/video/7244753642228665605" rel="alternate"/>
     <published>2023-06-15T03:44:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7244835058807328006</id>
+    <title>current fav liptint💋🫶🏻 </title>
+    <updated>2023-06-15T09:00:15+00:00</updated>
+    <content>current fav liptint💋🫶🏻 </content>
+    <link href="https://tiktok.com/@another.ell/video/7244835058807328006" rel="alternate"/>
+    <published>2023-06-15T09:00:15+00:00</published>
   </entry>
 </feed>
