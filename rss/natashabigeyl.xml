@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-06-13T13:02:44+00:00</updated>
+  <updated>2023-06-15T14:17:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7243037322810313989</id>
-    <title>🙂🙂🙂🙂🙂🙂🙂</title>
-    <updated>2023-06-10T12:44:05+00:00</updated>
-    <content>🙂🙂🙂🙂🙂🙂🙂</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7243037322810313989" rel="alternate"/>
-    <published>2023-06-10T12:44:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7243632370878893318</id>
     <title>plis tiap bangun tidur gini terus ya😌🙏🏻 @L'Oreal Paris Indonesia  #extraordinaryhair #lorealpariscannesid</title>
@@ -51,5 +43,13 @@
     <content>Replying to @garisushie Intinya: pacaran ga seribet itu kalo dibawa seru aja &amp; kalo beli minuman #MendingShopeeFood aja karena banyak promonya😚🧡</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7244155384259251461" rel="alternate"/>
     <published>2023-06-13T13:02:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7244916909190155525</id>
+    <title>Mau peluk kalian semua yang lagi berjuang dengan mental health journeynya. I know it’s hard, but believe me it’s all worth it❤️ #BraveTogether #BraveTogetherID #mentalhealthjourney #mentalhealth #adhd @maybelline_indonesia </title>
+    <updated>2023-06-15T14:17:49+00:00</updated>
+    <content>Mau peluk kalian semua yang lagi berjuang dengan mental health journeynya. I know it’s hard, but believe me it’s all worth it❤️ #BraveTogether #BraveTogetherID #mentalhealthjourney #mentalhealth #adhd @maybelline_indonesia </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7244916909190155525" rel="alternate"/>
+    <published>2023-06-15T14:17:49+00:00</published>
   </entry>
 </feed>
