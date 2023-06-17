@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-06-14T11:36:21+00:00</updated>
+  <updated>2023-06-17T00:33:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7244082539852287238</id>
-    <title>pelan pelan pak supir</title>
-    <updated>2023-06-13T08:20:04+00:00</updated>
-    <content>pelan pelan pak supir</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7244082539852287238" rel="alternate"/>
-    <published>2023-06-13T08:20:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7244082807369256198</id>
     <title>pelan pelan pak supir</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7244504204306435334" rel="alternate"/>
     <published>2023-06-14T11:36:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7245446524287585542</id>
+    <title>selalu suka sm focalure❤️</title>
+    <updated>2023-06-17T00:33:04+00:00</updated>
+    <content>selalu suka sm focalure❤️</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7245446524287585542" rel="alternate"/>
+    <published>2023-06-17T00:33:04+00:00</published>
   </entry>
 </feed>
