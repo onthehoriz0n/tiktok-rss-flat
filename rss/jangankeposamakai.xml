@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-06-14T16:21:48+00:00</updated>
+  <updated>2023-06-16T14:54:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-06-12T18:15:07+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7244442709413399814</id>
-    <title>#foryou </title>
-    <updated>2023-06-14T07:37:44+00:00</updated>
-    <content>#foryou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7244442709413399814" rel="alternate"/>
-    <published>2023-06-14T07:37:44+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7244577766421695750</id>
     <title>ga bahaya ta #spongebob #kimono #foryoupage #viraltiktok </title>
     <updated>2023-06-14T16:21:48+00:00</updated>
     <content>ga bahaya ta #spongebob #kimono #foryoupage #viraltiktok </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7244577766421695750" rel="alternate"/>
     <published>2023-06-14T16:21:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7245297568777915653</id>
+    <title>#TikTokImpact #spidermancosplay #justforyou #fypage </title>
+    <updated>2023-06-16T14:54:59+00:00</updated>
+    <content>#TikTokImpact #spidermancosplay #justforyou #fypage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7245297568777915653" rel="alternate"/>
+    <published>2023-06-16T14:54:59+00:00</published>
   </entry>
 </feed>
