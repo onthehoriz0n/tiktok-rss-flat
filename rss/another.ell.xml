@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-06-16T19:01:51+00:00</updated>
+  <updated>2023-06-18T11:02:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7244753642228665605</id>
-    <title>jadi pake headset or ngga nih?🥲 #kiip </title>
-    <updated>2023-06-15T03:44:19+00:00</updated>
-    <content>jadi pake headset or ngga nih?🥲 #kiip </content>
-    <link href="https://tiktok.com/@another.ell/video/7244753642228665605" rel="alternate"/>
-    <published>2023-06-15T03:44:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7244835058807328006</id>
     <title>current fav liptint💋🫶🏻 </title>
@@ -51,5 +43,13 @@
     <content>akhirnya nemu namanya🙏</content>
     <link href="https://tiktok.com/@another.ell/video/7245361175179889925" rel="alternate"/>
     <published>2023-06-16T19:01:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7245979798810397957</id>
+    <title>mirror selfie ftw🤳</title>
+    <updated>2023-06-18T11:02:22+00:00</updated>
+    <content>mirror selfie ftw🤳</content>
+    <link href="https://tiktok.com/@another.ell/video/7245979798810397957" rel="alternate"/>
+    <published>2023-06-18T11:02:22+00:00</published>
   </entry>
 </feed>
