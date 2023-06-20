@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-06-19T17:57:40+00:00</updated>
+  <updated>2023-06-20T14:20:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7243371064879811846</id>
-    <title>#fypanimeッ #foryou #glasses </title>
-    <updated>2023-06-11T10:19:10+00:00</updated>
-    <content>#fypanimeッ #foryou #glasses </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7243371064879811846" rel="alternate"/>
-    <published>2023-06-11T10:19:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7243864795605257477</id>
     <title>The power of remini😻🫶 #CapCut #remini #jj #filter #beruang #pageforyou </title>
@@ -51,5 +43,13 @@
     <content>#foryou #fypシ #4upage </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7246457886350642437" rel="alternate"/>
     <published>2023-06-19T17:57:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7246772894607478022</id>
+    <title>maaf alay #fyp #paragoy #xyzbca </title>
+    <updated>2023-06-20T14:20:01+00:00</updated>
+    <content>maaf alay #fyp #paragoy #xyzbca </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7246772894607478022" rel="alternate"/>
+    <published>2023-06-20T14:20:01+00:00</published>
   </entry>
 </feed>
