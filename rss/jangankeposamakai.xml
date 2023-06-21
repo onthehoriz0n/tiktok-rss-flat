@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-06-20T14:20:01+00:00</updated>
+  <updated>2023-06-21T04:52:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7243864795605257477</id>
-    <title>The power of remini😻🫶 #CapCut #remini #jj #filter #beruang #pageforyou </title>
-    <updated>2023-06-12T18:15:07+00:00</updated>
-    <content>The power of remini😻🫶 #CapCut #remini #jj #filter #beruang #pageforyou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7243864795605257477" rel="alternate"/>
-    <published>2023-06-12T18:15:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7244577766421695750</id>
     <title>ga bahaya ta #spongebob #kimono #foryoupage #viraltiktok </title>
@@ -51,5 +43,13 @@
     <content>maaf alay #fyp #paragoy #xyzbca </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7246772894607478022" rel="alternate"/>
     <published>2023-06-20T14:20:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7246997810019585286</id>
+    <title>#4u #fypage #spidermancosplay </title>
+    <updated>2023-06-21T04:52:47+00:00</updated>
+    <content>#4u #fypage #spidermancosplay </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7246997810019585286" rel="alternate"/>
+    <published>2023-06-21T04:52:47+00:00</published>
   </entry>
 </feed>
