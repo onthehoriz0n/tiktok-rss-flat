@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-06-22T03:11:45+00:00</updated>
+  <updated>2023-06-22T13:11:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7245302428818509062</id>
-    <title>mana enak bgt🥲 #noeracollagendrink </title>
-    <updated>2023-06-16T15:13:50+00:00</updated>
-    <content>mana enak bgt🥲 #noeracollagendrink </content>
-    <link href="https://tiktok.com/@another.ell/video/7245302428818509062" rel="alternate"/>
-    <published>2023-06-16T15:13:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7245361175179889925</id>
     <title>akhirnya nemu namanya🙏</title>
@@ -51,5 +43,13 @@
     <content>sampe udah ga jaman #fakebody </content>
     <link href="https://tiktok.com/@another.ell/video/7247342849530924293" rel="alternate"/>
     <published>2023-06-22T03:11:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7247497461475020037</id>
+    <title>bangun” liat muka hepi bgt😍 </title>
+    <updated>2023-06-22T13:11:42+00:00</updated>
+    <content>bangun” liat muka hepi bgt😍 </content>
+    <link href="https://tiktok.com/@another.ell/video/7247497461475020037" rel="alternate"/>
+    <published>2023-06-22T13:11:42+00:00</published>
   </entry>
 </feed>
