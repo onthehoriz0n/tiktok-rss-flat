@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-06-21T17:39:56+00:00</updated>
+  <updated>2023-06-22T07:28:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7246681313766329606</id>
-    <title>No Title</title>
-    <updated>2023-06-20T08:24:39+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7246681313766329606" rel="alternate"/>
-    <published>2023-06-20T08:24:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7246723778288291078</id>
-    <title>No Title</title>
-    <updated>2023-06-20T11:09:24+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7246723778288291078" rel="alternate"/>
-    <published>2023-06-20T11:09:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7247010861515083014</id>
     <title>princess nicky😍</title>
@@ -51,5 +35,21 @@
     <content>canggung</content>
     <link href="https://tiktok.com/@choufeer/video/7247195498996600070" rel="alternate"/>
     <published>2023-06-21T17:39:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7247378288946072838</id>
+    <title>No Title</title>
+    <updated>2023-06-22T05:29:17+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@choufeer/video/7247378288946072838" rel="alternate"/>
+    <published>2023-06-22T05:29:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7247409053746384134</id>
+    <title>@Kiboy </title>
+    <updated>2023-06-22T07:28:40+00:00</updated>
+    <content>@Kiboy </content>
+    <link href="https://tiktok.com/@choufeer/video/7247409053746384134" rel="alternate"/>
+    <published>2023-06-22T07:28:40+00:00</published>
   </entry>
 </feed>
