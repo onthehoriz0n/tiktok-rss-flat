@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-06-21T11:02:56+00:00</updated>
+  <updated>2023-06-22T03:11:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7244867849980742917</id>
-    <title>AI Snow memotivasi ak biar makin cantik🥲🙏 #snowai </title>
-    <updated>2023-06-15T11:07:27+00:00</updated>
-    <content>AI Snow memotivasi ak biar makin cantik🥲🙏 #snowai </content>
-    <link href="https://tiktok.com/@another.ell/video/7244867849980742917" rel="alternate"/>
-    <published>2023-06-15T11:07:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7245302428818509062</id>
     <title>mana enak bgt🥲 #noeracollagendrink </title>
@@ -51,5 +43,13 @@
     <content>hafal jalur fyp</content>
     <link href="https://tiktok.com/@another.ell/video/7247093194691710213" rel="alternate"/>
     <published>2023-06-21T11:02:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7247342849530924293</id>
+    <title>sampe udah ga jaman #fakebody </title>
+    <updated>2023-06-22T03:11:45+00:00</updated>
+    <content>sampe udah ga jaman #fakebody </content>
+    <link href="https://tiktok.com/@another.ell/video/7247342849530924293" rel="alternate"/>
+    <published>2023-06-22T03:11:45+00:00</published>
   </entry>
 </feed>
