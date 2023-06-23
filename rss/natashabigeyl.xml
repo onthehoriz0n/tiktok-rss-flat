@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-06-22T11:14:37+00:00</updated>
+  <updated>2023-06-23T06:38:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7245220125870132485</id>
-    <title>my current fav skincare prep, terutama serumnya juara bgt sih buat dipake sebelom foundation #GlycoSwipeToGlow #LorealParisCannesID </title>
-    <updated>2023-06-16T09:54:27+00:00</updated>
-    <content>my current fav skincare prep, terutama serumnya juara bgt sih buat dipake sebelom foundation #GlycoSwipeToGlow #LorealParisCannesID </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7245220125870132485" rel="alternate"/>
-    <published>2023-06-16T09:54:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7246344209479814406</id>
-    <title>cuma 40rb jadi gaboleh pelit cobain ya ok. #azarinexredvelvet #liptint </title>
-    <updated>2023-06-19T10:36:30+00:00</updated>
-    <content>cuma 40rb jadi gaboleh pelit cobain ya ok. #azarinexredvelvet #liptint </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7246344209479814406" rel="alternate"/>
-    <published>2023-06-19T10:36:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7246387488892177669</id>
     <title>biar ga kaya iben pake baju item terus🥲, episode pertama #NatInColors: RED❤️</title>
@@ -51,5 +35,21 @@
     <content>Jadi yang red flag gue apa iben?🤡🚩 #firstdate #extraordinaryhair @L'Oreal Paris Indonesia </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7247467292185939206" rel="alternate"/>
     <published>2023-06-22T11:14:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7247752328986578181</id>
+    <title>Yakali gue harus stop ngonten grgr ini??🥲 @Hydro Coco VITA-D </title>
+    <updated>2023-06-23T05:40:43+00:00</updated>
+    <content>Yakali gue harus stop ngonten grgr ini??🥲 @Hydro Coco VITA-D </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7247752328986578181" rel="alternate"/>
+    <published>2023-06-23T05:40:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7247767206929419526</id>
+    <title>plis tiap bangun tidur kaya gini terus ya😌🙏🏻 #HyaluronHair #lorealpariscannesid @L'Oreal Paris Indonesia </title>
+    <updated>2023-06-23T06:38:28+00:00</updated>
+    <content>plis tiap bangun tidur kaya gini terus ya😌🙏🏻 #HyaluronHair #lorealpariscannesid @L'Oreal Paris Indonesia </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7247767206929419526" rel="alternate"/>
+    <published>2023-06-23T06:38:28+00:00</published>
   </entry>
 </feed>

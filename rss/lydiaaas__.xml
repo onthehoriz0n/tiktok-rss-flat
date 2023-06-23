@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-06-19T15:57:24+00:00</updated>
+  <updated>2023-06-23T09:43:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7244864855490989317</id>
-    <title>No Title</title>
-    <updated>2023-06-15T10:55:51+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7244864855490989317" rel="alternate"/>
-    <published>2023-06-15T10:55:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7245641124071640326</id>
     <title>3-0 yaaaaiiiiee</title>
@@ -51,5 +43,13 @@
     <content>SNACK TERENAK WOE COBAIN YAA 🩶 #mujigae </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7246426907368082693" rel="alternate"/>
     <published>2023-06-19T15:57:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7247814834979638533</id>
+    <title>Kadang kalau lagi asik ngewar suka keganggu karna panas dalam🥲  Ini solusi aku untuk kalian biar ngewar tetap aman, adem dan tetep seger! @ademsari.id </title>
+    <updated>2023-06-23T09:43:17+00:00</updated>
+    <content>Kadang kalau lagi asik ngewar suka keganggu karna panas dalam🥲  Ini solusi aku untuk kalian biar ngewar tetap aman, adem dan tetep seger! @ademsari.id </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7247814834979638533" rel="alternate"/>
+    <published>2023-06-23T09:43:17+00:00</published>
   </entry>
 </feed>
