@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-06-18T02:39:54+00:00</updated>
+  <updated>2023-06-23T08:15:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7244228924689927430</id>
-    <title>fav exercise atm 👊🏻🎀🧸🥰✨  #gym #fitness #gymgirl #workout </title>
-    <updated>2023-06-13T17:48:06+00:00</updated>
-    <content>fav exercise atm 👊🏻🎀🧸🥰✨  #gym #fitness #gymgirl #workout </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7244228924689927430" rel="alternate"/>
-    <published>2023-06-13T17:48:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7244525031382879493</id>
     <title>24 look good or no </title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@stellatandajaya/video/7245850311569460485" rel="alternate"/>
     <published>2023-06-18T02:39:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7247792125927099654</id>
+    <title>fits check </title>
+    <updated>2023-06-23T08:15:11+00:00</updated>
+    <content>fits check </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7247792125927099654" rel="alternate"/>
+    <published>2023-06-23T08:15:11+00:00</published>
   </entry>
 </feed>
