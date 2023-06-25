@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@molotovbomb</id>
   <title>molotovbomb TikTok</title>
-  <updated>2023-06-25T04:30:13.097200+00:00</updated>
+  <updated>2023-06-25T04:44:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,12 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from molotovbomb</subtitle>
+  <entry>
+    <id>https://tiktok.com/@molotovbomb/video/7248479886321503493</id>
+    <title>commuter punk bikes! #slowspeeedzombies #commuterbike #26inch #federal #federalbikes #federalindonesia #gravel #gravelbike #jambi #sepeda </title>
+    <updated>2023-06-25T04:44:01+00:00</updated>
+    <content>commuter punk bikes! #slowspeeedzombies #commuterbike #26inch #federal #federalbikes #federalindonesia #gravel #gravelbike #jambi #sepeda </content>
+    <link href="https://tiktok.com/@molotovbomb/video/7248479886321503493" rel="alternate"/>
+    <published>2023-06-25T04:44:01+00:00</published>
+  </entry>
 </feed>
