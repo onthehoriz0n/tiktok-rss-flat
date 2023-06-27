@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-06-25T13:15:36+00:00</updated>
+  <updated>2023-06-27T05:13:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7243718163303632133</id>
-    <title>my child</title>
-    <updated>2023-06-12T08:46:06+00:00</updated>
-    <content>my child</content>
-    <link href="https://tiktok.com/@bailafauri/video/7243718163303632133" rel="alternate"/>
-    <published>2023-06-12T08:46:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7244130346395110661</id>
     <title>lmao</title>
@@ -51,5 +43,13 @@
     <content>@sisi amara 𓆩♡𓆪  my dorothea &lt;3</content>
     <link href="https://tiktok.com/@bailafauri/video/7248611720715947269" rel="alternate"/>
     <published>2023-06-25T13:15:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7249229529997217029</id>
+    <title>coolio</title>
+    <updated>2023-06-27T05:13:01+00:00</updated>
+    <content>coolio</content>
+    <link href="https://tiktok.com/@bailafauri/video/7249229529997217029" rel="alternate"/>
+    <published>2023-06-27T05:13:01+00:00</published>
   </entry>
 </feed>
