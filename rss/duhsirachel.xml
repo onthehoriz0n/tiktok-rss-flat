@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-06-27T11:29:35+00:00</updated>
+  <updated>2023-06-28T03:14:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7247459103172234501</id>
-    <title>No Title</title>
-    <updated>2023-06-22T10:42:51+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7247459103172234501" rel="alternate"/>
-    <published>2023-06-22T10:42:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7248765891146419461</id>
-    <title>draft aja lah soalnya udh libur🥹</title>
-    <updated>2023-06-25T23:13:53+00:00</updated>
-    <content>draft aja lah soalnya udh libur🥹</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7248765891146419461" rel="alternate"/>
-    <published>2023-06-25T23:13:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7248777087564205317</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>lagu nya enak bgt haha</content>
     <link href="https://tiktok.com/@duhsirachel/video/7249326569859173637" rel="alternate"/>
     <published>2023-06-27T11:29:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7249569909712096518</id>
+    <title>ko bentar</title>
+    <updated>2023-06-28T03:13:52+00:00</updated>
+    <content>ko bentar</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7249569909712096518" rel="alternate"/>
+    <published>2023-06-28T03:13:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7249570014397861126</id>
+    <title>ngapain hayo pake seragam</title>
+    <updated>2023-06-28T03:14:17+00:00</updated>
+    <content>ngapain hayo pake seragam</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7249570014397861126" rel="alternate"/>
+    <published>2023-06-28T03:14:17+00:00</published>
   </entry>
 </feed>
