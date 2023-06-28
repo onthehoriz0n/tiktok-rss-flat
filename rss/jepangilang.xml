@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-06-28T07:19:11+00:00</updated>
+  <updated>2023-06-28T11:05:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7243815257309842694</id>
-    <title>ngaca hehe</title>
-    <updated>2023-06-12T15:02:52+00:00</updated>
-    <content>ngaca hehe</content>
-    <link href="https://tiktok.com/@jepangilang/video/7243815257309842694" rel="alternate"/>
-    <published>2023-06-12T15:02:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7243816795818315014</id>
     <title>THERES A REASON!!!</title>
@@ -51,5 +43,13 @@
     <content>:3</content>
     <link href="https://tiktok.com/@jepangilang/video/7249633126912232709" rel="alternate"/>
     <published>2023-06-28T07:19:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7249691572328090886</id>
+    <title>mau kmn yaa</title>
+    <updated>2023-06-28T11:05:58+00:00</updated>
+    <content>mau kmn yaa</content>
+    <link href="https://tiktok.com/@jepangilang/video/7249691572328090886" rel="alternate"/>
+    <published>2023-06-28T11:05:58+00:00</published>
   </entry>
 </feed>
