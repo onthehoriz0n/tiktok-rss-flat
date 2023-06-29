@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-06-26T14:23:00+00:00</updated>
+  <updated>2023-06-29T11:46:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7245967260475510022</id>
-    <title>pengen restream juga</title>
-    <updated>2023-06-18T10:13:44+00:00</updated>
-    <content>pengen restream juga</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7245967260475510022" rel="alternate"/>
-    <published>2023-06-18T10:13:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7246060445164293381</id>
     <title>asomasow juara 1 lagi olahraga maaf gajelas</title>
@@ -51,5 +43,13 @@
     <content>abis sakit 3 minggu berturut2 :(</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7249000173953731845" rel="alternate"/>
     <published>2023-06-26T14:23:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7250073171519458565</id>
+    <title>lucu ya </title>
+    <updated>2023-06-29T11:46:45+00:00</updated>
+    <content>lucu ya </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7250073171519458565" rel="alternate"/>
+    <published>2023-06-29T11:46:45+00:00</published>
   </entry>
 </feed>
