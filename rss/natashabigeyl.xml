@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-06-28T13:19:25+00:00</updated>
+  <updated>2023-06-30T09:30:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7247849597161262341</id>
-    <title>Nextnya, bikin warna apalagi nih?💚 #NatInColors </title>
-    <updated>2023-06-23T11:58:10+00:00</updated>
-    <content>Nextnya, bikin warna apalagi nih?💚 #NatInColors </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7247849597161262341" rel="alternate"/>
-    <published>2023-06-23T11:58:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7248247357836365062</id>
     <title>Replying to @tutuwiya  lunas yaa, warnanya udah gue spill di akhir😚🫶🏼 #LorealProID #iNOAhairID #MetalDXID #ScalpAdvancedID</title>
@@ -51,5 +43,13 @@
     <content>suka asal deh kalo nuduh @Iben M.A. , next week serunya ngapain ya?! #adayinmylife  </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7249725965042027782" rel="alternate"/>
     <published>2023-06-28T13:19:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7250409118932978950</id>
+    <title>Komen dong, apa best purchase kalian di 2023? biar bisa gue coba hihi Btw, semua product dari @L'Oreal Paris Indonesia @skintific_id @Clinique dan @NARS Cosmetics gue beli di LazBeauty @Lazada Indonesia yaa! Dijamin produknya 100% original, udah gitu ada </title>
+    <updated>2023-06-30T09:30:24+00:00</updated>
+    <content>Komen dong, apa best purchase kalian di 2023? biar bisa gue coba hihi Btw, semua product dari @L'Oreal Paris Indonesia @skintific_id @Clinique dan @NARS Cosmetics gue beli di LazBeauty @Lazada Indonesia yaa! Dijamin produknya 100% original, udah gitu ada diskon sampai 50% juga gratis ongkir ke seluruh indonesia. Buruan Manjakan diri dengan banyaknya pilihan beauty product dari LazBeauty! #LazBeauty #ManjakanBeautymu #bestmakeup #bestskincare </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7250409118932978950" rel="alternate"/>
+    <published>2023-06-30T09:30:24+00:00</published>
   </entry>
 </feed>
