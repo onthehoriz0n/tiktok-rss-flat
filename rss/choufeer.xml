@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-06-27T13:43:59+00:00</updated>
+  <updated>2023-06-30T07:49:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7247409053746384134</id>
-    <title>@Kiboy </title>
-    <updated>2023-06-22T07:28:40+00:00</updated>
-    <content>@Kiboy </content>
-    <link href="https://tiktok.com/@choufeer/video/7247409053746384134" rel="alternate"/>
-    <published>2023-06-22T07:28:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7247826539897818373</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@choufeer/video/7249361208854220038" rel="alternate"/>
     <published>2023-06-27T13:43:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7250383076075883781</id>
+    <title>slurp</title>
+    <updated>2023-06-30T07:49:22+00:00</updated>
+    <content>slurp</content>
+    <link href="https://tiktok.com/@choufeer/video/7250383076075883781" rel="alternate"/>
+    <published>2023-06-30T07:49:22+00:00</published>
   </entry>
 </feed>
