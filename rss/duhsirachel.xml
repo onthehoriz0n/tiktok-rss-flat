@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-06-28T03:14:17+00:00</updated>
+  <updated>2023-06-30T00:29:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7248777087564205317</id>
-    <title>No Title</title>
-    <updated>2023-06-25T23:57:20+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7248777087564205317" rel="alternate"/>
-    <published>2023-06-25T23:57:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7248984837690789125</id>
     <title>the originote bener bener kesayanganku❤️</title>
@@ -51,5 +43,13 @@
     <content>ngapain hayo pake seragam</content>
     <link href="https://tiktok.com/@duhsirachel/video/7249570014397861126" rel="alternate"/>
     <published>2023-06-28T03:14:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7250269750444477702</id>
+    <title>#CapCut seorang aku di cueki?</title>
+    <updated>2023-06-30T00:29:36+00:00</updated>
+    <content>#CapCut seorang aku di cueki?</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7250269750444477702" rel="alternate"/>
+    <published>2023-06-30T00:29:36+00:00</published>
   </entry>
 </feed>
