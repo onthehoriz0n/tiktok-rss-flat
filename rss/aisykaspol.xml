@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@aisykaspol</id>
   <title>aisykaspol TikTok</title>
-  <updated>2023-05-23T10:49:22+00:00</updated>
+  <updated>2023-07-02T09:18:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aisykaspol</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aisykaspol/video/7210390832019410203</id>
-    <title>Cheers for the better hair! #rambutimpianjadinyata #creambath </title>
-    <updated>2023-03-14T13:19:03+00:00</updated>
-    <content>Cheers for the better hair! #rambutimpianjadinyata #creambath </content>
-    <link href="https://tiktok.com/@aisykaspol/video/7210390832019410203" rel="alternate"/>
-    <published>2023-03-14T13:19:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aisykaspol/video/7217427267474001178</id>
     <title>Tebak Aisy udah belanja berapa banyak? 🫵😚 untuk hashtagnya ini ya Kak #skin1004 #skin1004id #sociolla #SKIN1004inSociolla #Sociolla8thanniversary @skin1004indonesia </title>
@@ -51,5 +43,13 @@
     <content>Hantu</content>
     <link href="https://tiktok.com/@aisykaspol/video/7236328230670601478" rel="alternate"/>
     <published>2023-05-23T10:49:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aisykaspol/video/7251148184280403205</id>
+    <title>WOI LG APA KALIAN</title>
+    <updated>2023-07-02T09:18:23+00:00</updated>
+    <content>WOI LG APA KALIAN</content>
+    <link href="https://tiktok.com/@aisykaspol/video/7251148184280403205" rel="alternate"/>
+    <published>2023-07-02T09:18:23+00:00</published>
   </entry>
 </feed>

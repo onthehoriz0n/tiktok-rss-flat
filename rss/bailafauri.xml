@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-06-29T09:49:08+00:00</updated>
+  <updated>2023-07-13T05:03:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7245272240940453126</id>
-    <title>No Title</title>
-    <updated>2023-06-16T13:16:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@bailafauri/video/7245272240940453126" rel="alternate"/>
-    <published>2023-06-16T13:16:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7248611720715947269</id>
-    <title>@sisi amara 𓆩♡𓆪  my dorothea &lt;3</title>
-    <updated>2023-06-25T13:15:36+00:00</updated>
-    <content>@sisi amara 𓆩♡𓆪  my dorothea &lt;3</content>
-    <link href="https://tiktok.com/@bailafauri/video/7248611720715947269" rel="alternate"/>
-    <published>2023-06-25T13:15:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7249229529997217029</id>
     <title>coolio</title>
@@ -51,5 +35,21 @@
     <content>ariana ftw</content>
     <link href="https://tiktok.com/@bailafauri/video/7250042856948206854" rel="alternate"/>
     <published>2023-06-29T09:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7253733872926592262</id>
+    <title>Happy Speak now tv month &lt;3</title>
+    <updated>2023-07-09T08:32:10+00:00</updated>
+    <content>Happy Speak now tv month &lt;3</content>
+    <link href="https://tiktok.com/@bailafauri/video/7253733872926592262" rel="alternate"/>
+    <published>2023-07-09T08:32:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7255164380860517638</id>
+    <title>18 yr old me was screaming crying to this song. 4 years later and i’m still doing so, apparently.</title>
+    <updated>2023-07-13T05:03:17+00:00</updated>
+    <content>18 yr old me was screaming crying to this song. 4 years later and i’m still doing so, apparently.</content>
+    <link href="https://tiktok.com/@bailafauri/video/7255164380860517638" rel="alternate"/>
+    <published>2023-07-13T05:03:17+00:00</published>
   </entry>
 </feed>
