@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@notriisaaa</id>
   <title>notriisaaa TikTok</title>
-  <updated>2023-06-26T19:38:41+00:00</updated>
+  <updated>2023-07-10T21:14:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from notriisaaa</subtitle>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7247068446767271173</id>
-    <title>.</title>
-    <updated>2023-06-21T09:26:55+00:00</updated>
-    <content>.</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7247068446767271173" rel="alternate"/>
-    <published>2023-06-21T09:26:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7247077681446128901</id>
+    <id>https://tiktok.com/@notriisaaa/video/7252631501974621446</id>
     <title>No Title</title>
-    <updated>2023-06-21T10:02:44+00:00</updated>
+    <updated>2023-07-06T09:14:24+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7247077681446128901" rel="alternate"/>
-    <published>2023-06-21T10:02:44+00:00</published>
+    <link href="https://tiktok.com/@notriisaaa/video/7252631501974621446" rel="alternate"/>
+    <published>2023-07-06T09:14:24+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7247123063463234821</id>
+    <id>https://tiktok.com/@notriisaaa/video/7252977663525145861</id>
     <title>No Title</title>
-    <updated>2023-06-21T12:58:50+00:00</updated>
+    <updated>2023-07-07T07:37:42+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7247123063463234821" rel="alternate"/>
-    <published>2023-06-21T12:58:50+00:00</published>
+    <link href="https://tiktok.com/@notriisaaa/video/7252977663525145861" rel="alternate"/>
+    <published>2023-07-07T07:37:42+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7248491952109391109</id>
-    <title>Yeeyy get unready w/ fav mask🫶🏻</title>
-    <updated>2023-06-25T05:30:50+00:00</updated>
-    <content>Yeeyy get unready w/ fav mask🫶🏻</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7248491952109391109" rel="alternate"/>
-    <published>2023-06-25T05:30:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7249081524237159685</id>
+    <id>https://tiktok.com/@notriisaaa/video/7253348867754773765</id>
     <title>No Title</title>
-    <updated>2023-06-26T19:38:41+00:00</updated>
+    <updated>2023-07-08T07:38:09+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7249081524237159685" rel="alternate"/>
-    <published>2023-06-26T19:38:41+00:00</published>
+    <link href="https://tiktok.com/@notriisaaa/video/7253348867754773765" rel="alternate"/>
+    <published>2023-07-08T07:38:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7254300200175504646</id>
+    <title>No Title</title>
+    <updated>2023-07-10T21:09:49+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7254300200175504646" rel="alternate"/>
+    <published>2023-07-10T21:09:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7254301310453845253</id>
+    <title>No Title</title>
+    <updated>2023-07-10T21:14:07+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7254301310453845253" rel="alternate"/>
+    <published>2023-07-10T21:14:07+00:00</published>
   </entry>
 </feed>
