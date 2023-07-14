@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-07-14T09:56:28+00:00</updated>
+  <updated>2023-07-14T14:47:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7254807163334364422</id>
-    <title>akhirnya bisa mesen lewat grab🐰✨ #newjeansxmcdonalds </title>
-    <updated>2023-07-12T05:57:05+00:00</updated>
-    <content>akhirnya bisa mesen lewat grab🐰✨ #newjeansxmcdonalds </content>
-    <link href="https://tiktok.com/@another.ell/video/7254807163334364422" rel="alternate"/>
-    <published>2023-07-12T05:57:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7255508884809338117</id>
     <title>poni anj</title>
@@ -51,5 +43,13 @@
     <content>sudut manapun jd cerah🙈</content>
     <link href="https://tiktok.com/@another.ell/video/7255611025695821061" rel="alternate"/>
     <published>2023-07-14T09:56:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7255686000930852102</id>
+    <title>ganiatt</title>
+    <updated>2023-07-14T14:47:25+00:00</updated>
+    <content>ganiatt</content>
+    <link href="https://tiktok.com/@another.ell/video/7255686000930852102" rel="alternate"/>
+    <published>2023-07-14T14:47:25+00:00</published>
   </entry>
 </feed>
