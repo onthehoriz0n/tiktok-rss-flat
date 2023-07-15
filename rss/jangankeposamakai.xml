@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-07-13T02:40:10+00:00</updated>
+  <updated>2023-07-15T10:00:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7253679590638357766</id>
-    <title>#fouoryoupage #foryou </title>
-    <updated>2023-07-09T05:01:31+00:00</updated>
-    <content>#fouoryoupage #foryou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7253679590638357766" rel="alternate"/>
-    <published>2023-07-09T05:01:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7254007435231317253</id>
     <title>knp ga sama nami aja?😋 #fypシ #namicosplay #cosplay #vrial </title>
@@ -51,5 +43,13 @@
     <content>#4u #viraltiktok #trend </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7255127508087999750" rel="alternate"/>
     <published>2023-07-13T02:40:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7255983060108217606</id>
+    <title>Go check my trakteer🫶 #Funk #FunkNoCapCut #namionepiece #fakebodyy⚠️⚠️ #namicosplay </title>
+    <updated>2023-07-15T10:00:09+00:00</updated>
+    <content>Go check my trakteer🫶 #Funk #FunkNoCapCut #namionepiece #fakebodyy⚠️⚠️ #namicosplay </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7255983060108217606" rel="alternate"/>
+    <published>2023-07-15T10:00:09+00:00</published>
   </entry>
 </feed>

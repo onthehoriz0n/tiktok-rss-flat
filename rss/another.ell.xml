@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-07-15T01:20:05+00:00</updated>
+  <updated>2023-07-15T09:55:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,11 +45,11 @@
     <published>2023-07-14T14:47:25+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@another.ell/video/7255849027852406021</id>
-    <title>draft🤌 #alltoowell </title>
-    <updated>2023-07-15T01:20:05+00:00</updated>
-    <content>draft🤌 #alltoowell </content>
-    <link href="https://tiktok.com/@another.ell/video/7255849027852406021" rel="alternate"/>
-    <published>2023-07-15T01:20:05+00:00</published>
+    <id>https://tiktok.com/@another.ell/video/7255981846763277574</id>
+    <title>malming</title>
+    <updated>2023-07-15T09:55:27+00:00</updated>
+    <content>malming</content>
+    <link href="https://tiktok.com/@another.ell/video/7255981846763277574" rel="alternate"/>
+    <published>2023-07-15T09:55:27+00:00</published>
   </entry>
 </feed>
