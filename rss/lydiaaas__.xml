@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-07-14T16:37:29+00:00</updated>
+  <updated>2023-07-15T16:10:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7253749576341982469</id>
-    <title>i miss u miss u  </title>
-    <updated>2023-07-09T09:33:06+00:00</updated>
-    <content>i miss u miss u  </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7253749576341982469" rel="alternate"/>
-    <published>2023-07-09T09:33:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7254428153500814597</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>cukup tau</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7255714362889882885" rel="alternate"/>
     <published>2023-07-14T16:37:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7256078594135444742</id>
+    <title>sayang</title>
+    <updated>2023-07-15T16:10:52+00:00</updated>
+    <content>sayang</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7256078594135444742" rel="alternate"/>
+    <published>2023-07-15T16:10:52+00:00</published>
   </entry>
 </feed>
