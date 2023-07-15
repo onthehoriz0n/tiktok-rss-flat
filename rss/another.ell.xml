@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-07-14T14:47:25+00:00</updated>
+  <updated>2023-07-15T01:20:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7255508884809338117</id>
-    <title>poni anj</title>
-    <updated>2023-07-14T03:20:06+00:00</updated>
-    <content>poni anj</content>
-    <link href="https://tiktok.com/@another.ell/video/7255508884809338117" rel="alternate"/>
-    <published>2023-07-14T03:20:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7255523325860957446</id>
     <title>misyumac</title>
@@ -51,5 +43,13 @@
     <content>ganiatt</content>
     <link href="https://tiktok.com/@another.ell/video/7255686000930852102" rel="alternate"/>
     <published>2023-07-14T14:47:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7255849027852406021</id>
+    <title>draft🤌 #alltoowell </title>
+    <updated>2023-07-15T01:20:05+00:00</updated>
+    <content>draft🤌 #alltoowell </content>
+    <link href="https://tiktok.com/@another.ell/video/7255849027852406021" rel="alternate"/>
+    <published>2023-07-15T01:20:05+00:00</published>
   </entry>
 </feed>
