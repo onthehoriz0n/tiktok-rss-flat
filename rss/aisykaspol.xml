@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@aisykaspol</id>
   <title>aisykaspol TikTok</title>
-  <updated>2023-07-02T09:18:23+00:00</updated>
+  <updated>2023-07-15T12:20:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aisykaspol</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aisykaspol/video/7217427267474001178</id>
-    <title>Tebak Aisy udah belanja berapa banyak? 🫵😚 untuk hashtagnya ini ya Kak #skin1004 #skin1004id #sociolla #SKIN1004inSociolla #Sociolla8thanniversary @skin1004indonesia </title>
-    <updated>2023-04-02T12:24:06+00:00</updated>
-    <content>Tebak Aisy udah belanja berapa banyak? 🫵😚 untuk hashtagnya ini ya Kak #skin1004 #skin1004id #sociolla #SKIN1004inSociolla #Sociolla8thanniversary @skin1004indonesia </content>
-    <link href="https://tiktok.com/@aisykaspol/video/7217427267474001178" rel="alternate"/>
-    <published>2023-04-02T12:24:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aisykaspol/video/7220389293620055323</id>
     <title>no more lari lari takut kulit kena matahari  #Carasun3xClimateDefense #CaraCareCarasun #sunscreenviral </title>
@@ -51,5 +43,13 @@
     <content>WOI LG APA KALIAN</content>
     <link href="https://tiktok.com/@aisykaspol/video/7251148184280403205" rel="alternate"/>
     <published>2023-07-02T09:18:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aisykaspol/video/7256019244448615685</id>
+    <title>Sou supa shay</title>
+    <updated>2023-07-15T12:20:34+00:00</updated>
+    <content>Sou supa shay</content>
+    <link href="https://tiktok.com/@aisykaspol/video/7256019244448615685" rel="alternate"/>
+    <published>2023-07-15T12:20:34+00:00</published>
   </entry>
 </feed>
