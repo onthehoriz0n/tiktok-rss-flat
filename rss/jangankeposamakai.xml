@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-07-15T10:00:09+00:00</updated>
+  <updated>2023-07-16T13:29:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7254007435231317253</id>
-    <title>knp ga sama nami aja?😋 #fypシ #namicosplay #cosplay #vrial </title>
-    <updated>2023-07-10T02:13:44+00:00</updated>
-    <content>knp ga sama nami aja?😋 #fypシ #namicosplay #cosplay #vrial </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7254007435231317253" rel="alternate"/>
-    <published>2023-07-10T02:13:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7254502629349395717</id>
     <title>ur the 🍎 of my eyeeee #tsunadecosplay #naruto #gym #youaretheappleofmyeye #tsunad #foryou #pageforyou </title>
@@ -51,5 +43,13 @@
     <content>Go check my trakteer🫶 #Funk #FunkNoCapCut #namionepiece #fakebodyy⚠️⚠️ #namicosplay </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7255983060108217606" rel="alternate"/>
     <published>2023-07-15T10:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7256408061760277765</id>
+    <title>lagu nya stuckk di pikirann🤣#sukunajujutsukaisen #jujutsukaisen #cikinigondangdia #fypシ </title>
+    <updated>2023-07-16T13:29:22+00:00</updated>
+    <content>lagu nya stuckk di pikirann🤣#sukunajujutsukaisen #jujutsukaisen #cikinigondangdia #fypシ </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7256408061760277765" rel="alternate"/>
+    <published>2023-07-16T13:29:22+00:00</published>
   </entry>
 </feed>
