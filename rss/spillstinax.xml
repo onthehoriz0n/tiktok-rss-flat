@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-07-17T11:15:32+00:00</updated>
+  <updated>2023-07-11T01:39:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7253265612481236229</id>
+    <title>No Title</title>
+    <updated>2023-07-08T02:15:04+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@spillstinax/video/7253265612481236229" rel="alternate"/>
+    <published>2023-07-08T02:15:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7253687214515784966</id>
+    <title>pearl moisturizer🤍</title>
+    <updated>2023-07-09T05:31:08+00:00</updated>
+    <content>pearl moisturizer🤍</content>
+    <link href="https://tiktok.com/@spillstinax/video/7253687214515784966" rel="alternate"/>
+    <published>2023-07-09T05:31:08+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7253849122791247109</id>
     <title>canda pacar 🤚</title>
@@ -35,21 +51,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@spillstinax/video/7254369681073655045" rel="alternate"/>
     <published>2023-07-11T01:39:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7256619784421297413</id>
-    <title>No Title</title>
-    <updated>2023-07-17T03:10:58+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@spillstinax/video/7256619784421297413" rel="alternate"/>
-    <published>2023-07-17T03:10:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7256744659068685574</id>
-    <title>i love being a woman</title>
-    <updated>2023-07-17T11:15:32+00:00</updated>
-    <content>i love being a woman</content>
-    <link href="https://tiktok.com/@spillstinax/video/7256744659068685574" rel="alternate"/>
-    <published>2023-07-17T11:15:32+00:00</published>
   </entry>
 </feed>
