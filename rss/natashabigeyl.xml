@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-07-16T11:00:11+00:00</updated>
+  <updated>2023-07-17T12:54:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7254045767415942406</id>
-    <title>Apa skincare/makeup yang sakral bgt buat lo?!  *kalo gempa beneran jangan dicontoh ya, gempa ya lari..🙂🙏🏻</title>
-    <updated>2023-07-10T04:42:29+00:00</updated>
-    <content>Apa skincare/makeup yang sakral bgt buat lo?!  *kalo gempa beneran jangan dicontoh ya, gempa ya lari..🙂🙏🏻</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7254045767415942406" rel="alternate"/>
-    <published>2023-07-10T04:42:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7254146535670254854</id>
     <title>NEXTNYA BIKIN DARI APALAGI NIH? #NatInColors </title>
@@ -51,5 +43,13 @@
     <content>HEHE ADA YANG MAUUUU? silahkan komen mau yang mana &amp; mau dipake buat apa yaa! Boleh komen sebanyak-banyaknya, jawaban yang bagus nanti akan gue pilih &amp;  gue umumin Selasa, 17 July 2023 yaaa!❤️ Kapan lagi kebodohan Natasha Abigeyl bisa jadi berkah buat orang😚 #giveway #salahbeli </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7256369616123989253" rel="alternate"/>
     <published>2023-07-16T11:00:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7256770128744893701</id>
+    <title>Suka gak photoshoot gue?!🥺 Seneng bgt balik photoshoot lagiiii &amp; as always kalo jajan Mending ShopeeFood ajaa🧡 Setiap hari pasti ada promo! Kalian biasanya suka jajan apa? #ShopeeFood @ShopeeFood Indonesia </title>
+    <updated>2023-07-17T12:54:23+00:00</updated>
+    <content>Suka gak photoshoot gue?!🥺 Seneng bgt balik photoshoot lagiiii &amp; as always kalo jajan Mending ShopeeFood ajaa🧡 Setiap hari pasti ada promo! Kalian biasanya suka jajan apa? #ShopeeFood @ShopeeFood Indonesia </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7256770128744893701" rel="alternate"/>
+    <published>2023-07-17T12:54:23+00:00</published>
   </entry>
 </feed>
