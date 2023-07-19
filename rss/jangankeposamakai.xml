@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-07-17T17:04:53+00:00</updated>
+  <updated>2023-07-19T17:40:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7254794310086954246</id>
-    <title>Katanya no 2 buat pergi ke pasar🤣 #tsunade #various #cosplayer #chooseone #fyp #xyzbca </title>
-    <updated>2023-07-12T05:07:12+00:00</updated>
-    <content>Katanya no 2 buat pergi ke pasar🤣 #tsunade #various #cosplayer #chooseone #fyp #xyzbca </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7254794310086954246" rel="alternate"/>
-    <published>2023-07-12T05:07:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7255127508087999750</id>
     <title>#4u #viraltiktok #trend </title>
@@ -51,5 +43,13 @@
     <content>look at me! #sukunafemalecosplay #cosplayer #froyoupage </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7256834680928980230" rel="alternate"/>
     <published>2023-07-17T17:04:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7257586100842089734</id>
+    <title>#fyp #cosplaytransition #sukunafemale #jujutsukaisen </title>
+    <updated>2023-07-19T17:40:47+00:00</updated>
+    <content>#fyp #cosplaytransition #sukunafemale #jujutsukaisen </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7257586100842089734" rel="alternate"/>
+    <published>2023-07-19T17:40:47+00:00</published>
   </entry>
 </feed>
