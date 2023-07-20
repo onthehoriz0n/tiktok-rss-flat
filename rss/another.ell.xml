@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-07-15T09:55:27+00:00</updated>
+  <updated>2023-07-20T15:02:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7255523325860957446</id>
-    <title>misyumac</title>
-    <updated>2023-07-14T04:16:11+00:00</updated>
-    <content>misyumac</content>
-    <link href="https://tiktok.com/@another.ell/video/7255523325860957446" rel="alternate"/>
-    <published>2023-07-14T04:16:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7255574461523512582</id>
-    <title>jedai + roll rambut harus dibawa kemana”✨</title>
-    <updated>2023-07-14T07:34:35+00:00</updated>
-    <content>jedai + roll rambut harus dibawa kemana”✨</content>
-    <link href="https://tiktok.com/@another.ell/video/7255574461523512582" rel="alternate"/>
-    <published>2023-07-14T07:34:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7255611025695821061</id>
     <title>sudut manapun jd cerah🙈</title>
@@ -51,5 +35,21 @@
     <content>malming</content>
     <link href="https://tiktok.com/@another.ell/video/7255981846763277574" rel="alternate"/>
     <published>2023-07-15T09:55:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7257887694745767174</id>
+    <title>masih aneh nnt bikin lg🥲</title>
+    <updated>2023-07-20T13:11:06+00:00</updated>
+    <content>masih aneh nnt bikin lg🥲</content>
+    <link href="https://tiktok.com/@another.ell/video/7257887694745767174" rel="alternate"/>
+    <published>2023-07-20T13:11:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7257916368425716997</id>
+    <title>reflek🥲🙏 #fail #sprinter </title>
+    <updated>2023-07-20T15:02:22+00:00</updated>
+    <content>reflek🥲🙏 #fail #sprinter </content>
+    <link href="https://tiktok.com/@another.ell/video/7257916368425716997" rel="alternate"/>
+    <published>2023-07-20T15:02:22+00:00</published>
   </entry>
 </feed>
