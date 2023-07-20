@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-07-18T15:24:51+00:00</updated>
+  <updated>2023-07-20T11:40:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7254809417248525573</id>
-    <title>Worth it gak? Kalian prefer beli yg mana? </title>
-    <updated>2023-07-12T06:05:49+00:00</updated>
-    <content>Worth it gak? Kalian prefer beli yg mana? </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7254809417248525573" rel="alternate"/>
-    <published>2023-07-12T06:05:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7255272211685182726</id>
     <title>nextnya mau gue review apalagi? </title>
@@ -51,5 +43,13 @@
     <content>Replying to @pixies.parasol CONGRATSSSSS @🕊 @joselapotaa @Nicole Virginia @Elly Koswandy 🥺❤️ semoga baju-baju ini bisa berguna yaa di kalian! Jangan lupa DM gue alamat kalian okeeeei❤️</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7257179992000367877" rel="alternate"/>
     <published>2023-07-18T15:24:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7257864346846448901</id>
+    <title>JANGAN NGATAIN GUE, INI PEDES BGT GILAAA?!  mendingan cobain sendiri aja kalo ga percaya, pedes gurih nagih POLL!!! Cuss ikutan @Pop Mie #SebutSampeJontor yaa!</title>
+    <updated>2023-07-20T11:40:30+00:00</updated>
+    <content>JANGAN NGATAIN GUE, INI PEDES BGT GILAAA?!  mendingan cobain sendiri aja kalo ga percaya, pedes gurih nagih POLL!!! Cuss ikutan @Pop Mie #SebutSampeJontor yaa!</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7257864346846448901" rel="alternate"/>
+    <published>2023-07-20T11:40:30+00:00</published>
   </entry>
 </feed>
