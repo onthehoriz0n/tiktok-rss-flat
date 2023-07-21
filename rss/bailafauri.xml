@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-07-16T08:15:28+00:00</updated>
+  <updated>2023-07-21T01:33:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7249319488779275526</id>
-    <title>Sori</title>
-    <updated>2023-06-27T11:02:06+00:00</updated>
-    <content>Sori</content>
-    <link href="https://tiktok.com/@bailafauri/video/7249319488779275526" rel="alternate"/>
-    <published>2023-06-27T11:02:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7250042856948206854</id>
     <title>ariana ftw</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@bailafauri/video/7256327166693084421" rel="alternate"/>
     <published>2023-07-16T08:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7258079041897467142</id>
+    <title>i bawled my eyes out. </title>
+    <updated>2023-07-21T01:33:39+00:00</updated>
+    <content>i bawled my eyes out. </content>
+    <link href="https://tiktok.com/@bailafauri/video/7258079041897467142" rel="alternate"/>
+    <published>2023-07-21T01:33:39+00:00</published>
   </entry>
 </feed>
