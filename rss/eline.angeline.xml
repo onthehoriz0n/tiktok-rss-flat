@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-07-19T15:26:23+00:00</updated>
+  <updated>2023-07-21T02:14:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7256813590097743110</id>
-    <title>No Title</title>
-    <updated>2023-07-17T15:43:02+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7256813590097743110" rel="alternate"/>
-    <published>2023-07-17T15:43:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7256813712697216262</id>
-    <title>No Title</title>
-    <updated>2023-07-17T15:43:31+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7256813712697216262" rel="alternate"/>
-    <published>2023-07-17T15:43:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7256813820029439238</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7257551465437334790" rel="alternate"/>
     <published>2023-07-19T15:26:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7258089286401084678</id>
+    <title>No Title</title>
+    <updated>2023-07-21T02:13:24+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7258089286401084678" rel="alternate"/>
+    <published>2023-07-21T02:13:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7258089468010319109</id>
+    <title>No Title</title>
+    <updated>2023-07-21T02:14:06+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7258089468010319109" rel="alternate"/>
+    <published>2023-07-21T02:14:06+00:00</published>
   </entry>
 </feed>
