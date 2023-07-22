@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-07-17T00:21:07+00:00</updated>
+  <updated>2023-07-22T14:19:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7254847972058402053</id>
-    <title>rambut singa</title>
-    <updated>2023-07-12T08:35:28+00:00</updated>
-    <content>rambut singa</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7254847972058402053" rel="alternate"/>
-    <published>2023-07-12T08:35:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7254885803078307077</id>
     <title>yeayy liptint kesayangankuu🫶🏻 #focallurebeauty </title>
@@ -51,5 +43,13 @@
     <content>cekulaa</content>
     <link href="https://tiktok.com/@duhsirachel/video/7256576007375703301" rel="alternate"/>
     <published>2023-07-17T00:21:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7258647439467433221</id>
+    <title>bebuyutan dr kelas 1</title>
+    <updated>2023-07-22T14:19:18+00:00</updated>
+    <content>bebuyutan dr kelas 1</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7258647439467433221" rel="alternate"/>
+    <published>2023-07-22T14:19:18+00:00</published>
   </entry>
 </feed>
