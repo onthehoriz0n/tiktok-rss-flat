@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-07-21T12:23:09+00:00</updated>
+  <updated>2023-07-24T09:34:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7256834680928980230</id>
-    <title>look at me! #sukunafemalecosplay #cosplayer #froyoupage </title>
-    <updated>2023-07-17T17:04:53+00:00</updated>
-    <content>look at me! #sukunafemalecosplay #cosplayer #froyoupage </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7256834680928980230" rel="alternate"/>
-    <published>2023-07-17T17:04:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7257586100842089734</id>
     <title>#fyp #cosplaytransition #sukunafemale #jujutsukaisen </title>
@@ -51,5 +43,13 @@
     <content>#4you #jangankeposamakai </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7258246422305328389" rel="alternate"/>
     <published>2023-07-21T12:23:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7259316340605881605</id>
+    <title>Yuuu ntn barbie brg!😝 #barbie #barbieoutfit #fyp #filmbarbie #barbieversion #fypシ゚viral </title>
+    <updated>2023-07-24T09:34:59+00:00</updated>
+    <content>Yuuu ntn barbie brg!😝 #barbie #barbieoutfit #fyp #filmbarbie #barbieversion #fypシ゚viral </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7259316340605881605" rel="alternate"/>
+    <published>2023-07-24T09:34:59+00:00</published>
   </entry>
 </feed>
