@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-07-25T12:08:21+00:00</updated>
+  <updated>2023-07-18T10:11:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7254581297014721798</id>
+    <title>:3</title>
+    <updated>2023-07-11T15:20:35+00:00</updated>
+    <content>:3</content>
+    <link href="https://tiktok.com/@jepangilang/video/7254581297014721798" rel="alternate"/>
+    <published>2023-07-11T15:20:35+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7254582118808931589</id>
     <title>🥶</title>
@@ -43,13 +51,5 @@
     <content>hehe</content>
     <link href="https://tiktok.com/@jepangilang/video/7257099180508761349" rel="alternate"/>
     <published>2023-07-18T10:11:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7259726951848594694</id>
-    <title>HAHAHAHA MAAF BGT IV UR DRUNK ONCE IN A LIFETIME SOALNYA</title>
-    <updated>2023-07-25T12:08:21+00:00</updated>
-    <content>HAHAHAHA MAAF BGT IV UR DRUNK ONCE IN A LIFETIME SOALNYA</content>
-    <link href="https://tiktok.com/@jepangilang/video/7259726951848594694" rel="alternate"/>
-    <published>2023-07-25T12:08:21+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-07-20T12:47:21+00:00</updated>
+  <updated>2023-07-25T04:38:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7254077850578439429</id>
-    <title>claymask 100/10</title>
-    <updated>2023-07-10T06:47:00+00:00</updated>
-    <content>claymask 100/10</content>
-    <link href="https://tiktok.com/@spillstinax/video/7254077850578439429" rel="alternate"/>
-    <published>2023-07-10T06:47:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7254369681073655045</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>🥴</content>
     <link href="https://tiktok.com/@spillstinax/video/7257881568881036550" rel="alternate"/>
     <published>2023-07-20T12:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7259611006429564166</id>
+    <title>#skintificmugwortclaystick ✨</title>
+    <updated>2023-07-25T04:38:27+00:00</updated>
+    <content>#skintificmugwortclaystick ✨</content>
+    <link href="https://tiktok.com/@spillstinax/video/7259611006429564166" rel="alternate"/>
+    <published>2023-07-25T04:38:27+00:00</published>
   </entry>
 </feed>
