@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-07-24T04:09:57+00:00</updated>
+  <updated>2023-07-25T09:31:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7255705157797760262</id>
-    <title>#StopMotion </title>
-    <updated>2023-07-14T16:01:45+00:00</updated>
-    <content>#StopMotion </content>
-    <link href="https://tiktok.com/@duhsirachel/video/7255705157797760262" rel="alternate"/>
-    <published>2023-07-14T16:01:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7255711583526063366</id>
-    <title>#CapCut iseng</title>
-    <updated>2023-07-14T16:26:41+00:00</updated>
-    <content>#CapCut iseng</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7255711583526063366" rel="alternate"/>
-    <published>2023-07-14T16:26:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7256576007375703301</id>
     <title>cekulaa</title>
@@ -51,5 +35,21 @@
     <content>tembem bgt ew</content>
     <link href="https://tiktok.com/@duhsirachel/video/7259232576433425670" rel="alternate"/>
     <published>2023-07-24T04:09:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7259686062576962822</id>
+    <title>my daily liptint💋</title>
+    <updated>2023-07-25T09:29:41+00:00</updated>
+    <content>my daily liptint💋</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7259686062576962822" rel="alternate"/>
+    <published>2023-07-25T09:29:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7259686516643941638</id>
+    <title>luv luv❤️</title>
+    <updated>2023-07-25T09:31:28+00:00</updated>
+    <content>luv luv❤️</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7259686516643941638" rel="alternate"/>
+    <published>2023-07-25T09:31:28+00:00</published>
   </entry>
 </feed>
