@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-07-24T13:43:01+00:00</updated>
+  <updated>2023-07-26T17:48:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7256770128744893701</id>
-    <title>Suka gak photoshoot gue?!🥺 Seneng bgt balik photoshoot lagiiii &amp; as always kalo jajan Mending ShopeeFood ajaa🧡 Setiap hari pasti ada promo! Kalian biasanya suka jajan apa? #ShopeeFood @ShopeeFood Indonesia </title>
-    <updated>2023-07-17T12:54:23+00:00</updated>
-    <content>Suka gak photoshoot gue?!🥺 Seneng bgt balik photoshoot lagiiii &amp; as always kalo jajan Mending ShopeeFood ajaa🧡 Setiap hari pasti ada promo! Kalian biasanya suka jajan apa? #ShopeeFood @ShopeeFood Indonesia </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7256770128744893701" rel="alternate"/>
-    <published>2023-07-17T12:54:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7257179992000367877</id>
     <title>Replying to @pixies.parasol CONGRATSSSSS @🕊 @joselapotaa @Nicole Virginia @Elly Koswandy 🥺❤️ semoga baju-baju ini bisa berguna yaa di kalian! Jangan lupa DM gue alamat kalian okeeeei❤️</title>
@@ -51,5 +43,13 @@
     <content>anak SMA sekarang boleh pake lipstick gini gaksih..?! I’m using @Somethinc Official IDOL lip matte + clear gloss❤️ #yearbooktrend</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7259380258070187270" rel="alternate"/>
     <published>2023-07-24T13:43:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7260185594058394886</id>
+    <title>Buat harga 4 juta, ini worth it gak? #reviewosoi #unboxingvideo #osoi </title>
+    <updated>2023-07-26T17:48:08+00:00</updated>
+    <content>Buat harga 4 juta, ini worth it gak? #reviewosoi #unboxingvideo #osoi </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7260185594058394886" rel="alternate"/>
+    <published>2023-07-26T17:48:08+00:00</published>
   </entry>
 </feed>
