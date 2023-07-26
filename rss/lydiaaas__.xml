@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-07-25T07:43:27+00:00</updated>
+  <updated>2023-07-26T06:06:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7257484079795424518</id>
-    <title>L ove</title>
-    <updated>2023-07-19T11:04:52+00:00</updated>
-    <content>L ove</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7257484079795424518" rel="alternate"/>
-    <published>2023-07-19T11:04:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7257766268965489926</id>
     <title>hmmm </title>
@@ -51,5 +43,13 @@
     <content>awkward</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7259658681577491718" rel="alternate"/>
     <published>2023-07-25T07:43:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7260004737393659142</id>
+    <title>🥳🥳🥳 @nitavior </title>
+    <updated>2023-07-26T06:06:19+00:00</updated>
+    <content>🥳🥳🥳 @nitavior </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7260004737393659142" rel="alternate"/>
+    <published>2023-07-26T06:06:19+00:00</published>
   </entry>
 </feed>
