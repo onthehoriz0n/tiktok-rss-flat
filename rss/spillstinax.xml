@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-07-25T04:38:27+00:00</updated>
+  <updated>2023-07-26T02:18:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7254369681073655045</id>
-    <title>No Title</title>
-    <updated>2023-07-11T01:39:25+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@spillstinax/video/7254369681073655045" rel="alternate"/>
-    <published>2023-07-11T01:39:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7256619784421297413</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>#skintificmugwortclaystick ✨</content>
     <link href="https://tiktok.com/@spillstinax/video/7259611006429564166" rel="alternate"/>
     <published>2023-07-25T04:38:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7259946044086078726</id>
+    <title>best brightening MSH moisturizer 🫶🏼</title>
+    <updated>2023-07-26T02:18:34+00:00</updated>
+    <content>best brightening MSH moisturizer 🫶🏼</content>
+    <link href="https://tiktok.com/@spillstinax/video/7259946044086078726" rel="alternate"/>
+    <published>2023-07-26T02:18:34+00:00</published>
   </entry>
 </feed>
