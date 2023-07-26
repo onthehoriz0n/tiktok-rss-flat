@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-07-21T11:57:07+00:00</updated>
+  <updated>2023-07-26T00:41:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7255574461523512582</id>
-    <title>jedai + roll rambut harus dibawa kemana”✨</title>
-    <updated>2023-07-14T07:34:35+00:00</updated>
-    <content>jedai + roll rambut harus dibawa kemana”✨</content>
-    <link href="https://tiktok.com/@another.ell/video/7255574461523512582" rel="alternate"/>
-    <published>2023-07-14T07:34:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7255611025695821061</id>
     <title>sudut manapun jd cerah🙈</title>
@@ -51,5 +43,13 @@
     <content>jar kedua akuu🫶🏻 </content>
     <link href="https://tiktok.com/@another.ell/video/7258239713293634821" rel="alternate"/>
     <published>2023-07-21T11:57:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7259921015441067269</id>
+    <title>No Title</title>
+    <updated>2023-07-26T00:41:26+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@another.ell/video/7259921015441067269" rel="alternate"/>
+    <published>2023-07-26T00:41:26+00:00</published>
   </entry>
 </feed>
