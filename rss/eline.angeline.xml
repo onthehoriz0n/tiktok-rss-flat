@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-07-25T01:24:56+00:00</updated>
+  <updated>2023-07-26T14:33:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7257180136921910534</id>
-    <title>I do this before my upper body workout💪🏻 Siapa tau bisa jadi referensi stretching temen2. Semoga bermanfaat ! 🥰</title>
-    <updated>2023-07-18T15:25:26+00:00</updated>
-    <content>I do this before my upper body workout💪🏻 Siapa tau bisa jadi referensi stretching temen2. Semoga bermanfaat ! 🥰</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7257180136921910534" rel="alternate"/>
-    <published>2023-07-18T15:25:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7257551465437334790</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Kaca kotor :)</content>
     <link href="https://tiktok.com/@eline.angeline/video/7259561138168270085" rel="alternate"/>
     <published>2023-07-25T01:24:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7260135423693950214</id>
+    <title>Bingung pemanasan untuk leg day harus gimana? Nih aku spill gerakannya di video ini ya🫶🏻 Utk setiap gerakannya aku lakukan selama 1 menit. Try these before your next leg day workout ! 🍑🔥</title>
+    <updated>2023-07-26T14:33:27+00:00</updated>
+    <content>Bingung pemanasan untuk leg day harus gimana? Nih aku spill gerakannya di video ini ya🫶🏻 Utk setiap gerakannya aku lakukan selama 1 menit. Try these before your next leg day workout ! 🍑🔥</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7260135423693950214" rel="alternate"/>
+    <published>2023-07-26T14:33:27+00:00</published>
   </entry>
 </feed>
