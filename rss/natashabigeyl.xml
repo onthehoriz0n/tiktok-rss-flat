@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-07-26T17:48:08+00:00</updated>
+  <updated>2023-07-27T08:22:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7257179992000367877</id>
-    <title>Replying to @pixies.parasol CONGRATSSSSS @🕊 @joselapotaa @Nicole Virginia @Elly Koswandy 🥺❤️ semoga baju-baju ini bisa berguna yaa di kalian! Jangan lupa DM gue alamat kalian okeeeei❤️</title>
-    <updated>2023-07-18T15:24:51+00:00</updated>
-    <content>Replying to @pixies.parasol CONGRATSSSSS @🕊 @joselapotaa @Nicole Virginia @Elly Koswandy 🥺❤️ semoga baju-baju ini bisa berguna yaa di kalian! Jangan lupa DM gue alamat kalian okeeeei❤️</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7257179992000367877" rel="alternate"/>
-    <published>2023-07-18T15:24:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7257864346846448901</id>
     <title>JANGAN NGATAIN GUE, INI PEDES BGT GILAAA?!  mendingan cobain sendiri aja kalo ga percaya, pedes gurih nagih POLL!!! Cuss ikutan @Pop Mie #SebutSampeJontor yaa!</title>
@@ -51,5 +43,13 @@
     <content>Ini fix bakal jadi tas tempur gue sih, worth it gak menurut kalian🤎#reviewosoi #unboxingvideo #osoi </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7260185594058394886" rel="alternate"/>
     <published>2023-07-26T17:48:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7260411024610823429</id>
+    <title>PLIS NONTON SAMPE ABIS, BENER2 TERNYEBELIN SIH🥲 @Iben M.A.  #NoMoreRontok  #KilatBangetNumbuhinRambut #HAIRmonyExpert @Rudy Hadisuwarno Cosmetics </title>
+    <updated>2023-07-27T08:22:57+00:00</updated>
+    <content>PLIS NONTON SAMPE ABIS, BENER2 TERNYEBELIN SIH🥲 @Iben M.A.  #NoMoreRontok  #KilatBangetNumbuhinRambut #HAIRmonyExpert @Rudy Hadisuwarno Cosmetics </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7260411024610823429" rel="alternate"/>
+    <published>2023-07-27T08:22:57+00:00</published>
   </entry>
 </feed>
