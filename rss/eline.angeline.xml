@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-07-26T14:33:27+00:00</updated>
+  <updated>2023-07-27T15:21:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7257551465437334790</id>
-    <title>No Title</title>
-    <updated>2023-07-19T15:26:23+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7257551465437334790" rel="alternate"/>
-    <published>2023-07-19T15:26:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7258089286401084678</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Bingung pemanasan untuk leg day harus gimana? Nih aku spill gerakannya di video ini ya🫶🏻 Utk setiap gerakannya aku lakukan selama 1 menit. Try these before your next leg day workout ! 🍑🔥</content>
     <link href="https://tiktok.com/@eline.angeline/video/7260135423693950214" rel="alternate"/>
     <published>2023-07-26T14:33:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7260518856127565062</id>
+    <title>10 mins of weighted abs workout. Go give it a try!🥵🔥</title>
+    <updated>2023-07-27T15:21:22+00:00</updated>
+    <content>10 mins of weighted abs workout. Go give it a try!🥵🔥</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7260518856127565062" rel="alternate"/>
+    <published>2023-07-27T15:21:22+00:00</published>
   </entry>
 </feed>
