@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-07-27T08:22:57+00:00</updated>
+  <updated>2023-07-28T17:16:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7257864346846448901</id>
-    <title>JANGAN NGATAIN GUE, INI PEDES BGT GILAAA?!  mendingan cobain sendiri aja kalo ga percaya, pedes gurih nagih POLL!!! Cuss ikutan @Pop Mie #SebutSampeJontor yaa!</title>
-    <updated>2023-07-20T11:40:30+00:00</updated>
-    <content>JANGAN NGATAIN GUE, INI PEDES BGT GILAAA?!  mendingan cobain sendiri aja kalo ga percaya, pedes gurih nagih POLL!!! Cuss ikutan @Pop Mie #SebutSampeJontor yaa!</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7257864346846448901" rel="alternate"/>
-    <published>2023-07-20T11:40:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7258660520503414022</id>
     <title>NEXTNYA BIKIN DARI APALAGI?💛💛 #NatInColors </title>
@@ -51,5 +43,13 @@
     <content>PLIS NONTON SAMPE ABIS, BENER2 TERNYEBELIN SIH🥲 @Iben M.A.  #NoMoreRontok  #KilatBangetNumbuhinRambut #HAIRmonyExpert @Rudy Hadisuwarno Cosmetics </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7260411024610823429" rel="alternate"/>
     <published>2023-07-27T08:22:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7260919702631746822</id>
+    <title>Bluberry tuh sebenernya biru/ungu/item sih???🙂🙂 #NatInColors</title>
+    <updated>2023-07-28T17:16:50+00:00</updated>
+    <content>Bluberry tuh sebenernya biru/ungu/item sih???🙂🙂 #NatInColors</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7260919702631746822" rel="alternate"/>
+    <published>2023-07-28T17:16:50+00:00</published>
   </entry>
 </feed>
