@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-07-26T04:39:21+00:00</updated>
+  <updated>2023-07-28T11:09:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7254500899328953606</id>
-    <title>Best local makeup ever🥺 #makeovermakeup #makeoverbeautybeyondcompare </title>
-    <updated>2023-07-11T10:08:37+00:00</updated>
-    <content>Best local makeup ever🥺 #makeovermakeup #makeoverbeautybeyondcompare </content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7254500899328953606" rel="alternate"/>
-    <published>2023-07-11T10:08:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7254874578697194757</id>
     <title>YAALAAH</title>
@@ -51,5 +43,13 @@
     <content>Apa boleh sebumi ini?</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7259982327294577926" rel="alternate"/>
     <published>2023-07-26T04:39:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7260825021772238086</id>
+    <title>Apa boleh bandung seseru ini? #Bandung #travelling </title>
+    <updated>2023-07-28T11:09:27+00:00</updated>
+    <content>Apa boleh bandung seseru ini? #Bandung #travelling </content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7260825021772238086" rel="alternate"/>
+    <published>2023-07-28T11:09:27+00:00</published>
   </entry>
 </feed>
