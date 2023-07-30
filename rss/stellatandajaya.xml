@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-07-30T04:47:04+00:00</updated>
+  <updated>2023-07-30T09:08:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7259636973885738246</id>
-    <title>No Title</title>
-    <updated>2023-07-25T06:19:12+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7259636973885738246" rel="alternate"/>
-    <published>2023-07-25T06:19:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7259638385227189510</id>
-    <title>fits check 🐚🩰🫶🏻🤍🌺🌴</title>
-    <updated>2023-07-25T06:24:42+00:00</updated>
-    <content>fits check 🐚🩰🫶🏻🤍🌺🌴</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7259638385227189510" rel="alternate"/>
-    <published>2023-07-25T06:24:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7260379183535099142</id>
-    <title>jam3Dh </title>
-    <updated>2023-07-27T06:19:22+00:00</updated>
-    <content>jam3Dh </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7260379183535099142" rel="alternate"/>
-    <published>2023-07-27T06:19:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7260389042204822789</id>
     <title>amissumuch</title>
@@ -51,5 +27,29 @@
     <content>girl i found my perfect dress for summer asdfghkl 🌴🌺🐚🌊☀️ </content>
     <link href="https://tiktok.com/@stellatandajaya/video/7261468657841097990" rel="alternate"/>
     <published>2023-07-30T04:47:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7261532102942838021</id>
+    <title>masi kalah jauh masa? </title>
+    <updated>2023-07-30T08:53:18+00:00</updated>
+    <content>masi kalah jauh masa? </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7261532102942838021" rel="alternate"/>
+    <published>2023-07-30T08:53:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7261535405584010502</id>
+    <title>:p</title>
+    <updated>2023-07-30T09:06:07+00:00</updated>
+    <content>:p</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7261535405584010502" rel="alternate"/>
+    <published>2023-07-30T09:06:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7261535950071680261</id>
+    <title>rawr XD </title>
+    <updated>2023-07-30T09:08:12+00:00</updated>
+    <content>rawr XD </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7261535950071680261" rel="alternate"/>
+    <published>2023-07-30T09:08:12+00:00</published>
   </entry>
 </feed>
