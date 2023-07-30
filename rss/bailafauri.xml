@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-07-29T14:23:39+00:00</updated>
+  <updated>2023-07-30T06:16:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7253733872926592262</id>
-    <title>Happy Speak now tv month &lt;3</title>
-    <updated>2023-07-09T08:32:10+00:00</updated>
-    <content>Happy Speak now tv month &lt;3</content>
-    <link href="https://tiktok.com/@bailafauri/video/7253733872926592262" rel="alternate"/>
-    <published>2023-07-09T08:32:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7255164380860517638</id>
     <title>18 yr old me was screaming crying to this song. 4 years later and i’m still doing so, apparently.</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@bailafauri/video/7261246154342534405" rel="alternate"/>
     <published>2023-07-29T14:23:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7261491807282826502</id>
+    <title>🪩</title>
+    <updated>2023-07-30T06:16:55+00:00</updated>
+    <content>🪩</content>
+    <link href="https://tiktok.com/@bailafauri/video/7261491807282826502" rel="alternate"/>
+    <published>2023-07-30T06:16:55+00:00</published>
   </entry>
 </feed>
