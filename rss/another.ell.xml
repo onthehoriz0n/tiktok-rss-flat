@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-07-30T10:09:30+00:00</updated>
+  <updated>2023-07-30T11:58:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7255686000930852102</id>
-    <title>ganiatt</title>
-    <updated>2023-07-14T14:47:25+00:00</updated>
-    <content>ganiatt</content>
-    <link href="https://tiktok.com/@another.ell/video/7255686000930852102" rel="alternate"/>
-    <published>2023-07-14T14:47:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7257887694745767174</id>
-    <title>masih aneh nnt bikin lg🥲</title>
-    <updated>2023-07-20T13:11:06+00:00</updated>
-    <content>masih aneh nnt bikin lg🥲</content>
-    <link href="https://tiktok.com/@another.ell/video/7257887694745767174" rel="alternate"/>
-    <published>2023-07-20T13:11:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7258239713293634821</id>
     <title>jar kedua akuu🫶🏻 </title>
@@ -51,5 +35,21 @@
     <content>lalalalala</content>
     <link href="https://tiktok.com/@another.ell/video/7261551744784534790" rel="alternate"/>
     <published>2023-07-30T10:09:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7261562297665981701</id>
+    <title>beberapa thn kedepan bakal nyesel liat video ini</title>
+    <updated>2023-07-30T10:50:26+00:00</updated>
+    <content>beberapa thn kedepan bakal nyesel liat video ini</content>
+    <link href="https://tiktok.com/@another.ell/video/7261562297665981701" rel="alternate"/>
+    <published>2023-07-30T10:50:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7261579739788332294</id>
+    <title>No Title</title>
+    <updated>2023-07-30T11:58:08+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@another.ell/video/7261579739788332294" rel="alternate"/>
+    <published>2023-07-30T11:58:08+00:00</published>
   </entry>
 </feed>
