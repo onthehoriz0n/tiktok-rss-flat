@@ -13,14 +13,6 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
   <entry>
-    <id>https://tiktok.com/@choufeer/video/7260433255768313094</id>
-    <title>No Title</title>
-    <updated>2023-07-27T09:49:12+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7260433255768313094" rel="alternate"/>
-    <published>2023-07-27T09:49:12+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@choufeer/video/7260511597515328773</id>
     <title>@user9974203507024 @dua tiga dor </title>
     <updated>2023-07-27T14:53:11+00:00</updated>
@@ -43,6 +35,14 @@
     <content>@shakira </content>
     <link href="https://tiktok.com/@choufeer/video/7260873980595227910" rel="alternate"/>
     <published>2023-07-28T14:19:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7260879058005675270</id>
+    <title>No Title</title>
+    <updated>2023-07-28T14:39:06+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@choufeer/video/7260879058005675270" rel="alternate"/>
+    <published>2023-07-28T14:39:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7261998256165604614</id>
