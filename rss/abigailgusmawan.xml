@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-07-31T17:44:41+00:00</updated>
+  <updated>2023-08-01T11:44:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7259982327294577926</id>
-    <title>Apa boleh sebumi ini?</title>
-    <updated>2023-07-26T04:39:21+00:00</updated>
-    <content>Apa boleh sebumi ini?</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7259982327294577926" rel="alternate"/>
-    <published>2023-07-26T04:39:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7260825021772238086</id>
-    <title>Apa boleh bandung seseru ini? #Bandung #travelling </title>
-    <updated>2023-07-28T11:09:27+00:00</updated>
-    <content>Apa boleh bandung seseru ini? #Bandung #travelling </content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7260825021772238086" rel="alternate"/>
-    <published>2023-07-28T11:09:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7261902580450610438</id>
     <title>welcome to the world anak2 bayik ku</title>
@@ -51,5 +35,21 @@
     <content>sampe sesegukan loh kamuuu</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7262040127998856453" rel="alternate"/>
     <published>2023-07-31T17:44:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7262243536077196550</id>
+    <title>mlz bgt</title>
+    <updated>2023-08-01T06:54:01+00:00</updated>
+    <content>mlz bgt</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7262243536077196550" rel="alternate"/>
+    <published>2023-08-01T06:54:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7262318400108596486</id>
+    <title>no more back pain/sakit kepala</title>
+    <updated>2023-08-01T11:44:30+00:00</updated>
+    <content>no more back pain/sakit kepala</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7262318400108596486" rel="alternate"/>
+    <published>2023-08-01T11:44:30+00:00</published>
   </entry>
 </feed>
