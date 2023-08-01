@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-07-31T12:44:52+00:00</updated>
+  <updated>2023-08-01T16:31:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7260004737393659142</id>
-    <title>🥳🥳🥳 @nitavior </title>
-    <updated>2023-07-26T06:06:19+00:00</updated>
-    <content>🥳🥳🥳 @nitavior </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7260004737393659142" rel="alternate"/>
-    <published>2023-07-26T06:06:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7260049304948051206</id>
     <title>lupain siapaaaaa ya</title>
@@ -51,5 +43,13 @@
     <content>kamu orang susah</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7261962871255420165" rel="alternate"/>
     <published>2023-07-31T12:44:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7262392472028990725</id>
+    <title>siapa yang selalu nungguin doi like foto ig?</title>
+    <updated>2023-08-01T16:31:58+00:00</updated>
+    <content>siapa yang selalu nungguin doi like foto ig?</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7262392472028990725" rel="alternate"/>
+    <published>2023-08-01T16:31:58+00:00</published>
   </entry>
 </feed>
