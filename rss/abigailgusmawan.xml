@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-08-01T11:44:30+00:00</updated>
+  <updated>2023-08-02T15:05:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7261902580450610438</id>
-    <title>welcome to the world anak2 bayik ku</title>
-    <updated>2023-07-31T08:50:56+00:00</updated>
-    <content>welcome to the world anak2 bayik ku</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7261902580450610438" rel="alternate"/>
-    <published>2023-07-31T08:50:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7262032448760925445</id>
     <title>hadeuh</title>
@@ -51,5 +43,13 @@
     <content>no more back pain/sakit kepala</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7262318400108596486" rel="alternate"/>
     <published>2023-08-01T11:44:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7262741234291166470</id>
+    <title>love language ku physical attack kak</title>
+    <updated>2023-08-02T15:05:20+00:00</updated>
+    <content>love language ku physical attack kak</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7262741234291166470" rel="alternate"/>
+    <published>2023-08-02T15:05:20+00:00</published>
   </entry>
 </feed>
