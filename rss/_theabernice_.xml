@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_theabernice_</id>
   <title>_theabernice_ TikTok</title>
-  <updated>2023-07-15T08:31:23+00:00</updated>
+  <updated>2023-07-11T16:09:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _theabernice_</subtitle>
+  <entry>
+    <id>https://tiktok.com/@_theabernice_/video/7202271599670660378</id>
+    <title>9 second vid but took hour and a half to make😚  #fyp #fypシ </title>
+    <updated>2023-02-20T16:12:22+00:00</updated>
+    <content>9 second vid but took hour and a half to make😚  #fyp #fypシ </content>
+    <link href="https://tiktok.com/@_theabernice_/video/7202271599670660378" rel="alternate"/>
+    <published>2023-02-20T16:12:22+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@_theabernice_/video/7215988056342433051</id>
     <title>eat eat eat🌭🥯🍜🍔🍗🍟 #japan #eating #eatingshow  #ilikefood #japanfood  #fyppppppppppppppppppppppp </title>
@@ -43,13 +51,5 @@
     <content>nature never goes out of style🌴🥥 #fypシ </content>
     <link href="https://tiktok.com/@_theabernice_/video/7254593842278583558" rel="alternate"/>
     <published>2023-07-11T16:09:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@_theabernice_/video/7255960179433344261</id>
-    <title>exploring the breathtaking beaches🌊 #fypシ #beachvibes </title>
-    <updated>2023-07-15T08:31:23+00:00</updated>
-    <content>exploring the breathtaking beaches🌊 #fypシ #beachvibes </content>
-    <link href="https://tiktok.com/@_theabernice_/video/7255960179433344261" rel="alternate"/>
-    <published>2023-07-15T08:31:23+00:00</published>
   </entry>
 </feed>
