@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-02T14:57:01+00:00</updated>
+  <updated>2023-08-03T02:35:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7259951207576390918</id>
-    <title>Morningg #cikinigondangdia #foryourpage #foryou #barbie #video </title>
-    <updated>2023-07-26T02:38:35+00:00</updated>
-    <content>Morningg #cikinigondangdia #foryourpage #foryou #barbie #video </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7259951207576390918" rel="alternate"/>
-    <published>2023-07-26T02:38:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7260419666219158790</id>
     <title>#foryou #secretary </title>
@@ -51,5 +43,13 @@
     <content>ada yg minat?😌 #CapCut #photocards #ifiwereanidol #japanese #myphotocards </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7262739095934455045" rel="alternate"/>
     <published>2023-08-02T14:57:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7262919043647081734</id>
+    <title>siap2 absen 6 august🥵 #CapCut #onepiece #luffygear5 #luffy #6august #boahancockwaifu #hancock </title>
+    <updated>2023-08-03T02:35:20+00:00</updated>
+    <content>siap2 absen 6 august🥵 #CapCut #onepiece #luffygear5 #luffy #6august #boahancockwaifu #hancock </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7262919043647081734" rel="alternate"/>
+    <published>2023-08-03T02:35:20+00:00</published>
   </entry>
 </feed>
