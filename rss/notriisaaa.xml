@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@notriisaaa</id>
   <title>notriisaaa TikTok</title>
-  <updated>2023-08-02T15:28:42+00:00</updated>
+  <updated>2023-08-03T01:37:50.116493+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from notriisaaa</subtitle>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7261158245996219653</id>
-    <title>#StopMotion </title>
-    <updated>2023-07-29T08:42:31+00:00</updated>
-    <content>#StopMotion </content>
-    <link href="https://tiktok.com/@notriisaaa/video/7261158245996219653" rel="alternate"/>
-    <published>2023-07-29T08:42:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7261425941472152838</id>
-    <title>No Title</title>
-    <updated>2023-07-30T02:01:20+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7261425941472152838" rel="alternate"/>
-    <published>2023-07-30T02:01:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7261575734336982277</id>
-    <title>Kapan lagi glowing cuma gara gara sunscreen🫶🏻</title>
-    <updated>2023-07-30T11:42:35+00:00</updated>
-    <content>Kapan lagi glowing cuma gara gara sunscreen🫶🏻</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7261575734336982277" rel="alternate"/>
-    <published>2023-07-30T11:42:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7262311327773789446</id>
-    <title>No Title</title>
-    <updated>2023-08-01T11:17:03+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7262311327773789446" rel="alternate"/>
-    <published>2023-08-01T11:17:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7262747260348386566</id>
-    <title>No Title</title>
-    <updated>2023-08-02T15:28:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7262747260348386566" rel="alternate"/>
-    <published>2023-08-02T15:28:42+00:00</published>
-  </entry>
 </feed>
