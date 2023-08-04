@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-08-02T15:47:49+00:00</updated>
+  <updated>2023-08-04T12:40:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7261284556727241989</id>
-    <title>eyeuhh </title>
-    <updated>2023-07-29T16:52:41+00:00</updated>
-    <content>eyeuhh </content>
-    <link href="https://tiktok.com/@spillstinax/video/7261284556727241989" rel="alternate"/>
-    <published>2023-07-29T16:52:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7261792621016665349</id>
     <title>#sunscreenreview #skincareroutine </title>
@@ -51,5 +43,13 @@
     <content>gak bahaya tah? 👍</content>
     <link href="https://tiktok.com/@spillstinax/video/7262752184553557254" rel="alternate"/>
     <published>2023-08-02T15:47:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7263446202396495109</id>
+    <title>#acnemoisturizer #panthenolmoisturizer </title>
+    <updated>2023-08-04T12:40:57+00:00</updated>
+    <content>#acnemoisturizer #panthenolmoisturizer </content>
+    <link href="https://tiktok.com/@spillstinax/video/7263446202396495109" rel="alternate"/>
+    <published>2023-08-04T12:40:57+00:00</published>
   </entry>
 </feed>
