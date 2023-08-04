@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-04T14:23:35+00:00</updated>
+  <updated>2023-08-04T09:26:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7262245215568661766</id>
+    <title>ga banana ta? #miharanikke #miharanikkecosplay #foryou #fypシ #cosplay </title>
+    <updated>2023-08-01T07:00:31+00:00</updated>
+    <content>ga banana ta? #miharanikke #miharanikkecosplay #foryou #fypシ #cosplay </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7262245215568661766" rel="alternate"/>
+    <published>2023-08-01T07:00:31+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7262558808772267270</id>
     <title>ohayou 🌞 #CapCutVelocity #สปีดสโลว์ #สโลว์สมูท #foryou #japan </title>
@@ -43,13 +51,5 @@
     <content>#onepiece #memoriesbringback #luffy #boahankock #oploverz #luffyonepiece </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7263396116652117254" rel="alternate"/>
     <published>2023-08-04T09:26:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7263472646153653510</id>
-    <title>aku di cuekin terusss :( #CapCut #luffyboahankock #fakebodyy⚠️ #foryou </title>
-    <updated>2023-08-04T14:23:35+00:00</updated>
-    <content>aku di cuekin terusss :( #CapCut #luffyboahankock #fakebodyy⚠️ #foryou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7263472646153653510" rel="alternate"/>
-    <published>2023-08-04T14:23:35+00:00</published>
   </entry>
 </feed>
