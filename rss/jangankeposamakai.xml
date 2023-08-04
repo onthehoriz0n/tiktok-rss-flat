@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-03T02:35:20+00:00</updated>
+  <updated>2023-08-04T09:26:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7260419666219158790</id>
-    <title>#foryou #secretary </title>
-    <updated>2023-07-27T08:56:28+00:00</updated>
-    <content>#foryou #secretary </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7260419666219158790" rel="alternate"/>
-    <published>2023-07-27T08:56:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7262245215568661766</id>
     <title>ga banana ta? #miharanikke #miharanikkecosplay #foryou #fypシ #cosplay </title>
@@ -51,5 +43,13 @@
     <content>siap2 absen 6 august🥵 #CapCut #onepiece #luffygear5 #luffy #6august #boahancockwaifu #hancock </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7262919043647081734" rel="alternate"/>
     <published>2023-08-03T02:35:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7263396116652117254</id>
+    <title>#onepiece #memoriesbringback #luffy #boahankock #oploverz #luffyonepiece </title>
+    <updated>2023-08-04T09:26:37+00:00</updated>
+    <content>#onepiece #memoriesbringback #luffy #boahankock #oploverz #luffyonepiece </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7263396116652117254" rel="alternate"/>
+    <published>2023-08-04T09:26:37+00:00</published>
   </entry>
 </feed>
