@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-08-05T06:51:42+00:00</updated>
+  <updated>2023-08-05T10:43:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7258660520503414022</id>
-    <title>NEXTNYA BIKIN DARI APALAGI?💛💛 #NatInColors </title>
-    <updated>2023-07-22T15:10:04+00:00</updated>
-    <content>NEXTNYA BIKIN DARI APALAGI?💛💛 #NatInColors </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7258660520503414022" rel="alternate"/>
-    <published>2023-07-22T15:10:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7259380258070187270</id>
     <title>anak SMA sekarang boleh pake lipstick gini gaksih..?! I’m using @Somethinc Official IDOL lip matte + clear gloss❤️ #yearbooktrend</title>
@@ -51,5 +43,13 @@
     <content>Kalian kalo jadi gue, kalap juga gak?! Kata gue sih langsung ke JXB sekarang terus borong @Implora Cosmetics #ImploraJXB #approvedbyme </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7263727279207910662" rel="alternate"/>
     <published>2023-08-05T06:51:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7263787004733885701</id>
+    <title>Kalo kalian biasanya kadoin pacar apa? #SuperstarGlowSet @L'Oreal Paris Indonesia </title>
+    <updated>2023-08-05T10:43:27+00:00</updated>
+    <content>Kalo kalian biasanya kadoin pacar apa? #SuperstarGlowSet @L'Oreal Paris Indonesia </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7263787004733885701" rel="alternate"/>
+    <published>2023-08-05T10:43:27+00:00</published>
   </entry>
 </feed>
