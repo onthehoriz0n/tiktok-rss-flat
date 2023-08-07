@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-08-04T12:40:57+00:00</updated>
+  <updated>2023-08-07T14:24:40.980009+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7261792621016665349</id>
-    <title>#sunscreenreview #skincareroutine </title>
-    <updated>2023-07-31T01:44:14+00:00</updated>
-    <content>#sunscreenreview #skincareroutine </content>
-    <link href="https://tiktok.com/@spillstinax/video/7261792621016665349" rel="alternate"/>
-    <published>2023-07-31T01:44:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7262263371364388102</id>
-    <title>#antidarkspot #skincareroutine </title>
-    <updated>2023-08-01T08:10:59+00:00</updated>
-    <content>#antidarkspot #skincareroutine </content>
-    <link href="https://tiktok.com/@spillstinax/video/7262263371364388102" rel="alternate"/>
-    <published>2023-08-01T08:10:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7262745480088521990</id>
-    <title>where is my luigi?</title>
-    <updated>2023-08-02T15:21:47+00:00</updated>
-    <content>where is my luigi?</content>
-    <link href="https://tiktok.com/@spillstinax/video/7262745480088521990" rel="alternate"/>
-    <published>2023-08-02T15:21:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7262752184553557254</id>
-    <title>gak bahaya tah? 👍</title>
-    <updated>2023-08-02T15:47:49+00:00</updated>
-    <content>gak bahaya tah? 👍</content>
-    <link href="https://tiktok.com/@spillstinax/video/7262752184553557254" rel="alternate"/>
-    <published>2023-08-02T15:47:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7263446202396495109</id>
-    <title>#acnemoisturizer #panthenolmoisturizer </title>
-    <updated>2023-08-04T12:40:57+00:00</updated>
-    <content>#acnemoisturizer #panthenolmoisturizer </content>
-    <link href="https://tiktok.com/@spillstinax/video/7263446202396495109" rel="alternate"/>
-    <published>2023-08-04T12:40:57+00:00</published>
-  </entry>
 </feed>
