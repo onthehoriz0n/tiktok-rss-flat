@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-06T11:51:21+00:00</updated>
+  <updated>2023-08-07T04:06:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7263396116652117254</id>
-    <title>#onepiece #memoriesbringback #luffy #boahankock #oploverz #luffyonepiece </title>
-    <updated>2023-08-04T09:26:37+00:00</updated>
-    <content>#onepiece #memoriesbringback #luffy #boahankock #oploverz #luffyonepiece </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7263396116652117254" rel="alternate"/>
-    <published>2023-08-04T09:26:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7263694146777533702</id>
     <title>🤓 #yp #fypage #foryou </title>
@@ -51,5 +43,13 @@
     <content>kyk gini ya? #foryou #fypシ </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7264175588007791878" rel="alternate"/>
     <published>2023-08-06T11:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7264426733917572358</id>
+    <title>😝 #fifthharmony #workfromhome #xyzbca </title>
+    <updated>2023-08-07T04:06:09+00:00</updated>
+    <content>😝 #fifthharmony #workfromhome #xyzbca </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7264426733917572358" rel="alternate"/>
+    <published>2023-08-07T04:06:09+00:00</published>
   </entry>
 </feed>
