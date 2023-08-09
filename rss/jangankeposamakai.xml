@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-08T03:46:17+00:00</updated>
+  <updated>2023-08-08T17:40:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,12 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
   <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7263878162742922502</id>
-    <title>#makima #cosplay #foryou </title>
-    <updated>2023-08-05T16:37:12+00:00</updated>
-    <content>#makima #cosplay #foryou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7263878162742922502" rel="alternate"/>
-    <published>2023-08-05T16:37:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7264165017233181958</id>
-    <title>#makimachainsawman #chainsawman </title>
-    <updated>2023-08-06T11:10:20+00:00</updated>
-    <content>#makimachainsawman #chainsawman </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7264165017233181958" rel="alternate"/>
-    <published>2023-08-06T11:10:20+00:00</published>
+    <id>https://tiktok.com/@jangankeposamakai/video/7263694146777533702</id>
+    <title>🤓 #yp #fypage #foryou </title>
+    <updated>2023-08-05T04:43:06+00:00</updated>
+    <content>🤓 #yp #fypage #foryou </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7263694146777533702" rel="alternate"/>
+    <published>2023-08-05T04:43:06+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7264175588007791878</id>
@@ -51,5 +43,13 @@
     <content>😸 #neko #foryou #miaw #xyzbca </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7264792755145116933" rel="alternate"/>
     <published>2023-08-08T03:46:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7265007785056668934</id>
+    <title>#makimamakeup #makimachainsawman #makimacosplay #chainsawman #cosplay </title>
+    <updated>2023-08-08T17:40:41+00:00</updated>
+    <content>#makimamakeup #makimachainsawman #makimacosplay #chainsawman #cosplay </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7265007785056668934" rel="alternate"/>
+    <published>2023-08-08T17:40:41+00:00</published>
   </entry>
 </feed>
