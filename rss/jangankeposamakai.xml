@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-11T05:24:39+00:00</updated>
+  <updated>2023-08-11T13:45:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7265007785056668934</id>
-    <title>#makimamakeup #makimachainsawman #makimacosplay #chainsawman #cosplay </title>
-    <updated>2023-08-08T17:40:41+00:00</updated>
-    <content>#makimamakeup #makimachainsawman #makimacosplay #chainsawman #cosplay </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7265007785056668934" rel="alternate"/>
-    <published>2023-08-08T17:40:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7265159931559562501</id>
     <title>Doing something unholy #makima #fyp #unholy #fortnitebr </title>
@@ -51,5 +43,13 @@
     <content>jarang nihh #foryou #hyera </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7265931359137418502" rel="alternate"/>
     <published>2023-08-11T05:24:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7266060519780486405</id>
+    <title>piw piw #fyp #manhwa </title>
+    <updated>2023-08-11T13:45:51+00:00</updated>
+    <content>piw piw #fyp #manhwa </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7266060519780486405" rel="alternate"/>
+    <published>2023-08-11T13:45:51+00:00</published>
   </entry>
 </feed>
