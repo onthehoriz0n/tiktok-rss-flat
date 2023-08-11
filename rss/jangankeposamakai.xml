@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-10T17:29:06+00:00</updated>
+  <updated>2023-08-11T05:24:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7264792755145116933</id>
-    <title>😸 #neko #foryou #miaw #xyzbca </title>
-    <updated>2023-08-08T03:46:17+00:00</updated>
-    <content>😸 #neko #foryou #miaw #xyzbca </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7264792755145116933" rel="alternate"/>
-    <published>2023-08-08T03:46:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7265007785056668934</id>
     <title>#makimamakeup #makimachainsawman #makimacosplay #chainsawman #cosplay </title>
@@ -51,5 +43,13 @@
     <content>#CapCut #hyera #hyeracosplay #manhwa </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7265746972114488582" rel="alternate"/>
     <published>2023-08-10T17:29:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7265931359137418502</id>
+    <title>jarang nihh #foryou #hyera </title>
+    <updated>2023-08-11T05:24:39+00:00</updated>
+    <content>jarang nihh #foryou #hyera </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7265931359137418502" rel="alternate"/>
+    <published>2023-08-11T05:24:39+00:00</published>
   </entry>
 </feed>
