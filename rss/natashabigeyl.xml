@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-08-12T07:10:59+00:00</updated>
+  <updated>2023-08-13T18:19:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7264905232537095430</id>
-    <title>Kaget bgt udah cabang ke 14 aja?! supaya gak jadi dark spot abis panas2an, alhasil langsung otw ke boothnya @Vaseline Indonesia di Jakarta X Beauty buat cari body serum! #BebasinAjaAdaVaseline #JakartaXBeauty2023</title>
-    <updated>2023-08-08T11:02:44+00:00</updated>
-    <content>Kaget bgt udah cabang ke 14 aja?! supaya gak jadi dark spot abis panas2an, alhasil langsung otw ke boothnya @Vaseline Indonesia di Jakarta X Beauty buat cari body serum! #BebasinAjaAdaVaseline #JakartaXBeauty2023</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7264905232537095430" rel="alternate"/>
-    <published>2023-08-08T11:02:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7264915734344633606</id>
     <title>MENURUT KALIAN ITU JAKET WARNA IJO APA COKLAT?🥲 #NatInColors </title>
@@ -51,5 +43,13 @@
     <content>Ada dendam apa ya Malaysia dengan gue?🥲 #malaysia #gentingskyworld #deorex #bodyodorizer #adayinmylife</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7266329811876859142" rel="alternate"/>
     <published>2023-08-12T07:10:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7266873125910891782</id>
+    <title>Menurut kalian gimana?!🥲🙂 #adayinmylife #malaysia </title>
+    <updated>2023-08-13T18:19:09+00:00</updated>
+    <content>Menurut kalian gimana?!🥲🙂 #adayinmylife #malaysia </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7266873125910891782" rel="alternate"/>
+    <published>2023-08-13T18:19:09+00:00</published>
   </entry>
 </feed>
