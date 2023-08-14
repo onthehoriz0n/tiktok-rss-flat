@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-08-12T04:39:06+00:00</updated>
+  <updated>2023-08-14T16:26:52.179733+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7261562297665981701</id>
-    <title>beberapa thn kedepan bakal nyesel liat video ini</title>
-    <updated>2023-07-30T10:50:26+00:00</updated>
-    <content>beberapa thn kedepan bakal nyesel liat video ini</content>
-    <link href="https://tiktok.com/@another.ell/video/7261562297665981701" rel="alternate"/>
-    <published>2023-07-30T10:50:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7261579739788332294</id>
-    <title>No Title</title>
-    <updated>2023-07-30T11:58:08+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@another.ell/video/7261579739788332294" rel="alternate"/>
-    <published>2023-07-30T11:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7262749790960749830</id>
-    <title>cocok buat yg baru belajar ngalis!💯 #PerfectlyDefinedEyebrow #NoWorryAlisCetarNoera @Noera By Reisha </title>
-    <updated>2023-08-02T15:38:31+00:00</updated>
-    <content>cocok buat yg baru belajar ngalis!💯 #PerfectlyDefinedEyebrow #NoWorryAlisCetarNoera @Noera By Reisha </content>
-    <link href="https://tiktok.com/@another.ell/video/7262749790960749830" rel="alternate"/>
-    <published>2023-08-02T15:38:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7265293013293780229</id>
-    <title>ngasal take makanya berantakan🤌</title>
-    <updated>2023-08-09T12:07:31+00:00</updated>
-    <content>ngasal take makanya berantakan🤌</content>
-    <link href="https://tiktok.com/@another.ell/video/7265293013293780229" rel="alternate"/>
-    <published>2023-08-09T12:07:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7266290705297968390</id>
-    <title>pentesan org” pada botox😭 kalian kalo mau jg pake kode promo “SZCHRSTL” di @SOZO Skin Clinic ya biar dpt diskon 150rb!✨ #botox #fypシ </title>
-    <updated>2023-08-12T04:39:06+00:00</updated>
-    <content>pentesan org” pada botox😭 kalian kalo mau jg pake kode promo “SZCHRSTL” di @SOZO Skin Clinic ya biar dpt diskon 150rb!✨ #botox #fypシ </content>
-    <link href="https://tiktok.com/@another.ell/video/7266290705297968390" rel="alternate"/>
-    <published>2023-08-12T04:39:06+00:00</published>
-  </entry>
 </feed>
