@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-08-10T04:39:05+00:00</updated>
+  <updated>2023-08-14T11:18:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7264790038288878853</id>
-    <title>stay waras digemparan ai tol kon</title>
-    <updated>2023-08-08T03:35:44+00:00</updated>
-    <content>stay waras digemparan ai tol kon</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7264790038288878853" rel="alternate"/>
-    <published>2023-08-08T03:35:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7264856893665971462</id>
     <title>Yuk karokean bareng aku di Discord Icownic Community dan menangin hadiah tiket gratis 90's Festival! Kapan lagi kita bakal seru-seruan bareng sambil nyanyi lagu-lagu 90-an ya kannn 🙋🏻‍♀️✨join Discord sekarang dengan visit icownicpatch.com ya!@ultra_mym </title>
@@ -51,5 +43,13 @@
     <content>abis turun 6 kg </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7265548534349384966" rel="alternate"/>
     <published>2023-08-10T04:39:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7267135884955323654</id>
+    <title>Super seru karokean 90's bareng temen2 di icownic discord! Byat tau keseruan lainnya, yuk gabung di Discord dengan visit www.icownicpatch.com!@ultra_mym </title>
+    <updated>2023-08-14T11:18:49+00:00</updated>
+    <content>Super seru karokean 90's bareng temen2 di icownic discord! Byat tau keseruan lainnya, yuk gabung di Discord dengan visit www.icownicpatch.com!@ultra_mym </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7267135884955323654" rel="alternate"/>
+    <published>2023-08-14T11:18:49+00:00</published>
   </entry>
 </feed>
