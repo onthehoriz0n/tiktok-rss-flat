@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-14T05:22:39+00:00</updated>
+  <updated>2023-08-14T16:25:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7265931359137418502</id>
-    <title>jarang nihh #foryou #hyera </title>
-    <updated>2023-08-11T05:24:39+00:00</updated>
-    <content>jarang nihh #foryou #hyera </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7265931359137418502" rel="alternate"/>
-    <published>2023-08-11T05:24:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7266060519780486405</id>
     <title>piw piw #fyp #manhwa </title>
@@ -51,5 +43,13 @@
     <content>#luffy #cosplay #fyp </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7267044104100629766" rel="alternate"/>
     <published>2023-08-14T05:22:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7267214955533896965</id>
+    <title>fix idaman! #neko #nekocosplay #asulamasukadia #foryou #fypシ </title>
+    <updated>2023-08-14T16:25:40+00:00</updated>
+    <content>fix idaman! #neko #nekocosplay #asulamasukadia #foryou #fypシ </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7267214955533896965" rel="alternate"/>
+    <published>2023-08-14T16:25:40+00:00</published>
   </entry>
 </feed>
