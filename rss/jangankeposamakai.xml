@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-13T06:59:41+00:00</updated>
+  <updated>2023-08-14T05:22:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7265746972114488582</id>
-    <title>#CapCut #hyera #hyeracosplay #manhwa </title>
-    <updated>2023-08-10T17:29:06+00:00</updated>
-    <content>#CapCut #hyera #hyeracosplay #manhwa </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7265746972114488582" rel="alternate"/>
-    <published>2023-08-10T17:29:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7265931359137418502</id>
     <title>jarang nihh #foryou #hyera </title>
@@ -51,5 +43,13 @@
     <content>welcome #fyp #dance #fypシ </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7266698022547885317" rel="alternate"/>
     <published>2023-08-13T06:59:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7267044104100629766</id>
+    <title>#luffy #cosplay #fyp </title>
+    <updated>2023-08-14T05:22:39+00:00</updated>
+    <content>#luffy #cosplay #fyp </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7267044104100629766" rel="alternate"/>
+    <published>2023-08-14T05:22:39+00:00</published>
   </entry>
 </feed>
