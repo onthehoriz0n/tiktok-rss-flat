@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-08-13T18:19:09+00:00</updated>
+  <updated>2023-08-14T11:37:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7264915734344633606</id>
-    <title>MENURUT KALIAN ITU JAKET WARNA IJO APA COKLAT?🥲 #NatInColors </title>
-    <updated>2023-08-08T11:43:29+00:00</updated>
-    <content>MENURUT KALIAN ITU JAKET WARNA IJO APA COKLAT?🥲 #NatInColors </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7264915734344633606" rel="alternate"/>
-    <published>2023-08-08T11:43:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7265210384343190789</id>
     <title>TEBAK GUE MAU KEMANA SAMA @Iben M.A. </title>
@@ -51,5 +43,13 @@
     <content>Menurut kalian gimana?!🥲🙂 #adayinmylife #malaysia </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7266873125910891782" rel="alternate"/>
     <published>2023-08-13T18:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7267140624963357958</id>
+    <title>PLIS BGT HARUS COBA INI KALO KE KL  #malaysia #adayinmylife #hokowkopitiam #foodreview </title>
+    <updated>2023-08-14T11:37:12+00:00</updated>
+    <content>PLIS BGT HARUS COBA INI KALO KE KL  #malaysia #adayinmylife #hokowkopitiam #foodreview </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7267140624963357958" rel="alternate"/>
+    <published>2023-08-14T11:37:12+00:00</published>
   </entry>
 </feed>
