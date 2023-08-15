@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-08-14T11:59:43+00:00</updated>
+  <updated>2023-08-15T13:07:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7264937542892702982</id>
-    <title>fyp hari ini full emosi 😠</title>
-    <updated>2023-08-08T13:08:07+00:00</updated>
-    <content>fyp hari ini full emosi 😠</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7264937542892702982" rel="alternate"/>
-    <published>2023-08-08T13:08:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7265223293995633925</id>
     <title>gua im fine</title>
@@ -51,5 +43,13 @@
     <content>maaf ya</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7267146423433547014" rel="alternate"/>
     <published>2023-08-14T11:59:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7267535041796902150</id>
+    <title>SEMUA GARA GARA DIAA</title>
+    <updated>2023-08-15T13:07:44+00:00</updated>
+    <content>SEMUA GARA GARA DIAA</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7267535041796902150" rel="alternate"/>
+    <published>2023-08-15T13:07:44+00:00</published>
   </entry>
 </feed>
