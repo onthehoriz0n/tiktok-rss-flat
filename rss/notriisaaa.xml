@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@notriisaaa</id>
   <title>notriisaaa TikTok</title>
-  <updated>2023-08-08T17:34:25+00:00</updated>
+  <updated>2023-08-15T12:10:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from notriisaaa</subtitle>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7262747260348386566</id>
-    <title>No Title</title>
-    <updated>2023-08-02T15:28:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7262747260348386566" rel="alternate"/>
-    <published>2023-08-02T15:28:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7263476867112455429</id>
-    <title>rahasia wangiii💕</title>
-    <updated>2023-08-04T14:39:56+00:00</updated>
-    <content>rahasia wangiii💕</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7263476867112455429" rel="alternate"/>
-    <published>2023-08-04T14:39:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7264481935227948293</id>
-    <title>No Title</title>
-    <updated>2023-08-07T07:40:08+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7264481935227948293" rel="alternate"/>
-    <published>2023-08-07T07:40:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@notriisaaa/video/7264482474745498886</id>
     <title>No Title</title>
@@ -51,5 +27,29 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@notriisaaa/video/7265006166210661637" rel="alternate"/>
     <published>2023-08-08T17:34:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7267506037094157573</id>
+    <title>No Title</title>
+    <updated>2023-08-15T11:15:11+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7267506037094157573" rel="alternate"/>
+    <published>2023-08-15T11:15:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7267519440479177990</id>
+    <title>No Title</title>
+    <updated>2023-08-15T12:07:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7267519440479177990" rel="alternate"/>
+    <published>2023-08-15T12:07:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7267520374617754886</id>
+    <title>No Title</title>
+    <updated>2023-08-15T12:10:49+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7267520374617754886" rel="alternate"/>
+    <published>2023-08-15T12:10:49+00:00</published>
   </entry>
 </feed>
