@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-08-15T06:39:24+00:00</updated>
+  <updated>2023-08-16T01:12:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7264200393679195398</id>
-    <title>Ikutan yg lg rame</title>
-    <updated>2023-08-06T13:26:45+00:00</updated>
-    <content>Ikutan yg lg rame</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7264200393679195398" rel="alternate"/>
-    <published>2023-08-06T13:26:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7264202015637507333</id>
     <title>Versi gagalny</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7267434960108260613" rel="alternate"/>
     <published>2023-08-15T06:39:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7267721860882746629</id>
+    <title>HIIT Cardio Workout🥵🔥 Yuk bakar lemak !</title>
+    <updated>2023-08-16T01:12:43+00:00</updated>
+    <content>HIIT Cardio Workout🥵🔥 Yuk bakar lemak !</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7267721860882746629" rel="alternate"/>
+    <published>2023-08-16T01:12:43+00:00</published>
   </entry>
 </feed>
