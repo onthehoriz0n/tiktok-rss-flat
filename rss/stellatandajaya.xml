@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-08-05T12:23:50+00:00</updated>
+  <updated>2023-08-16T01:18:32.186766+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7260379183535099142</id>
-    <title>jam3Dh </title>
-    <updated>2023-07-27T06:19:22+00:00</updated>
-    <content>jam3Dh </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7260379183535099142" rel="alternate"/>
-    <published>2023-07-27T06:19:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7260389042204822789</id>
-    <title>amissumuch</title>
-    <updated>2023-07-27T06:57:39+00:00</updated>
-    <content>amissumuch</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7260389042204822789" rel="alternate"/>
-    <published>2023-07-27T06:57:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7261468657841097990</id>
-    <title>girl i found my perfect dress for summer asdfghkl 🌴🌺🐚🌊☀️ </title>
-    <updated>2023-07-30T04:47:04+00:00</updated>
-    <content>girl i found my perfect dress for summer asdfghkl 🌴🌺🐚🌊☀️ </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7261468657841097990" rel="alternate"/>
-    <published>2023-07-30T04:47:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7261535950071680261</id>
-    <title>rawr XD </title>
-    <updated>2023-07-30T09:08:12+00:00</updated>
-    <content>rawr XD </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7261535950071680261" rel="alternate"/>
-    <published>2023-07-30T09:08:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7263812868490005765</id>
-    <title>ovt girl wya? 🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️</title>
-    <updated>2023-08-05T12:23:50+00:00</updated>
-    <content>ovt girl wya? 🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7263812868490005765" rel="alternate"/>
-    <published>2023-08-05T12:23:50+00:00</published>
-  </entry>
 </feed>

@@ -13,14 +13,6 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from notriisaaa</subtitle>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7264481935227948293</id>
-    <title>No Title</title>
-    <updated>2023-08-07T07:40:08+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7264481935227948293" rel="alternate"/>
-    <published>2023-08-07T07:40:08+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@notriisaaa/video/7264482474745498886</id>
     <title>No Title</title>
     <updated>2023-08-07T07:42:14+00:00</updated>
@@ -43,6 +35,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@notriisaaa/video/7267506037094157573" rel="alternate"/>
     <published>2023-08-15T11:15:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7267519440479177990</id>
+    <title>No Title</title>
+    <updated>2023-08-15T12:07:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7267519440479177990" rel="alternate"/>
+    <published>2023-08-15T12:07:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@notriisaaa/video/7267520374617754886</id>
