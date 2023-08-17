@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-08-12T11:43:09+00:00</updated>
+  <updated>2023-08-17T11:21:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7250364724628425990</id>
-    <title>No Title</title>
-    <updated>2023-06-30T06:38:07+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7250364724628425990" rel="alternate"/>
-    <published>2023-06-30T06:38:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7262056070200167685</id>
-    <title>No Title</title>
-    <updated>2023-07-31T18:46:31+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7262056070200167685" rel="alternate"/>
-    <published>2023-07-31T18:46:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7266268435737218310</id>
-    <title>No Title</title>
-    <updated>2023-08-12T03:12:41+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7266268435737218310" rel="alternate"/>
-    <published>2023-08-12T03:12:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7266268631665790214</id>
     <title>No Title</title>
@@ -51,5 +27,29 @@
     <content>Muah</content>
     <link href="https://tiktok.com/@akina.a/video/7266399980749966598" rel="alternate"/>
     <published>2023-08-12T11:43:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7268249225706704133</id>
+    <title>No Title</title>
+    <updated>2023-08-17T11:19:09+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7268249225706704133" rel="alternate"/>
+    <published>2023-08-17T11:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7268249552887631109</id>
+    <title>No Title</title>
+    <updated>2023-08-17T11:20:24+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7268249552887631109" rel="alternate"/>
+    <published>2023-08-17T11:20:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7268249754868403462</id>
+    <title>nah ini bener</title>
+    <updated>2023-08-17T11:21:11+00:00</updated>
+    <content>nah ini bener</content>
+    <link href="https://tiktok.com/@akina.a/video/7268249754868403462" rel="alternate"/>
+    <published>2023-08-17T11:21:11+00:00</published>
   </entry>
 </feed>
