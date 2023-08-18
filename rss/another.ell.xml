@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-08-18T06:58:11+00:00</updated>
+  <updated>2023-08-18T10:21:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7262749790960749830</id>
-    <title>cocok buat yg baru belajar ngalis!💯 #PerfectlyDefinedEyebrow #NoWorryAlisCetarNoera @Noera By Reisha </title>
-    <updated>2023-08-02T15:38:31+00:00</updated>
-    <content>cocok buat yg baru belajar ngalis!💯 #PerfectlyDefinedEyebrow #NoWorryAlisCetarNoera @Noera By Reisha </content>
-    <link href="https://tiktok.com/@another.ell/video/7262749790960749830" rel="alternate"/>
-    <published>2023-08-02T15:38:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7265293013293780229</id>
     <title>ngasal take makanya berantakan🤌</title>
@@ -51,5 +43,13 @@
     <content>baru kali ini kora-kora berasa lama😭😂 #dufan #fypシ </content>
     <link href="https://tiktok.com/@another.ell/video/7268553065140096262" rel="alternate"/>
     <published>2023-08-18T06:58:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7268605393520086277</id>
+    <title>bingung jg knp bisa pas gt😭</title>
+    <updated>2023-08-18T10:21:14+00:00</updated>
+    <content>bingung jg knp bisa pas gt😭</content>
+    <link href="https://tiktok.com/@another.ell/video/7268605393520086277" rel="alternate"/>
+    <published>2023-08-18T10:21:14+00:00</published>
   </entry>
 </feed>
