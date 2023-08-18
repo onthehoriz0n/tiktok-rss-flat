@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-08-17T08:30:02+00:00</updated>
+  <updated>2023-08-18T04:35:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7265548534349384966</id>
-    <title>abis turun 6 kg </title>
-    <updated>2023-08-10T04:39:05+00:00</updated>
-    <content>abis turun 6 kg </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7265548534349384966" rel="alternate"/>
-    <published>2023-08-10T04:39:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7267135884955323654</id>
     <title>Super seru karokean 90's bareng temen2 di icownic discord! Byat tau keseruan lainnya, yuk gabung di Discord dengan visit www.icownicpatch.com!@ultra_mym </title>
@@ -51,5 +43,13 @@
     <content>love bali</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7268205646833634565" rel="alternate"/>
     <published>2023-08-17T08:30:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7268516417161448710</id>
+    <title>Fix!! Wajib Minuman Stamina favorit aku banget, #BISASTRONG setiap hari!!! </title>
+    <updated>2023-08-18T04:35:59+00:00</updated>
+    <content>Fix!! Wajib Minuman Stamina favorit aku banget, #BISASTRONG setiap hari!!! </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7268516417161448710" rel="alternate"/>
+    <published>2023-08-18T04:35:59+00:00</published>
   </entry>
 </feed>
