@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-08-12T04:39:06+00:00</updated>
+  <updated>2023-08-18T04:27:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7261562297665981701</id>
-    <title>beberapa thn kedepan bakal nyesel liat video ini</title>
-    <updated>2023-07-30T10:50:26+00:00</updated>
-    <content>beberapa thn kedepan bakal nyesel liat video ini</content>
-    <link href="https://tiktok.com/@another.ell/video/7261562297665981701" rel="alternate"/>
-    <published>2023-07-30T10:50:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7261579739788332294</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>pentesan org” pada botox😭 kalian kalo mau jg pake kode promo “SZCHRSTL” di @SOZO Skin Clinic ya biar dpt diskon 150rb!✨ #botox #fypシ </content>
     <link href="https://tiktok.com/@another.ell/video/7266290705297968390" rel="alternate"/>
     <published>2023-08-12T04:39:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7268514272513232134</id>
+    <title>bombastic side eye😭 #fasttrack #dufan </title>
+    <updated>2023-08-18T04:27:41+00:00</updated>
+    <content>bombastic side eye😭 #fasttrack #dufan </content>
+    <link href="https://tiktok.com/@another.ell/video/7268514272513232134" rel="alternate"/>
+    <published>2023-08-18T04:27:41+00:00</published>
   </entry>
 </feed>
