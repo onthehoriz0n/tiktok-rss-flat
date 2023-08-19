@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-17T02:11:34+00:00</updated>
+  <updated>2023-08-19T05:40:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7267214955533896965</id>
-    <title>fix idaman! #neko #nekocosplay #asulamasukadia #foryou #fypシ </title>
-    <updated>2023-08-14T16:25:40+00:00</updated>
-    <content>fix idaman! #neko #nekocosplay #asulamasukadia #foryou #fypシ </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7267214955533896965" rel="alternate"/>
-    <published>2023-08-14T16:25:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7267386108575583494</id>
     <title>Replying to @banbana || ; perform gini??? #oshinoko #foryourpage #wibu </title>
@@ -51,5 +43,13 @@
     <content>Ft kameran barbar &gt;&lt; #lunaastrumdesign #djthailand #flowwiththebeat #foryourpage </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7268108113339813126" rel="alternate"/>
     <published>2023-08-17T02:11:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7268904236975492357</id>
+    <title>Sway me more~ #sway #lunaastrumdesign #ytta #trakteer </title>
+    <updated>2023-08-19T05:40:57+00:00</updated>
+    <content>Sway me more~ #sway #lunaastrumdesign #ytta #trakteer </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7268904236975492357" rel="alternate"/>
+    <published>2023-08-19T05:40:57+00:00</published>
   </entry>
 </feed>
