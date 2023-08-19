@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-08-19T05:42:53+00:00</updated>
+  <updated>2023-08-18T14:28:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7265698896398126342</id>
+    <title>SUMPAH CUKUP SEKALI AJA TQ. #adayinmylife #malaysia </title>
+    <updated>2023-08-10T14:22:33+00:00</updated>
+    <content>SUMPAH CUKUP SEKALI AJA TQ. #adayinmylife #malaysia </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7265698896398126342" rel="alternate"/>
+    <published>2023-08-10T14:22:33+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7266329811876859142</id>
     <title>Ada dendam apa ya Malaysia dengan gue?🥲 #malaysia #gentingskyworld #deorex #bodyodorizer #adayinmylife</title>
@@ -43,13 +51,5 @@
     <content>Itu orang arab/turki sih? HAHAHA GATAU YA ITULAH. NEXT LIBURAN ENAKNYA KMN YA? #malaysia #adayinmylife </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7268668997153885446" rel="alternate"/>
     <published>2023-08-18T14:28:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7268904744767409414</id>
-    <title>Kalian suka beda juga gak sama pacar? Apapun bedanya, there’s nothing Magnum Almond can’t fix❤️ #TeamAlmond #TGIFwithMagnum @magnum.idn</title>
-    <updated>2023-08-19T05:42:53+00:00</updated>
-    <content>Kalian suka beda juga gak sama pacar? Apapun bedanya, there’s nothing Magnum Almond can’t fix❤️ #TeamAlmond #TGIFwithMagnum @magnum.idn</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7268904744767409414" rel="alternate"/>
-    <published>2023-08-19T05:42:53+00:00</published>
   </entry>
 </feed>
