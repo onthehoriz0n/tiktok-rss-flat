@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-08-18T13:23:20+00:00</updated>
+  <updated>2023-08-19T13:49:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7266773686374485253</id>
-    <title>guys seru banget event CODM kali ini, kalian bisa download disini ya https://codm.co.id/rachelmaincodm #CODMXGF #DUET #Collaboration #CallofDuty #CallofDutyMobile #CODMobile</title>
-    <updated>2023-08-13T11:53:18+00:00</updated>
-    <content>guys seru banget event CODM kali ini, kalian bisa download disini ya https://codm.co.id/rachelmaincodm #CODMXGF #DUET #Collaboration #CallofDuty #CallofDutyMobile #CODMobile</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7266773686374485253" rel="alternate"/>
-    <published>2023-08-13T11:53:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7266801372681522437</id>
-    <title>ya</title>
-    <updated>2023-08-13T13:40:43+00:00</updated>
-    <content>ya</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7266801372681522437" rel="alternate"/>
-    <published>2023-08-13T13:40:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7267026198205648134</id>
     <title>yang angkasa" ajaa</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7268652317870787845" rel="alternate"/>
     <published>2023-08-18T13:23:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7268972744140672261</id>
+    <title>No Title</title>
+    <updated>2023-08-19T10:06:45+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7268972744140672261" rel="alternate"/>
+    <published>2023-08-19T10:06:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7269030160563850501</id>
+    <title>davina capek</title>
+    <updated>2023-08-19T13:49:34+00:00</updated>
+    <content>davina capek</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7269030160563850501" rel="alternate"/>
+    <published>2023-08-19T13:49:34+00:00</published>
   </entry>
 </feed>

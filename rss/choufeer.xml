@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-08-19T02:50:24+00:00</updated>
+  <updated>2023-08-19T13:57:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7266845667979545862</id>
-    <title>@ratu namira </title>
-    <updated>2023-08-13T16:32:38+00:00</updated>
-    <content>@ratu namira </content>
-    <link href="https://tiktok.com/@choufeer/video/7266845667979545862" rel="alternate"/>
-    <published>2023-08-13T16:32:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7267439608839900421</id>
-    <title>No Title</title>
-    <updated>2023-08-15T06:57:26+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@choufeer/video/7267439608839900421" rel="alternate"/>
-    <published>2023-08-15T06:57:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7267933043019533573</id>
     <title>@ratu namira </title>
@@ -51,5 +35,21 @@
     <content>@ratu namira </content>
     <link href="https://tiktok.com/@choufeer/video/7268860292459810053" rel="alternate"/>
     <published>2023-08-19T02:50:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7269031881021132038</id>
+    <title>🎉</title>
+    <updated>2023-08-19T13:56:14+00:00</updated>
+    <content>🎉</content>
+    <link href="https://tiktok.com/@choufeer/video/7269031881021132038" rel="alternate"/>
+    <published>2023-08-19T13:56:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7269032268839095557</id>
+    <title>No Title</title>
+    <updated>2023-08-19T13:57:45+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@choufeer/video/7269032268839095557" rel="alternate"/>
+    <published>2023-08-19T13:57:45+00:00</published>
   </entry>
 </feed>
