@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@notriisaaa</id>
   <title>notriisaaa TikTok</title>
-  <updated>2023-08-19T16:41:41+00:00</updated>
+  <updated>2023-08-20T16:22:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-08-19T07:59:37+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7269073593793907974</id>
-    <title>No Title</title>
-    <updated>2023-08-19T16:38:06+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7269073593793907974" rel="alternate"/>
-    <published>2023-08-19T16:38:06+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@notriisaaa/video/7269074513650879750</id>
     <title>No Title</title>
     <updated>2023-08-19T16:41:41+00:00</updated>
     <content>No Description</content>
     <link href="https://tiktok.com/@notriisaaa/video/7269074513650879750" rel="alternate"/>
     <published>2023-08-19T16:41:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7269440650981002501</id>
+    <title>No Title</title>
+    <updated>2023-08-20T16:22:29+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7269440650981002501" rel="alternate"/>
+    <published>2023-08-20T16:22:29+00:00</published>
   </entry>
 </feed>
