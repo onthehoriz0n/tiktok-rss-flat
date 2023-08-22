@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-08-20T10:07:11+00:00</updated>
+  <updated>2023-08-22T10:10:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7267488705860930821</id>
-    <title>HAHAHAH </title>
-    <updated>2023-08-15T10:07:56+00:00</updated>
-    <content>HAHAHAH </content>
-    <link href="https://tiktok.com/@jepangilang/video/7267488705860930821" rel="alternate"/>
-    <published>2023-08-15T10:07:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7268179098709576965</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>06</content>
     <link href="https://tiktok.com/@jepangilang/video/7269343938337639685" rel="alternate"/>
     <published>2023-08-20T10:07:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7270086952307690758</id>
+    <title>literally just woke up &amp; bare face</title>
+    <updated>2023-08-22T10:10:27+00:00</updated>
+    <content>literally just woke up &amp; bare face</content>
+    <link href="https://tiktok.com/@jepangilang/video/7270086952307690758" rel="alternate"/>
+    <published>2023-08-22T10:10:27+00:00</published>
   </entry>
 </feed>
