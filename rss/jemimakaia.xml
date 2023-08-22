@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-08-21T11:37:01+00:00</updated>
+  <updated>2023-08-22T09:30:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7236266954758130949</id>
-    <title>i tried HAHAH ib: @Nadira Fairuza </title>
-    <updated>2023-05-23T06:51:36+00:00</updated>
-    <content>i tried HAHAH ib: @Nadira Fairuza </content>
-    <link href="https://tiktok.com/@jemimakaia/video/7236266954758130949" rel="alternate"/>
-    <published>2023-05-23T06:51:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7236618935385296133</id>
-    <title>#CapCut 🙂🙃</title>
-    <updated>2023-05-24T05:37:28+00:00</updated>
-    <content>#CapCut 🙂🙃</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7236618935385296133" rel="alternate"/>
-    <published>2023-05-24T05:37:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7237852266110274821</id>
     <title>27 bulan meiii</title>
@@ -51,5 +35,21 @@
     <content>🪩</content>
     <link href="https://tiktok.com/@jemimakaia/video/7269738173427682565" rel="alternate"/>
     <published>2023-08-21T11:37:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7270076205049597189</id>
+    <title>late to this trend oops</title>
+    <updated>2023-08-22T09:28:45+00:00</updated>
+    <content>late to this trend oops</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7270076205049597189" rel="alternate"/>
+    <published>2023-08-22T09:28:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7270076578963541253</id>
+    <title>he loves this song</title>
+    <updated>2023-08-22T09:30:12+00:00</updated>
+    <content>he loves this song</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7270076578963541253" rel="alternate"/>
+    <published>2023-08-22T09:30:12+00:00</published>
   </entry>
 </feed>
