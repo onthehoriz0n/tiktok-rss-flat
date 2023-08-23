@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-08-18T06:58:11+00:00</updated>
+  <updated>2023-08-23T05:01:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7261579739788332294</id>
-    <title>No Title</title>
-    <updated>2023-07-30T11:58:08+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@another.ell/video/7261579739788332294" rel="alternate"/>
-    <published>2023-07-30T11:58:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7262749790960749830</id>
     <title>cocok buat yg baru belajar ngalis!💯 #PerfectlyDefinedEyebrow #NoWorryAlisCetarNoera @Noera By Reisha </title>
@@ -51,5 +43,13 @@
     <content>baru kali ini kora-kora berasa lama😭😂 #dufan #fypシ </content>
     <link href="https://tiktok.com/@another.ell/video/7268553065140096262" rel="alternate"/>
     <published>2023-08-18T06:58:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7270378518838594821</id>
+    <title>aneh</title>
+    <updated>2023-08-23T05:01:54+00:00</updated>
+    <content>aneh</content>
+    <link href="https://tiktok.com/@another.ell/video/7270378518838594821" rel="alternate"/>
+    <published>2023-08-23T05:01:54+00:00</published>
   </entry>
 </feed>
