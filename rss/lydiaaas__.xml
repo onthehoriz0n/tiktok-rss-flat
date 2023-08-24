@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-08-22T05:19:48+00:00</updated>
+  <updated>2023-08-24T12:16:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7267535041796902150</id>
+    <title>SEMUA GARA GARA DIAA</title>
+    <updated>2023-08-15T13:07:44+00:00</updated>
+    <content>SEMUA GARA GARA DIAA</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7267535041796902150" rel="alternate"/>
+    <published>2023-08-15T13:07:44+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7268205646833634565</id>
     <title>love bali</title>
@@ -29,27 +37,19 @@
     <published>2023-08-18T04:35:59+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7269774191119895814</id>
-    <title>rambutnya pendek hehe</title>
-    <updated>2023-08-21T13:56:48+00:00</updated>
-    <content>rambutnya pendek hehe</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7269774191119895814" rel="alternate"/>
-    <published>2023-08-21T13:56:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7269976281108729093</id>
-    <title>rambut baru </title>
-    <updated>2023-08-22T03:01:00+00:00</updated>
-    <content>rambut baru </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7269976281108729093" rel="alternate"/>
-    <published>2023-08-22T03:01:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7270012051290852614</id>
     <title>bagusan panjang atau pendek :(</title>
     <updated>2023-08-22T05:19:48+00:00</updated>
     <content>bagusan panjang atau pendek :(</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7270012051290852614" rel="alternate"/>
     <published>2023-08-22T05:19:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7270861628747287813</id>
+    <title>jalan jalan ke bali cakep</title>
+    <updated>2023-08-24T12:16:35+00:00</updated>
+    <content>jalan jalan ke bali cakep</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7270861628747287813" rel="alternate"/>
+    <published>2023-08-24T12:16:35+00:00</published>
   </entry>
 </feed>
