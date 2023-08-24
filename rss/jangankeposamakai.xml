@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-22T17:58:01+00:00</updated>
+  <updated>2023-08-23T09:27:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7268108113339813126</id>
-    <title>Ft kameran barbar &gt;&lt; #lunaastrumdesign #djthailand #flowwiththebeat #foryourpage </title>
-    <updated>2023-08-17T02:11:34+00:00</updated>
-    <content>Ft kameran barbar &gt;&lt; #lunaastrumdesign #djthailand #flowwiththebeat #foryourpage </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7268108113339813126" rel="alternate"/>
-    <published>2023-08-17T02:11:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7268904236975492357</id>
     <title>Sway me more~ #sway #lunaastrumdesign #ytta #trakteer </title>
@@ -51,5 +43,13 @@
     <content>u know me 😌 #fyp #reminder #theweeknd #adawong #residentevil4 ##cosplayrisingstar</content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7270207436911430917" rel="alternate"/>
     <published>2023-08-22T17:58:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7270446946681130245</id>
+    <title>#สปีดสโลว์ #สโลว์สมูท #สปีดสโลว์ #สโลว์สมูท #fypシ </title>
+    <updated>2023-08-23T09:27:26+00:00</updated>
+    <content>#สปีดสโลว์ #สโลว์สมูท #สปีดสโลว์ #สโลว์สมูท #fypシ </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7270446946681130245" rel="alternate"/>
+    <published>2023-08-23T09:27:26+00:00</published>
   </entry>
 </feed>
