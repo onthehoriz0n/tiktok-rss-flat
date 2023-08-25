@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-24T03:32:32+00:00</updated>
+  <updated>2023-08-25T05:08:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7269711820267605254</id>
-    <title>#bussit #transition #lunaastrumdesign #cosplay #foryourpage </title>
-    <updated>2023-08-21T09:54:47+00:00</updated>
-    <content>#bussit #transition #lunaastrumdesign #cosplay #foryourpage </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7269711820267605254" rel="alternate"/>
-    <published>2023-08-21T09:54:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7269981383622216966</id>
     <title>salam kenal ya kk 😋 #adawong #risingstar #cosplay #salamkenalyakakak </title>
@@ -51,5 +43,13 @@
     <content>morning! #fyp #justinbieber #bodyrock #foryourpage #you </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7270726573764906245" rel="alternate"/>
     <published>2023-08-24T03:32:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7271122478431276293</id>
+    <title>Kalian salting kalau pasangan kalian lagi ngapain nih?? #saltingkopalingmanis #dance #tiktok #trending #foryourpage </title>
+    <updated>2023-08-25T05:08:50+00:00</updated>
+    <content>Kalian salting kalau pasangan kalian lagi ngapain nih?? #saltingkopalingmanis #dance #tiktok #trending #foryourpage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7271122478431276293" rel="alternate"/>
+    <published>2023-08-25T05:08:50+00:00</published>
   </entry>
 </feed>
