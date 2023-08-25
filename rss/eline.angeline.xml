@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-08-23T02:07:40+00:00</updated>
+  <updated>2023-08-25T03:21:49.914861+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7267434960108260613</id>
-    <title>No Title</title>
-    <updated>2023-08-15T06:39:24+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7267434960108260613" rel="alternate"/>
-    <published>2023-08-15T06:39:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7267721860882746629</id>
-    <title>HIIT Cardio Workout🥵🔥 Yuk bakar lemak !</title>
-    <updated>2023-08-16T01:12:43+00:00</updated>
-    <content>HIIT Cardio Workout🥵🔥 Yuk bakar lemak !</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7267721860882746629" rel="alternate"/>
-    <published>2023-08-16T01:12:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7268964179401280774</id>
-    <title>No Title</title>
-    <updated>2023-08-19T09:33:31+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7268964179401280774" rel="alternate"/>
-    <published>2023-08-19T09:33:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7270006463001595141</id>
-    <title>No Title</title>
-    <updated>2023-08-22T04:58:08+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7270006463001595141" rel="alternate"/>
-    <published>2023-08-22T04:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7270333617027468549</id>
-    <title>Piko mau iktan</title>
-    <updated>2023-08-23T02:07:40+00:00</updated>
-    <content>Piko mau iktan</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7270333617027468549" rel="alternate"/>
-    <published>2023-08-23T02:07:40+00:00</published>
-  </entry>
 </feed>
