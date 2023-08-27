@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-08-25T15:39:55+00:00</updated>
+  <updated>2023-08-27T09:46:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7268964179401280774</id>
-    <title>No Title</title>
-    <updated>2023-08-19T09:33:31+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7268964179401280774" rel="alternate"/>
-    <published>2023-08-19T09:33:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7270006463001595141</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7271285112916937989" rel="alternate"/>
     <published>2023-08-25T15:39:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7271936101651090694</id>
+    <title>No Title</title>
+    <updated>2023-08-27T09:46:07+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7271936101651090694" rel="alternate"/>
+    <published>2023-08-27T09:46:07+00:00</published>
   </entry>
 </feed>
