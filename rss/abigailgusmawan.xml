@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-08-08T03:10:48+00:00</updated>
+  <updated>2023-08-27T02:26:59.106415+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7262318400108596486</id>
-    <title>no more back pain/sakit kepala</title>
-    <updated>2023-08-01T11:44:30+00:00</updated>
-    <content>no more back pain/sakit kepala</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7262318400108596486" rel="alternate"/>
-    <published>2023-08-01T11:44:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7262741234291166470</id>
-    <title>love language ku physical attack kak</title>
-    <updated>2023-08-02T15:05:20+00:00</updated>
-    <content>love language ku physical attack kak</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7262741234291166470" rel="alternate"/>
-    <published>2023-08-02T15:05:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7263021904150154501</id>
-    <title>jadi patung</title>
-    <updated>2023-08-03T09:14:27+00:00</updated>
-    <content>jadi patung</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7263021904150154501" rel="alternate"/>
-    <published>2023-08-03T09:14:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7263769025811991814</id>
-    <title>No Title</title>
-    <updated>2023-08-05T09:33:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7263769025811991814" rel="alternate"/>
-    <published>2023-08-05T09:33:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7264783610924911878</id>
-    <title>Favorite cushion 2023 🫶🏻! Cobain deh ✌🏻#cushionfavorite2023 </title>
-    <updated>2023-08-08T03:10:48+00:00</updated>
-    <content>Favorite cushion 2023 🫶🏻! Cobain deh ✌🏻#cushionfavorite2023 </content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7264783610924911878" rel="alternate"/>
-    <published>2023-08-08T03:10:48+00:00</published>
-  </entry>
 </feed>
