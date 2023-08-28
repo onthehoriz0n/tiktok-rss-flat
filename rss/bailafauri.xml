@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-08-28T01:21:06.878158+00:00</updated>
+  <updated>2023-08-27T05:19:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7261491807282826502</id>
+    <title>🪩</title>
+    <updated>2023-07-30T06:16:55+00:00</updated>
+    <content>🪩</content>
+    <link href="https://tiktok.com/@bailafauri/video/7261491807282826502" rel="alternate"/>
+    <published>2023-07-30T06:16:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7264193385928477957</id>
+    <title>😭</title>
+    <updated>2023-08-06T13:00:25+00:00</updated>
+    <content>😭</content>
+    <link href="https://tiktok.com/@bailafauri/video/7264193385928477957" rel="alternate"/>
+    <published>2023-08-06T13:00:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7270530040155131142</id>
+    <title>4 months later lmao</title>
+    <updated>2023-08-23T14:49:52+00:00</updated>
+    <content>4 months later lmao</content>
+    <link href="https://tiktok.com/@bailafauri/video/7270530040155131142" rel="alternate"/>
+    <published>2023-08-23T14:49:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7270829828801121542</id>
+    <title>No Title</title>
+    <updated>2023-08-24T10:13:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@bailafauri/video/7270829828801121542" rel="alternate"/>
+    <published>2023-08-24T10:13:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7271867486335749381</id>
+    <title>Ngga hafal</title>
+    <updated>2023-08-27T05:19:51+00:00</updated>
+    <content>Ngga hafal</content>
+    <link href="https://tiktok.com/@bailafauri/video/7271867486335749381" rel="alternate"/>
+    <published>2023-08-27T05:19:51+00:00</published>
+  </entry>
 </feed>
