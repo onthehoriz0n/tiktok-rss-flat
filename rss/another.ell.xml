@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-08-30T05:33:28+00:00</updated>
+  <updated>2023-08-30T09:38:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7270378518838594821</id>
-    <title>aneh</title>
-    <updated>2023-08-23T05:01:54+00:00</updated>
-    <content>aneh</content>
-    <link href="https://tiktok.com/@another.ell/video/7270378518838594821" rel="alternate"/>
-    <published>2023-08-23T05:01:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7271149305170316549</id>
-    <title>No Title</title>
-    <updated>2023-08-25T06:52:57+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@another.ell/video/7271149305170316549" rel="alternate"/>
-    <published>2023-08-25T06:52:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7271241573512350981</id>
     <title>rahasia makin pede🫶🏻 #racuntiktok </title>
@@ -51,5 +35,21 @@
     <content>ya gmn ya😗</content>
     <link href="https://tiktok.com/@another.ell/video/7272984248657759494" rel="alternate"/>
     <published>2023-08-30T05:33:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7273037659235208453</id>
+    <title>ikutan</title>
+    <updated>2023-08-30T09:00:43+00:00</updated>
+    <content>ikutan</content>
+    <link href="https://tiktok.com/@another.ell/video/7273037659235208453" rel="alternate"/>
+    <published>2023-08-30T09:00:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7273047490558004485</id>
+    <title>merindink</title>
+    <updated>2023-08-30T09:38:52+00:00</updated>
+    <content>merindink</content>
+    <link href="https://tiktok.com/@another.ell/video/7273047490558004485" rel="alternate"/>
+    <published>2023-08-30T09:38:52+00:00</published>
   </entry>
 </feed>
