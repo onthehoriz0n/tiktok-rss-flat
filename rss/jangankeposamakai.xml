@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-08-29T08:11:47+00:00</updated>
+  <updated>2023-08-30T06:18:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7270726573764906245</id>
-    <title>morning! #fyp #justinbieber #bodyrock #foryourpage #you </title>
-    <updated>2023-08-24T03:32:32+00:00</updated>
-    <content>morning! #fyp #justinbieber #bodyrock #foryourpage #you </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7270726573764906245" rel="alternate"/>
-    <published>2023-08-24T03:32:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7271122478431276293</id>
     <title>Kalian salting kalau pasangan kalian lagi ngapain nih?? #saltingkopalingmanis #dance #tiktok #trending #foryourpage </title>
@@ -51,5 +43,13 @@
     <content>Get Unready With Me Cosplay Edition ☺️🫶✨ #cosplay #makimacosplay #fypシ </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7272653956470377733" rel="alternate"/>
     <published>2023-08-29T08:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7272995834617154821</id>
+    <title>🙃 #fyp </title>
+    <updated>2023-08-30T06:18:25+00:00</updated>
+    <content>🙃 #fyp </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7272995834617154821" rel="alternate"/>
+    <published>2023-08-30T06:18:25+00:00</published>
   </entry>
 </feed>
