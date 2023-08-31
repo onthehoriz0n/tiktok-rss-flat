@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-08-31T01:59:15+00:00</updated>
+  <updated>2023-08-28T02:28:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7270397027282898181</id>
+    <title>🤤🤤</title>
+    <updated>2023-08-23T06:13:44+00:00</updated>
+    <content>🤤🤤</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7270397027282898181" rel="alternate"/>
+    <published>2023-08-23T06:13:44+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7271160049932717318</id>
     <title>No Title</title>
@@ -43,13 +51,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7272194482454482182" rel="alternate"/>
     <published>2023-08-28T02:28:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7273300130047085829</id>
-    <title>aneh...mereka yg ngajakin tiktokan tpi mereka yang gabisa</title>
-    <updated>2023-08-31T01:59:15+00:00</updated>
-    <content>aneh...mereka yg ngajakin tiktokan tpi mereka yang gabisa</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7273300130047085829" rel="alternate"/>
-    <published>2023-08-31T01:59:15+00:00</published>
   </entry>
 </feed>
