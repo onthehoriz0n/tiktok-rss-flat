@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-08-31T02:58:10+00:00</updated>
+  <updated>2023-08-31T07:37:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7271241573512350981</id>
+    <title>rahasia makin pede🫶🏻 #racuntiktok </title>
+    <updated>2023-08-25T12:50:58+00:00</updated>
+    <content>rahasia makin pede🫶🏻 #racuntiktok </content>
+    <link href="https://tiktok.com/@another.ell/video/7271241573512350981" rel="alternate"/>
+    <published>2023-08-25T12:50:58+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7271667391350754565</id>
     <title>this fit🙇‍♀️🤍</title>
@@ -29,14 +37,6 @@
     <published>2023-08-30T09:00:43+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@another.ell/video/7273047490558004485</id>
-    <title>merindink</title>
-    <updated>2023-08-30T09:38:52+00:00</updated>
-    <content>merindink</content>
-    <link href="https://tiktok.com/@another.ell/video/7273047490558004485" rel="alternate"/>
-    <published>2023-08-30T09:38:52+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@another.ell/video/7273102021094280454</id>
     <title>hmm</title>
     <updated>2023-08-30T13:10:28+00:00</updated>
@@ -45,11 +45,11 @@
     <published>2023-08-30T13:10:28+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@another.ell/video/7273315316858424581</id>
-    <title>baru tau cara editnya wkwk</title>
-    <updated>2023-08-31T02:58:10+00:00</updated>
-    <content>baru tau cara editnya wkwk</content>
-    <link href="https://tiktok.com/@another.ell/video/7273315316858424581" rel="alternate"/>
-    <published>2023-08-31T02:58:10+00:00</published>
+    <id>https://tiktok.com/@another.ell/video/7273387379950456069</id>
+    <title>the intro just too much🥲🤌 #fastforward #fakebody </title>
+    <updated>2023-08-31T07:37:50+00:00</updated>
+    <content>the intro just too much🥲🤌 #fastforward #fakebody </content>
+    <link href="https://tiktok.com/@another.ell/video/7273387379950456069" rel="alternate"/>
+    <published>2023-08-31T07:37:50+00:00</published>
   </entry>
 </feed>
