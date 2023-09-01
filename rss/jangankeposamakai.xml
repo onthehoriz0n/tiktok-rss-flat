@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-09-01T16:29:00.876306+00:00</updated>
+  <updated>2023-09-01T06:56:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7272360655976516870</id>
+    <title>🙏🏻</title>
+    <updated>2023-08-28T13:13:35+00:00</updated>
+    <content>🙏🏻</content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7272360655976516870" rel="alternate"/>
+    <published>2023-08-28T13:13:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7272653956470377733</id>
+    <title>Get Unready With Me Cosplay Edition ☺️🫶✨ #cosplay #makimacosplay #fypシ </title>
+    <updated>2023-08-29T08:11:47+00:00</updated>
+    <content>Get Unready With Me Cosplay Edition ☺️🫶✨ #cosplay #makimacosplay #fypシ </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7272653956470377733" rel="alternate"/>
+    <published>2023-08-29T08:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7272995834617154821</id>
+    <title>🙃 #fyp </title>
+    <updated>2023-08-30T06:18:25+00:00</updated>
+    <content>🙃 #fyp </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7272995834617154821" rel="alternate"/>
+    <published>2023-08-30T06:18:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7273550973027634438</id>
+    <title>idaman ✨ #cosplay #fypシ </title>
+    <updated>2023-08-31T18:12:39+00:00</updated>
+    <content>idaman ✨ #cosplay #fypシ </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7273550973027634438" rel="alternate"/>
+    <published>2023-08-31T18:12:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7273747789060787461</id>
+    <title>😭</title>
+    <updated>2023-09-01T06:56:24+00:00</updated>
+    <content>😭</content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7273747789060787461" rel="alternate"/>
+    <published>2023-09-01T06:56:24+00:00</published>
+  </entry>
 </feed>
