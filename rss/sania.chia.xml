@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sania.chia</id>
   <title>sania.chia TikTok</title>
-  <updated>2023-02-22T14:51:27+00:00</updated>
+  <updated>2023-04-02T12:45:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sania.chia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sania.chia/video/7073317503610391810</id>
-    <title>which one is your favorite?✨ knit wear from @kohji.official #fyp #ootd</title>
-    <updated>2022-03-10T04:04:30+00:00</updated>
-    <content>which one is your favorite?✨ knit wear from @kohji.official #fyp #ootd</content>
-    <link href="https://tiktok.com/@sania.chia/video/7073317503610391810" rel="alternate"/>
-    <published>2022-03-10T04:04:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sania.chia/video/7182561286796971265</id>
     <title>telat gak</title>
@@ -51,5 +43,13 @@
     <content>its me hi</content>
     <link href="https://tiktok.com/@sania.chia/video/7202992937519615234" rel="alternate"/>
     <published>2023-02-22T14:51:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sania.chia/video/7217432803674443010</id>
+    <title>me &amp; my emo daughter🥰</title>
+    <updated>2023-04-02T12:45:31+00:00</updated>
+    <content>me &amp; my emo daughter🥰</content>
+    <link href="https://tiktok.com/@sania.chia/video/7217432803674443010" rel="alternate"/>
+    <published>2023-04-02T12:45:31+00:00</published>
   </entry>
 </feed>
