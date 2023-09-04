@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-04T09:15:41+00:00</updated>
+  <updated>2023-09-04T09:59:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7271820633405754629</id>
-    <title>hihi💖</title>
-    <updated>2023-08-27T02:18:02+00:00</updated>
-    <content>hihi💖</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7271820633405754629" rel="alternate"/>
-    <published>2023-08-27T02:18:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7272194482454482182</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7274896938439281925" rel="alternate"/>
     <published>2023-09-04T09:15:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7274908143086226693</id>
+    <title>sinii2 mampir guyss🙌🏻</title>
+    <updated>2023-09-04T09:59:10+00:00</updated>
+    <content>sinii2 mampir guyss🙌🏻</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7274908143086226693" rel="alternate"/>
+    <published>2023-09-04T09:59:10+00:00</published>
   </entry>
 </feed>
