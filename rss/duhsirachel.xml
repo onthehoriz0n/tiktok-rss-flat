@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-04T09:59:10+00:00</updated>
+  <updated>2023-09-05T01:11:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7272194482454482182</id>
-    <title>No Title</title>
-    <updated>2023-08-28T02:28:46+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7272194482454482182" rel="alternate"/>
-    <published>2023-08-28T02:28:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7273748228011527429</id>
-    <title>No Title</title>
-    <updated>2023-09-01T06:58:06+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7273748228011527429" rel="alternate"/>
-    <published>2023-09-01T06:58:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7274558971720125701</id>
     <title>maaf durasi nya kelamaan😭🙏🏻</title>
@@ -51,5 +35,21 @@
     <content>sinii2 mampir guyss🙌🏻</content>
     <link href="https://tiktok.com/@duhsirachel/video/7274908143086226693" rel="alternate"/>
     <published>2023-09-04T09:59:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7275141640963001605</id>
+    <title>ini gjls</title>
+    <updated>2023-09-05T01:05:18+00:00</updated>
+    <content>ini gjls</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7275141640963001605" rel="alternate"/>
+    <published>2023-09-05T01:05:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7275143342646742277</id>
+    <title>jamet bgt...</title>
+    <updated>2023-09-05T01:11:52+00:00</updated>
+    <content>jamet bgt...</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7275143342646742277" rel="alternate"/>
+    <published>2023-09-05T01:11:52+00:00</published>
   </entry>
 </feed>
