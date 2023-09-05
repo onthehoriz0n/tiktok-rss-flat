@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-09-05T05:20:21+00:00</updated>
+  <updated>2023-09-05T07:53:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7273429318393416965</id>
-    <title>Udah cukup 🍓🍓🍓 belom? #pakaisomethinc </title>
-    <updated>2023-08-31T10:20:32+00:00</updated>
-    <content>Udah cukup 🍓🍓🍓 belom? #pakaisomethinc </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7273429318393416965" rel="alternate"/>
-    <published>2023-08-31T10:20:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7273707698661690630</id>
     <title>plis jangan tanya gue kapan nikah ya🙏🏻 #Skin #CerahDalamSemalam #2xVitaminCPower @Garnier Indonesia </title>
@@ -51,5 +43,13 @@
     <content>UDAH PADA COBAIN BELOM?</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7275207368370162949" rel="alternate"/>
     <published>2023-09-05T05:20:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7275246960506834182</id>
+    <title>nyari perkara bgt keluar rumah siang bolong🥲 gamau  bgt kulit gue belang jadiii buru-buru pake body serum vaseline tiap hariiii, sebelom hiperpigmentasi ini merajalela. Gue pake yg Gluta Vitamin Soft Glow yah!  #BebasHiperpigmentasi #BebaskanBatasmu @Vase</title>
+    <updated>2023-09-05T07:53:56+00:00</updated>
+    <content>nyari perkara bgt keluar rumah siang bolong🥲 gamau  bgt kulit gue belang jadiii buru-buru pake body serum vaseline tiap hariiii, sebelom hiperpigmentasi ini merajalela. Gue pake yg Gluta Vitamin Soft Glow yah!  #BebasHiperpigmentasi #BebaskanBatasmu @Vaseline Indonesia </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7275246960506834182" rel="alternate"/>
+    <published>2023-09-05T07:53:56+00:00</published>
   </entry>
 </feed>
