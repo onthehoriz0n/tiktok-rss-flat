@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-05T01:11:52+00:00</updated>
+  <updated>2023-09-05T02:37:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7274558971720125701</id>
-    <title>maaf durasi nya kelamaan😭🙏🏻</title>
-    <updated>2023-09-03T11:24:11+00:00</updated>
-    <content>maaf durasi nya kelamaan😭🙏🏻</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7274558971720125701" rel="alternate"/>
-    <published>2023-09-03T11:24:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7274896938439281925</id>
-    <title>No Title</title>
-    <updated>2023-09-04T09:15:41+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7274896938439281925" rel="alternate"/>
-    <published>2023-09-04T09:15:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7274908143086226693</id>
     <title>sinii2 mampir guyss🙌🏻</title>
@@ -51,5 +35,21 @@
     <content>jamet bgt...</content>
     <link href="https://tiktok.com/@duhsirachel/video/7275143342646742277" rel="alternate"/>
     <published>2023-09-05T01:11:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7275164761136925957</id>
+    <title>geng jamet</title>
+    <updated>2023-09-05T02:34:57+00:00</updated>
+    <content>geng jamet</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7275164761136925957" rel="alternate"/>
+    <published>2023-09-05T02:34:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7275165492820724997</id>
+    <title>autis</title>
+    <updated>2023-09-05T02:37:49+00:00</updated>
+    <content>autis</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7275165492820724997" rel="alternate"/>
+    <published>2023-09-05T02:37:49+00:00</published>
   </entry>
 </feed>
