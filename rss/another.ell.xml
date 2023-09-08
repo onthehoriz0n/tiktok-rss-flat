@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-09-08T14:38:11+00:00</updated>
+  <updated>2023-09-08T15:22:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7271241573512350981</id>
-    <title>rahasia makin pede🫶🏻 #racuntiktok </title>
-    <updated>2023-08-25T12:50:58+00:00</updated>
-    <content>rahasia makin pede🫶🏻 #racuntiktok </content>
-    <link href="https://tiktok.com/@another.ell/video/7271241573512350981" rel="alternate"/>
-    <published>2023-08-25T12:50:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7271667391350754565</id>
     <title>this fit🙇‍♀️🤍</title>
@@ -51,5 +43,13 @@
     <content>agak telat ya</content>
     <link href="https://tiktok.com/@another.ell/video/7276464395830578437" rel="alternate"/>
     <published>2023-09-08T14:38:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7276475897522457861</id>
+    <title>@Sweet Tooth ASMR 🍬 akhirnya nemu wax candy di indo😭🥹 #waxcandy #fyp </title>
+    <updated>2023-09-08T15:22:50+00:00</updated>
+    <content>@Sweet Tooth ASMR 🍬 akhirnya nemu wax candy di indo😭🥹 #waxcandy #fyp </content>
+    <link href="https://tiktok.com/@another.ell/video/7276475897522457861" rel="alternate"/>
+    <published>2023-09-08T15:22:50+00:00</published>
   </entry>
 </feed>
