@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-09-08T08:57:16+00:00</updated>
+  <updated>2023-09-09T01:33:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7273720127726636294</id>
-    <title>jk my life is just home and gym too. </title>
-    <updated>2023-09-01T05:09:02+00:00</updated>
-    <content>jk my life is just home and gym too. </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7273720127726636294" rel="alternate"/>
-    <published>2023-09-01T05:09:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7274227519451090182</id>
     <title>😡😡</title>
@@ -51,5 +43,13 @@
     <content>wo shing shi 😡😡😡</content>
     <link href="https://tiktok.com/@stellatandajaya/video/7276376533768457478" rel="alternate"/>
     <published>2023-09-08T08:57:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7276633156319694085</id>
+    <title>impossible bcs we will get botox done soon. </title>
+    <updated>2023-09-09T01:33:05+00:00</updated>
+    <content>impossible bcs we will get botox done soon. </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7276633156319694085" rel="alternate"/>
+    <published>2023-09-09T01:33:05+00:00</published>
   </entry>
 </feed>
