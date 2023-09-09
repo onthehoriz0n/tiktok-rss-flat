@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-08-29T09:04:45+00:00</updated>
+  <updated>2023-09-09T11:08:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7268960608140266757</id>
-    <title>take ke 100x😭</title>
-    <updated>2023-08-19T09:19:41+00:00</updated>
-    <content>take ke 100x😭</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7268960608140266757" rel="alternate"/>
-    <published>2023-08-19T09:19:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7269738173427682565</id>
-    <title>🪩</title>
-    <updated>2023-08-21T11:37:01+00:00</updated>
-    <content>🪩</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7269738173427682565" rel="alternate"/>
-    <published>2023-08-21T11:37:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7270076205049597189</id>
     <title>late to this trend oops</title>
@@ -51,5 +35,21 @@
     <content>i said 😗</content>
     <link href="https://tiktok.com/@jemimakaia/video/7272667612151139589" rel="alternate"/>
     <published>2023-08-29T09:04:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7276777326514408710</id>
+    <title>we be vibinnn</title>
+    <updated>2023-09-09T10:52:32+00:00</updated>
+    <content>we be vibinnn</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7276777326514408710" rel="alternate"/>
+    <published>2023-09-09T10:52:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7276781403981810950</id>
+    <title>9 to 5 5 to 9</title>
+    <updated>2023-09-09T11:08:21+00:00</updated>
+    <content>9 to 5 5 to 9</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7276781403981810950" rel="alternate"/>
+    <published>2023-09-09T11:08:21+00:00</published>
   </entry>
 </feed>
