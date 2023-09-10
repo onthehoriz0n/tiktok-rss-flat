@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-09-08T10:00:45+00:00</updated>
+  <updated>2023-09-10T08:29:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7273114215651511558</id>
-    <title>apakah ada  😭😭😭</title>
-    <updated>2023-08-30T13:57:46+00:00</updated>
-    <content>apakah ada  😭😭😭</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7273114215651511558" rel="alternate"/>
-    <published>2023-08-30T13:57:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7274063067711851782</id>
     <title>emang boleh lanjutin</title>
@@ -51,5 +43,13 @@
     <content>jaga hati sayang</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7276392897921010949" rel="alternate"/>
     <published>2023-09-08T10:00:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7277111517131181318</id>
+    <title>pov abis disakitin </title>
+    <updated>2023-09-10T08:29:23+00:00</updated>
+    <content>pov abis disakitin </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7277111517131181318" rel="alternate"/>
+    <published>2023-09-10T08:29:23+00:00</published>
   </entry>
 </feed>
