@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-08-08T03:10:48+00:00</updated>
+  <updated>2023-09-11T13:35:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7262032448760925445</id>
-    <title>hadeuh</title>
-    <updated>2023-07-31T17:14:53+00:00</updated>
-    <content>hadeuh</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7262032448760925445" rel="alternate"/>
-    <published>2023-07-31T17:14:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7262318400108596486</id>
     <title>no more back pain/sakit kepala</title>
@@ -51,5 +43,13 @@
     <content>Favorite cushion 2023 🫶🏻! Cobain deh ✌🏻#cushionfavorite2023 </content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7264783610924911878" rel="alternate"/>
     <published>2023-08-08T03:10:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7277561578222849285</id>
+    <title>jogja lebih panas dari bali🥵</title>
+    <updated>2023-09-11T13:35:50+00:00</updated>
+    <content>jogja lebih panas dari bali🥵</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7277561578222849285" rel="alternate"/>
+    <published>2023-09-11T13:35:50+00:00</published>
   </entry>
 </feed>
