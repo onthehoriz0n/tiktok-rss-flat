@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-09-10T13:44:30+00:00</updated>
+  <updated>2023-09-12T11:08:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7275207368370162949</id>
-    <title>UDAH PADA COBAIN BELOM?</title>
-    <updated>2023-09-05T05:20:21+00:00</updated>
-    <content>UDAH PADA COBAIN BELOM?</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7275207368370162949" rel="alternate"/>
-    <published>2023-09-05T05:20:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7275246960506834182</id>
     <title>nyari perkara bgt keluar rumah siang bolong🥲 gamau  bgt kulit gue belang jadiii buru-buru pake body serum vaseline tiap hariiii, sebelom hiperpigmentasi ini merajalela. Gue pake yg Gluta Vitamin Soft Glow yah!  #BebasHiperpigmentasi #BebaskanBatasmu @Vase</title>
@@ -51,5 +43,13 @@
     <content>Ada yg udah cobain juga? Ini tadi gue niatnya me-time tapi kerasa jg ya polusinya🥲 pulang-pulang langsung double cleansing muka pake Ovale Natural H2O Micellar Water @ovalebeautyid Kandungan natural H2Onya bikin kulit kerasa hydrated bgt! Kalo mau cobain, bisa langsung beli di Alfamart/Indomaret yaaa #RingankanDenganH2O</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7277192730374196485" rel="alternate"/>
     <published>2023-09-10T13:44:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7277894740035636486</id>
+    <title>been using this for weeeks and now it’s my new fav moisturizer❤️</title>
+    <updated>2023-09-12T11:08:40+00:00</updated>
+    <content>been using this for weeeks and now it’s my new fav moisturizer❤️</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7277894740035636486" rel="alternate"/>
+    <published>2023-09-12T11:08:40+00:00</published>
   </entry>
 </feed>
