@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-09-11T09:13:36+00:00</updated>
+  <updated>2023-09-12T03:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7272995834617154821</id>
-    <title>🙃 #fyp </title>
-    <updated>2023-08-30T06:18:25+00:00</updated>
-    <content>🙃 #fyp </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7272995834617154821" rel="alternate"/>
-    <published>2023-08-30T06:18:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7275742662081121541</id>
     <title>🫣🫣🫣🫣 #fyp </title>
@@ -51,5 +43,13 @@
     <content>She’s devil #vipper #godnessofvictorynikke #cosplay #transition #fyp </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7277493997751340293" rel="alternate"/>
     <published>2023-09-11T09:13:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7277776541679881478</id>
+    <title>Bkin penasarannn😩 #foryou #fypシ #fullbody #cosplay </title>
+    <updated>2023-09-12T03:30:00+00:00</updated>
+    <content>Bkin penasarannn😩 #foryou #fypシ #fullbody #cosplay </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7277776541679881478" rel="alternate"/>
+    <published>2023-09-12T03:30:00+00:00</published>
   </entry>
 </feed>
