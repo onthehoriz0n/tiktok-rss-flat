@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-09-09T09:58:49+00:00</updated>
+  <updated>2023-09-12T01:41:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7275344626997906693</id>
-    <title>Hi🫶🏻</title>
-    <updated>2023-09-05T14:12:55+00:00</updated>
-    <content>Hi🫶🏻</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7275344626997906693" rel="alternate"/>
-    <published>2023-09-05T14:12:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7275360313506106629</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7276763484380089606" rel="alternate"/>
     <published>2023-09-09T09:58:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7277748465239641350</id>
+    <title>Haii temen2 UMN !  Now Facemoji is stopping by at Universitas Multimedia Nusantara ! Save the date &amp; enjoy their booth : 🗓 : 11-14 September 📍 : Lobby Gedung B •FREE PHOTOBOX &amp; LUCKY SPIN 🤩 #beinthespotlightwithfacemoji  Dont’t forget to download Facemoji</title>
+    <updated>2023-09-12T01:41:04+00:00</updated>
+    <content>Haii temen2 UMN !  Now Facemoji is stopping by at Universitas Multimedia Nusantara ! Save the date &amp; enjoy their booth : 🗓 : 11-14 September 📍 : Lobby Gedung B •FREE PHOTOBOX &amp; LUCKY SPIN 🤩 #beinthespotlightwithfacemoji  Dont’t forget to download Facemoji Keyboard and see u at Lobby Building B !  🥰</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7277748465239641350" rel="alternate"/>
+    <published>2023-09-12T01:41:04+00:00</published>
   </entry>
 </feed>
