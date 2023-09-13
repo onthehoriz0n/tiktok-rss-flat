@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-09-12T11:08:40+00:00</updated>
+  <updated>2023-09-13T09:22:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7275246960506834182</id>
-    <title>nyari perkara bgt keluar rumah siang bolong🥲 gamau  bgt kulit gue belang jadiii buru-buru pake body serum vaseline tiap hariiii, sebelom hiperpigmentasi ini merajalela. Gue pake yg Gluta Vitamin Soft Glow yah!  #BebasHiperpigmentasi #BebaskanBatasmu @Vase</title>
-    <updated>2023-09-05T07:53:56+00:00</updated>
-    <content>nyari perkara bgt keluar rumah siang bolong🥲 gamau  bgt kulit gue belang jadiii buru-buru pake body serum vaseline tiap hariiii, sebelom hiperpigmentasi ini merajalela. Gue pake yg Gluta Vitamin Soft Glow yah!  #BebasHiperpigmentasi #BebaskanBatasmu @Vaseline Indonesia </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7275246960506834182" rel="alternate"/>
-    <published>2023-09-05T07:53:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7275675396392242438</id>
     <title>suka gak hasilnyaaa?! #LOrealProID #iNOAHairID #MetalIDXID</title>
@@ -51,5 +43,13 @@
     <content>been using this for weeeks and now it’s my new fav moisturizer❤️</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7277894740035636486" rel="alternate"/>
     <published>2023-09-12T11:08:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7278238434706197765</id>
+    <title>love this dress a lil bit too much🤎</title>
+    <updated>2023-09-13T09:22:24+00:00</updated>
+    <content>love this dress a lil bit too much🤎</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7278238434706197765" rel="alternate"/>
+    <published>2023-09-13T09:22:24+00:00</published>
   </entry>
 </feed>
