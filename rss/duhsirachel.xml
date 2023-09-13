@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-13T12:52:24+00:00</updated>
+  <updated>2023-09-13T13:29:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7277760432503409925</id>
-    <title>maafin</title>
-    <updated>2023-09-12T02:27:30+00:00</updated>
-    <content>maafin</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7277760432503409925" rel="alternate"/>
-    <published>2023-09-12T02:27:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7278070393053662470</id>
     <title>yang ngehujat keliatan bgt iri nya, pis✌🏻</title>
@@ -51,5 +43,13 @@
     <content>nih cowo idaman kalian semua🫠</content>
     <link href="https://tiktok.com/@duhsirachel/video/7278292554586590469" rel="alternate"/>
     <published>2023-09-13T12:52:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7278302028340677893</id>
+    <title>Replying to @ˢʸ⁴⁴✨🧿 akurr</title>
+    <updated>2023-09-13T13:29:09+00:00</updated>
+    <content>Replying to @ˢʸ⁴⁴✨🧿 akurr</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7278302028340677893" rel="alternate"/>
+    <published>2023-09-13T13:29:09+00:00</published>
   </entry>
 </feed>
