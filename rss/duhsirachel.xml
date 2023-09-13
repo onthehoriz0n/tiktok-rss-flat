@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-13T06:18:42+00:00</updated>
+  <updated>2023-09-13T12:52:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7276441917154446598</id>
-    <title>yang terakhir agak2 </title>
-    <updated>2023-09-08T13:10:58+00:00</updated>
-    <content>yang terakhir agak2 </content>
-    <link href="https://tiktok.com/@duhsirachel/video/7276441917154446598" rel="alternate"/>
-    <published>2023-09-08T13:10:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7276744717084249350</id>
-    <title>cocok banget buat kaum yang gabisa ngaliss, its very helpful💕 #tiktokshop99bigsale </title>
-    <updated>2023-09-09T08:46:00+00:00</updated>
-    <content>cocok banget buat kaum yang gabisa ngaliss, its very helpful💕 #tiktokshop99bigsale </content>
-    <link href="https://tiktok.com/@duhsirachel/video/7276744717084249350" rel="alternate"/>
-    <published>2023-09-09T08:46:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7277760432503409925</id>
     <title>maafin</title>
@@ -51,5 +35,21 @@
     <content>shs life&gt;&gt;&gt;</content>
     <link href="https://tiktok.com/@duhsirachel/video/7278191099653475589" rel="alternate"/>
     <published>2023-09-13T06:18:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7278290787794701573</id>
+    <title>memang brengs3k aslinya🙏🏻😇</title>
+    <updated>2023-09-13T12:45:31+00:00</updated>
+    <content>memang brengs3k aslinya🙏🏻😇</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7278290787794701573" rel="alternate"/>
+    <published>2023-09-13T12:45:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7278292554586590469</id>
+    <title>nih cowo idaman kalian semua🫠</title>
+    <updated>2023-09-13T12:52:24+00:00</updated>
+    <content>nih cowo idaman kalian semua🫠</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7278292554586590469" rel="alternate"/>
+    <published>2023-09-13T12:52:24+00:00</published>
   </entry>
 </feed>
