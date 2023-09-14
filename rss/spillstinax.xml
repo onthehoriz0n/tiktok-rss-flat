@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-09-13T18:01:12+00:00</updated>
+  <updated>2023-09-10T03:23:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7272035883023469829</id>
+    <title>No Title</title>
+    <updated>2023-08-27T16:13:18+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@spillstinax/video/7272035883023469829" rel="alternate"/>
+    <published>2023-08-27T16:13:18+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7273525714832477445</id>
     <title>virgo si pecinta Binatang </title>
@@ -43,13 +51,5 @@
     <content>#PowerInkSideMe #TikTokShopSuperBrandDay  @DAZZLE ME INDONESIA </content>
     <link href="https://tiktok.com/@spillstinax/video/7277032678115806469" rel="alternate"/>
     <published>2023-09-10T03:23:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7278372131225111814</id>
-    <title>No Title</title>
-    <updated>2023-09-13T18:01:12+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@spillstinax/video/7278372131225111814" rel="alternate"/>
-    <published>2023-09-13T18:01:12+00:00</published>
   </entry>
 </feed>
