@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-09-12T11:28:56+00:00</updated>
+  <updated>2023-09-14T02:27:41.770404+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7276087679949851909</id>
-    <title>musically???</title>
-    <updated>2023-09-07T14:16:22+00:00</updated>
-    <content>musically???</content>
-    <link href="https://tiktok.com/@jepangilang/video/7276087679949851909" rel="alternate"/>
-    <published>2023-09-07T14:16:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7277211569036037381</id>
-    <title>No Title</title>
-    <updated>2023-09-10T14:57:37+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@jepangilang/video/7277211569036037381" rel="alternate"/>
-    <published>2023-09-10T14:57:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7277644149019528454</id>
-    <title>❤️‍🩹</title>
-    <updated>2023-09-11T18:56:16+00:00</updated>
-    <content>❤️‍🩹</content>
-    <link href="https://tiktok.com/@jepangilang/video/7277644149019528454" rel="alternate"/>
-    <published>2023-09-11T18:56:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7277899826010934534</id>
-    <title>No Title</title>
-    <updated>2023-09-12T11:28:25+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@jepangilang/video/7277899826010934534" rel="alternate"/>
-    <published>2023-09-12T11:28:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7277899966368976134</id>
-    <title>if u were mine…</title>
-    <updated>2023-09-12T11:28:56+00:00</updated>
-    <content>if u were mine…</content>
-    <link href="https://tiktok.com/@jepangilang/video/7277899966368976134" rel="alternate"/>
-    <published>2023-09-12T11:28:56+00:00</published>
-  </entry>
 </feed>
