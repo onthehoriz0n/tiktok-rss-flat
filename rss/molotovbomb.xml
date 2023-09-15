@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@molotovbomb</id>
   <title>molotovbomb TikTok</title>
-  <updated>2023-06-26T05:31:44+00:00</updated>
+  <updated>2023-09-15T12:11:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -27,5 +27,13 @@
     <content>siap melesat gila mengelilingi tata surya! #SLOWSPEEDZOMBIES #commuterbike #26inch #federal #federalindonesia #gravelbike #gowes #jambi #sepeda #gravel </content>
     <link href="https://tiktok.com/@molotovbomb/video/7248863264979848453" rel="alternate"/>
     <published>2023-06-26T05:31:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@molotovbomb/video/7279024312282025222</id>
+    <title>Midnight cruisin! #slowspeedzombies  #gravel #gravelbike #commuterbike #26aintdead #26inch #gowes #jambi #sepeda </title>
+    <updated>2023-09-15T12:11:59+00:00</updated>
+    <content>Midnight cruisin! #slowspeedzombies  #gravel #gravelbike #commuterbike #26aintdead #26inch #gowes #jambi #sepeda </content>
+    <link href="https://tiktok.com/@molotovbomb/video/7279024312282025222" rel="alternate"/>
+    <published>2023-09-15T12:11:59+00:00</published>
   </entry>
 </feed>
