@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-16T05:23:29.916688+00:00</updated>
+  <updated>2023-09-16T06:43:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7278322479905377542</id>
+    <title>No Title</title>
+    <updated>2023-09-13T14:48:30+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7278322479905377542" rel="alternate"/>
+    <published>2023-09-13T14:48:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7278326684925906181</id>
+    <title>No Title</title>
+    <updated>2023-09-13T15:04:49+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7278326684925906181" rel="alternate"/>
+    <published>2023-09-13T15:04:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7279006672515828998</id>
+    <title>freaky</title>
+    <updated>2023-09-15T11:03:32+00:00</updated>
+    <content>freaky</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7279006672515828998" rel="alternate"/>
+    <published>2023-09-15T11:03:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7279288869101620486</id>
+    <title>semangat IPB esports🫶🏻</title>
+    <updated>2023-09-16T05:18:37+00:00</updated>
+    <content>semangat IPB esports🫶🏻</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7279288869101620486" rel="alternate"/>
+    <published>2023-09-16T05:18:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7279310757723081989</id>
+    <title>sekali2 tiktokan sama mamii</title>
+    <updated>2023-09-16T06:43:33+00:00</updated>
+    <content>sekali2 tiktokan sama mamii</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7279310757723081989" rel="alternate"/>
+    <published>2023-09-16T06:43:33+00:00</published>
+  </entry>
 </feed>
