@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@notriisaaa</id>
   <title>notriisaaa TikTok</title>
-  <updated>2023-09-17T20:32:47+00:00</updated>
+  <updated>2023-09-18T07:27:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,11 +45,11 @@
     <published>2023-09-16T11:49:51+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7279895532472945925</id>
+    <id>https://tiktok.com/@notriisaaa/video/7280064252113652997</id>
     <title>No Title</title>
-    <updated>2023-09-17T20:32:47+00:00</updated>
+    <updated>2023-09-18T07:27:30+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7279895532472945925" rel="alternate"/>
-    <published>2023-09-17T20:32:47+00:00</published>
+    <link href="https://tiktok.com/@notriisaaa/video/7280064252113652997" rel="alternate"/>
+    <published>2023-09-18T07:27:30+00:00</published>
   </entry>
 </feed>
