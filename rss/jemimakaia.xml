@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-09-09T11:08:21+00:00</updated>
+  <updated>2023-09-21T11:52:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7270076205049597189</id>
-    <title>late to this trend oops</title>
-    <updated>2023-08-22T09:28:45+00:00</updated>
-    <content>late to this trend oops</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7270076205049597189" rel="alternate"/>
-    <published>2023-08-22T09:28:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7270076578963541253</id>
     <title>he loves this song</title>
@@ -51,5 +43,13 @@
     <content>9 to 5 5 to 9</content>
     <link href="https://tiktok.com/@jemimakaia/video/7276781403981810950" rel="alternate"/>
     <published>2023-09-09T11:08:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7281245729866206469</id>
+    <title>why is dark lighting the best selfies anyways hi</title>
+    <updated>2023-09-21T11:52:13+00:00</updated>
+    <content>why is dark lighting the best selfies anyways hi</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7281245729866206469" rel="alternate"/>
+    <published>2023-09-21T11:52:13+00:00</published>
   </entry>
 </feed>
