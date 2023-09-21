@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-09-19T10:04:11+00:00</updated>
+  <updated>2023-09-21T05:05:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7277841834083224838</id>
-    <title>katanya temen temen glow up</title>
-    <updated>2023-09-12T07:43:23+00:00</updated>
-    <content>katanya temen temen glow up</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7277841834083224838" rel="alternate"/>
-    <published>2023-09-12T07:43:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7277900946934451462</id>
     <title>ceritanya galau</title>
@@ -51,5 +43,13 @@
     <content>kok bau ya ?  #whattoplay </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7280475717857578245" rel="alternate"/>
     <published>2023-09-19T10:04:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7281140997210246405</id>
+    <title>take yang bener dikit</title>
+    <updated>2023-09-21T05:05:50+00:00</updated>
+    <content>take yang bener dikit</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7281140997210246405" rel="alternate"/>
+    <published>2023-09-21T05:05:50+00:00</published>
   </entry>
 </feed>
