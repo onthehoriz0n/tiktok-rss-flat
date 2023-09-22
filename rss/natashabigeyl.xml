@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-09-22T05:14:08+00:00</updated>
+  <updated>2023-09-22T14:42:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7277894740035636486</id>
-    <title>been using this for weeeks and now it’s my new fav moisturizer❤️</title>
-    <updated>2023-09-12T11:08:40+00:00</updated>
-    <content>been using this for weeeks and now it’s my new fav moisturizer❤️</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7277894740035636486" rel="alternate"/>
-    <published>2023-09-12T11:08:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7278238434706197765</id>
     <title>love this dress a lil bit too much🤎</title>
@@ -51,5 +43,13 @@
     <content>Glad we made it through all the ups and downs❤️ @Iben M.A. </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7281514222255754502" rel="alternate"/>
     <published>2023-09-22T05:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7281660631705472261</id>
+    <title>Ada yang tim introvert, hobinya ngurung di kamar juga ga?🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️</title>
+    <updated>2023-09-22T14:42:14+00:00</updated>
+    <content>Ada yang tim introvert, hobinya ngurung di kamar juga ga?🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7281660631705472261" rel="alternate"/>
+    <published>2023-09-22T14:42:14+00:00</published>
   </entry>
 </feed>
