@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-09-23T06:43:42+00:00</updated>
+  <updated>2023-09-23T13:46:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7278640225818070278</id>
-    <title>salfok sama makeup gue di akhir, perlu gue spill gak?!🤎</title>
-    <updated>2023-09-14T11:21:32+00:00</updated>
-    <content>salfok sama makeup gue di akhir, perlu gue spill gak?!🤎</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7278640225818070278" rel="alternate"/>
-    <published>2023-09-14T11:21:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7280855127517482245</id>
     <title>favorit kalian yang mana?! HEHE BARU SADAR ITEM SEMUA🙂</title>
@@ -51,5 +43,13 @@
     <content>LOOK FAV KALIAN YANG MANA?🍓 Pake outfit apapun selalu pede, karna gue selalu ngerawat diri dari luar dan dalam! Dan extra mau gerak karna selalu ditemenin susu viral @Greenfields Indonesia , untuk kegiatan gue yang produktif #ExtraMauGerak</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7281908397086084357" rel="alternate"/>
     <published>2023-09-23T06:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7282017407995251973</id>
+    <title>CELANA KEDUA ITU SILVER APA GOLD YA?🙂🙂🙂 #NatInColors </title>
+    <updated>2023-09-23T13:46:44+00:00</updated>
+    <content>CELANA KEDUA ITU SILVER APA GOLD YA?🙂🙂🙂 #NatInColors </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7282017407995251973" rel="alternate"/>
+    <published>2023-09-23T13:46:44+00:00</published>
   </entry>
 </feed>
