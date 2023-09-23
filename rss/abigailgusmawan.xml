@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-09-20T11:49:16+00:00</updated>
+  <updated>2023-09-23T05:10:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7277561578222849285</id>
-    <title>jogja lebih panas dari bali🥵</title>
-    <updated>2023-09-11T13:35:50+00:00</updated>
-    <content>jogja lebih panas dari bali🥵</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7277561578222849285" rel="alternate"/>
-    <published>2023-09-11T13:35:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7278204938474261766</id>
     <title>🫣🫣🫣</title>
@@ -51,5 +43,13 @@
     <content>konsepnya gemeyyy🌸</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7280873888370674950" rel="alternate"/>
     <published>2023-09-20T11:49:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7281884484083944710</id>
+    <title>LELAAAAH</title>
+    <updated>2023-09-23T05:10:55+00:00</updated>
+    <content>LELAAAAH</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7281884484083944710" rel="alternate"/>
+    <published>2023-09-23T05:10:55+00:00</published>
   </entry>
 </feed>
