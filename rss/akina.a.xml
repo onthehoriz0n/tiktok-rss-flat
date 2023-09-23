@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-09-20T22:39:49+00:00</updated>
+  <updated>2023-09-23T15:34:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7273707117159124229</id>
-    <title>Wkkwkw</title>
-    <updated>2023-09-01T04:18:33+00:00</updated>
-    <content>Wkkwkw</content>
-    <link href="https://tiktok.com/@akina.a/video/7273707117159124229" rel="alternate"/>
-    <published>2023-09-01T04:18:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7275269982022421766</id>
-    <title>No Title</title>
-    <updated>2023-09-05T09:23:17+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7275269982022421766" rel="alternate"/>
-    <published>2023-09-05T09:23:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7275270420671089925</id>
-    <title>No Title</title>
-    <updated>2023-09-05T09:24:58+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7275270420671089925" rel="alternate"/>
-    <published>2023-09-05T09:24:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7276031452628733189</id>
     <title>No Title</title>
@@ -51,5 +27,29 @@
     <content>Bali jepang?🤭</content>
     <link href="https://tiktok.com/@akina.a/video/7281041529118969094" rel="alternate"/>
     <published>2023-09-20T22:39:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7281972793191763206</id>
+    <title>Replying to @antibufff 🙏🏻</title>
+    <updated>2023-09-23T10:53:36+00:00</updated>
+    <content>Replying to @antibufff 🙏🏻</content>
+    <link href="https://tiktok.com/@akina.a/video/7281972793191763206" rel="alternate"/>
+    <published>2023-09-23T10:53:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7281976932395273478</id>
+    <title>Apakah ada nakama disini?😍 </title>
+    <updated>2023-09-23T11:09:39+00:00</updated>
+    <content>Apakah ada nakama disini?😍 </content>
+    <link href="https://tiktok.com/@akina.a/video/7281976932395273478" rel="alternate"/>
+    <published>2023-09-23T11:09:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7282045202292870405</id>
+    <title>No Title</title>
+    <updated>2023-09-23T15:34:34+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7282045202292870405" rel="alternate"/>
+    <published>2023-09-23T15:34:34+00:00</published>
   </entry>
 </feed>
