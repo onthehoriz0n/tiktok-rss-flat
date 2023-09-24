@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-09-23T14:50:42+00:00</updated>
+  <updated>2023-09-24T06:12:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7279773034997665030</id>
-    <title>nonton mpl sendirian :(</title>
-    <updated>2023-09-17T12:37:24+00:00</updated>
-    <content>nonton mpl sendirian :(</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7279773034997665030" rel="alternate"/>
-    <published>2023-09-17T12:37:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7280475717857578245</id>
-    <title>kok bau ya ?  #whattoplay </title>
-    <updated>2023-09-19T10:04:11+00:00</updated>
-    <content>kok bau ya ?  #whattoplay </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7280475717857578245" rel="alternate"/>
-    <published>2023-09-19T10:04:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7281210768073428230</id>
     <title>lembut lembut 😠</title>
@@ -51,5 +35,21 @@
     <content>gimana nih guys 😎 </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7282033895250365701" rel="alternate"/>
     <published>2023-09-23T14:50:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7282246013161606405</id>
+    <title>ga percaya tapi emang ea?</title>
+    <updated>2023-09-24T04:33:50+00:00</updated>
+    <content>ga percaya tapi emang ea?</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7282246013161606405" rel="alternate"/>
+    <published>2023-09-24T04:33:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7282271357964913925</id>
+    <title>coba dulu</title>
+    <updated>2023-09-24T06:12:11+00:00</updated>
+    <content>coba dulu</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7282271357964913925" rel="alternate"/>
+    <published>2023-09-24T06:12:11+00:00</published>
   </entry>
 </feed>
