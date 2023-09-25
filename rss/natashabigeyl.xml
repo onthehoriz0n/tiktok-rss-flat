@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-09-23T13:46:44+00:00</updated>
+  <updated>2023-09-25T09:07:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7280855127517482245</id>
-    <title>favorit kalian yang mana?! HEHE BARU SADAR ITEM SEMUA🙂</title>
-    <updated>2023-09-20T10:36:28+00:00</updated>
-    <content>favorit kalian yang mana?! HEHE BARU SADAR ITEM SEMUA🙂</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7280855127517482245" rel="alternate"/>
-    <published>2023-09-20T10:36:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7281514222255754502</id>
-    <title>Glad we made it through all the ups and downs❤️ @Iben M.A. </title>
-    <updated>2023-09-22T05:14:08+00:00</updated>
-    <content>Glad we made it through all the ups and downs❤️ @Iben M.A. </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7281514222255754502" rel="alternate"/>
-    <published>2023-09-22T05:14:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7281660631705472261</id>
     <title>Ada yang tim introvert, hobinya ngurung di kamar juga ga?🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️</title>
@@ -51,5 +35,21 @@
     <content>CELANA KEDUA ITU SILVER APA GOLD YA?🙂🙂🙂 #NatInColors </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7282017407995251973" rel="alternate"/>
     <published>2023-09-23T13:46:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7282673798233541893</id>
+    <title>HEHE temenin akooo seharian lagi yaa❤️ pulang malem biar mata gue gak panda, tentunya pake eye serumnya @La Roche-Posay Indonesia dulu mumpung lagi ada Payday Sale UP TO 50% + extra gift!! bagus bgt, kata gue borong deh skrg  #LaRochePosayID #SkinLifeChan</title>
+    <updated>2023-09-25T08:13:53+00:00</updated>
+    <content>HEHE temenin akooo seharian lagi yaa❤️ pulang malem biar mata gue gak panda, tentunya pake eye serumnya @La Roche-Posay Indonesia dulu mumpung lagi ada Payday Sale UP TO 50% + extra gift!! bagus bgt, kata gue borong deh skrg  #LaRochePosayID #SkinLifeChanger </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7282673798233541893" rel="alternate"/>
+    <published>2023-09-25T08:13:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7282687597560761605</id>
+    <title>Ada yang udah cobain juga? Buat harganya, ini BEST BGT❤️ @L'Oreal Paris Indonesia  #LorealFoundation #LorealParisMakeupID</title>
+    <updated>2023-09-25T09:07:25+00:00</updated>
+    <content>Ada yang udah cobain juga? Buat harganya, ini BEST BGT❤️ @L'Oreal Paris Indonesia  #LorealFoundation #LorealParisMakeupID</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7282687597560761605" rel="alternate"/>
+    <published>2023-09-25T09:07:25+00:00</published>
   </entry>
 </feed>
