@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-09-25T06:02:13+00:00</updated>
+  <updated>2023-09-26T10:16:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7281940229274094853</id>
-    <title>mau nyusul bibi ke medan yee</title>
-    <updated>2023-09-23T08:47:15+00:00</updated>
-    <content>mau nyusul bibi ke medan yee</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7281940229274094853" rel="alternate"/>
-    <published>2023-09-23T08:47:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7282033895250365701</id>
     <title>gimana nih guys 😎 </title>
@@ -51,5 +43,13 @@
     <content>mode sok seksoi  😊</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7282639865752194310" rel="alternate"/>
     <published>2023-09-25T06:02:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7283076424645250309</id>
+    <title>nice try guys </title>
+    <updated>2023-09-26T10:16:15+00:00</updated>
+    <content>nice try guys </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7283076424645250309" rel="alternate"/>
+    <published>2023-09-26T10:16:15+00:00</published>
   </entry>
 </feed>
