@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-21T11:13:28+00:00</updated>
+  <updated>2023-09-26T12:01:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7280766608031763717</id>
-    <title>No Title</title>
-    <updated>2023-09-20T04:53:00+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7280766608031763717" rel="alternate"/>
-    <published>2023-09-20T04:53:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7281195289019534598</id>
-    <title>akhirnya</title>
-    <updated>2023-09-21T08:36:30+00:00</updated>
-    <content>akhirnya</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7281195289019534598" rel="alternate"/>
-    <published>2023-09-21T08:36:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7281195408179711237</id>
-    <title>retake 173892272892x</title>
-    <updated>2023-09-21T08:36:58+00:00</updated>
-    <content>retake 173892272892x</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7281195408179711237" rel="alternate"/>
-    <published>2023-09-21T08:36:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7281220888987471110</id>
     <title>No Title</title>
@@ -51,5 +27,29 @@
     <content>sedih</content>
     <link href="https://tiktok.com/@duhsirachel/video/7281235743530405126" rel="alternate"/>
     <published>2023-09-21T11:13:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7283007527032327429</id>
+    <title>suka banget sama ni liptint🫶🏻</title>
+    <updated>2023-09-26T05:48:54+00:00</updated>
+    <content>suka banget sama ni liptint🫶🏻</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7283007527032327429" rel="alternate"/>
+    <published>2023-09-26T05:48:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7283102060382473477</id>
+    <title>jamet</title>
+    <updated>2023-09-26T11:55:45+00:00</updated>
+    <content>jamet</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7283102060382473477" rel="alternate"/>
+    <published>2023-09-26T11:55:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7283103625973468421</id>
+    <title>ga hafal</title>
+    <updated>2023-09-26T12:01:48+00:00</updated>
+    <content>ga hafal</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7283103625973468421" rel="alternate"/>
+    <published>2023-09-26T12:01:48+00:00</published>
   </entry>
 </feed>
