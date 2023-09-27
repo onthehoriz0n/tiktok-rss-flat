@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_theabernice_</id>
   <title>_theabernice_ TikTok</title>
-  <updated>2023-07-15T08:31:23+00:00</updated>
+  <updated>2023-09-27T01:22:40.226871+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _theabernice_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@_theabernice_/video/7215988056342433051</id>
-    <title>eat eat eat🌭🥯🍜🍔🍗🍟 #japan #eating #eatingshow  #ilikefood #japanfood  #fyppppppppppppppppppppppp </title>
-    <updated>2023-03-29T15:19:12+00:00</updated>
-    <content>eat eat eat🌭🥯🍜🍔🍗🍟 #japan #eating #eatingshow  #ilikefood #japanfood  #fyppppppppppppppppppppppp </content>
-    <link href="https://tiktok.com/@_theabernice_/video/7215988056342433051" rel="alternate"/>
-    <published>2023-03-29T15:19:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@_theabernice_/video/7217850266589105435</id>
-    <title>still can't move on 🇯🇵🤍 #fyp #japan </title>
-    <updated>2023-04-03T15:45:35+00:00</updated>
-    <content>still can't move on 🇯🇵🤍 #fyp #japan </content>
-    <link href="https://tiktok.com/@_theabernice_/video/7217850266589105435" rel="alternate"/>
-    <published>2023-04-03T15:45:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@_theabernice_/video/7232336809814986010</id>
-    <title>tebak si siapa yang paling jaim😃  #fypシ </title>
-    <updated>2023-05-12T16:40:47+00:00</updated>
-    <content>tebak si siapa yang paling jaim😃  #fypシ </content>
-    <link href="https://tiktok.com/@_theabernice_/video/7232336809814986010" rel="alternate"/>
-    <published>2023-05-12T16:40:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@_theabernice_/video/7254593842278583558</id>
-    <title>nature never goes out of style🌴🥥 #fypシ </title>
-    <updated>2023-07-11T16:09:16+00:00</updated>
-    <content>nature never goes out of style🌴🥥 #fypシ </content>
-    <link href="https://tiktok.com/@_theabernice_/video/7254593842278583558" rel="alternate"/>
-    <published>2023-07-11T16:09:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@_theabernice_/video/7255960179433344261</id>
-    <title>exploring the breathtaking beaches🌊 #fypシ #beachvibes </title>
-    <updated>2023-07-15T08:31:23+00:00</updated>
-    <content>exploring the breathtaking beaches🌊 #fypシ #beachvibes </content>
-    <link href="https://tiktok.com/@_theabernice_/video/7255960179433344261" rel="alternate"/>
-    <published>2023-07-15T08:31:23+00:00</published>
-  </entry>
 </feed>
