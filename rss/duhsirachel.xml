@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-27T03:53:06+00:00</updated>
+  <updated>2023-09-28T11:33:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7281235743530405126</id>
-    <title>sedih</title>
-    <updated>2023-09-21T11:13:28+00:00</updated>
-    <content>sedih</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7281235743530405126" rel="alternate"/>
-    <published>2023-09-21T11:13:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7283007527032327429</id>
-    <title>suka banget sama ni liptint🫶🏻</title>
-    <updated>2023-09-26T05:48:54+00:00</updated>
-    <content>suka banget sama ni liptint🫶🏻</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7283007527032327429" rel="alternate"/>
-    <published>2023-09-26T05:48:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7283102060382473477</id>
     <title>jamet</title>
@@ -51,5 +35,21 @@
     <content>ini yang gue tunggu tunggu yaitu nonton dbl bareng sama temen2 sma guee, sambil teriak teriak yel yel itu tuh seru bangettt😭🫶🏻...tapi lebih seru lagi kalau bareng kopi good day! di gor juga ada boothnyaa, seru banget banyak games nya jugaa🥹#liveupyourflavours #gooddayxdbl #hondadblwithkopigoodday </content>
     <link href="https://tiktok.com/@duhsirachel/video/7283348765581348101" rel="alternate"/>
     <published>2023-09-27T03:53:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7283822800929000709</id>
+    <title>No Title</title>
+    <updated>2023-09-28T10:32:34+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7283822800929000709" rel="alternate"/>
+    <published>2023-09-28T10:32:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7283838378125118725</id>
+    <title>jamet amay</title>
+    <updated>2023-09-28T11:33:01+00:00</updated>
+    <content>jamet amay</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7283838378125118725" rel="alternate"/>
+    <published>2023-09-28T11:33:01+00:00</published>
   </entry>
 </feed>
