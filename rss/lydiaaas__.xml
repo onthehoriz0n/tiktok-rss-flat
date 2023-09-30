@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-09-30T05:15:31+00:00</updated>
+  <updated>2023-09-30T14:00:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7282271357964913925</id>
-    <title>coba dulu</title>
-    <updated>2023-09-24T06:12:11+00:00</updated>
-    <content>coba dulu</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7282271357964913925" rel="alternate"/>
-    <published>2023-09-24T06:12:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7282639865752194310</id>
     <title>mode sok seksoi  😊</title>
@@ -51,5 +43,13 @@
     <content>makeup +  hair  + style : beda orang </content>
     <link href="https://tiktok.com/@lydiaaas__/video/7284483260044922117" rel="alternate"/>
     <published>2023-09-30T05:15:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7284618592027479302</id>
+    <title>gara2  ponji test dikit ah</title>
+    <updated>2023-09-30T14:00:38+00:00</updated>
+    <content>gara2  ponji test dikit ah</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7284618592027479302" rel="alternate"/>
+    <published>2023-09-30T14:00:38+00:00</published>
   </entry>
 </feed>
