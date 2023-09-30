@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-09-27T12:11:24+00:00</updated>
+  <updated>2023-09-30T05:15:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7282246013161606405</id>
-    <title>ga percaya tapi emang ea?</title>
-    <updated>2023-09-24T04:33:50+00:00</updated>
-    <content>ga percaya tapi emang ea?</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7282246013161606405" rel="alternate"/>
-    <published>2023-09-24T04:33:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7282271357964913925</id>
     <title>coba dulu</title>
@@ -51,5 +43,13 @@
     <content>gaboleh ya ish</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7283477188228402437" rel="alternate"/>
     <published>2023-09-27T12:11:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7284483260044922117</id>
+    <title>makeup +  hair  + style : beda orang </title>
+    <updated>2023-09-30T05:15:31+00:00</updated>
+    <content>makeup +  hair  + style : beda orang </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7284483260044922117" rel="alternate"/>
+    <published>2023-09-30T05:15:31+00:00</published>
   </entry>
 </feed>
