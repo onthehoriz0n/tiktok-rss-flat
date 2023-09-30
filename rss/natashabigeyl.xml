@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-09-27T09:50:27+00:00</updated>
+  <updated>2023-09-30T06:13:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7281908397086084357</id>
-    <title>LOOK FAV KALIAN YANG MANA?🍓 Pake outfit apapun selalu pede, karna gue selalu ngerawat diri dari luar dan dalam! Dan extra mau gerak karna selalu ditemenin susu viral @Greenfields Indonesia , untuk kegiatan gue yang produktif #ExtraMauGerak</title>
-    <updated>2023-09-23T06:43:42+00:00</updated>
-    <content>LOOK FAV KALIAN YANG MANA?🍓 Pake outfit apapun selalu pede, karna gue selalu ngerawat diri dari luar dan dalam! Dan extra mau gerak karna selalu ditemenin susu viral @Greenfields Indonesia , untuk kegiatan gue yang produktif #ExtraMauGerak</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7281908397086084357" rel="alternate"/>
-    <published>2023-09-23T06:43:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7282017407995251973</id>
     <title>CELANA KEDUA ITU SILVER APA GOLD YA?🙂🙂🙂 #NatInColors </title>
@@ -51,5 +43,13 @@
     <content>DARI 1-10, BERAPA RATE BUNGA GUE &amp; @Jennifer Christie?💐💫 </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7283440857167039749" rel="alternate"/>
     <published>2023-09-27T09:50:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7284498181868539142</id>
+    <title>PERLU GUE BIKIN REVIEW VERSI AFFORDABLENYA GAK? #highendmakeup #makeup #grwm #grwmmakeup </title>
+    <updated>2023-09-30T06:13:23+00:00</updated>
+    <content>PERLU GUE BIKIN REVIEW VERSI AFFORDABLENYA GAK? #highendmakeup #makeup #grwm #grwmmakeup </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7284498181868539142" rel="alternate"/>
+    <published>2023-09-30T06:13:23+00:00</published>
   </entry>
 </feed>

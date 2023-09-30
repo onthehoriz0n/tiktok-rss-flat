@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-09-26T07:33:45+00:00</updated>
+  <updated>2023-09-30T04:51:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7276762727257836805</id>
-    <title>No Title</title>
-    <updated>2023-09-09T09:55:53+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7276762727257836805" rel="alternate"/>
-    <published>2023-09-09T09:55:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7276763484380089606</id>
-    <title>No Title</title>
-    <updated>2023-09-09T09:58:49+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7276763484380089606" rel="alternate"/>
-    <published>2023-09-09T09:58:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7277748465239641350</id>
     <title>Haii temen2 UMN !  Now Facemoji is stopping by at Universitas Multimedia Nusantara ! Save the date &amp; enjoy their booth : 🗓 : 11-14 September 📍 : Lobby Gedung B •FREE PHOTOBOX &amp; LUCKY SPIN 🤩 #beinthespotlightwithfacemoji  Dont’t forget to download Facemoji</title>
@@ -51,5 +35,21 @@
     <content>Puanas pol</content>
     <link href="https://tiktok.com/@eline.angeline/video/7283034545128017158" rel="alternate"/>
     <published>2023-09-26T07:33:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7284476669925035270</id>
+    <title>Akhirnya bkin jga 🤓</title>
+    <updated>2023-09-30T04:49:55+00:00</updated>
+    <content>Akhirnya bkin jga 🤓</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7284476669925035270" rel="alternate"/>
+    <published>2023-09-30T04:49:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7284477083764526342</id>
+    <title>No Title</title>
+    <updated>2023-09-30T04:51:32+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7284477083764526342" rel="alternate"/>
+    <published>2023-09-30T04:51:32+00:00</published>
   </entry>
 </feed>
