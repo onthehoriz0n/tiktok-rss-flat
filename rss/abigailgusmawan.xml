@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-09-28T11:24:46+00:00</updated>
+  <updated>2023-10-01T06:21:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7280136304459926790</id>
-    <title>ig saw it first</title>
-    <updated>2023-09-18T12:07:05+00:00</updated>
-    <content>ig saw it first</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7280136304459926790" rel="alternate"/>
-    <published>2023-09-18T12:07:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7280873888370674950</id>
     <title>konsepnya gemeyyy🌸</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7283836247322266886" rel="alternate"/>
     <published>2023-09-28T11:24:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7284871263372315910</id>
+    <title>eeeeh</title>
+    <updated>2023-10-01T06:21:10+00:00</updated>
+    <content>eeeeh</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7284871263372315910" rel="alternate"/>
+    <published>2023-10-01T06:21:10+00:00</published>
   </entry>
 </feed>
