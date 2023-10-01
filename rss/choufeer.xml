@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-09-28T14:13:21+00:00</updated>
+  <updated>2023-09-23T13:36:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7276848481237568773</id>
+    <title>@Maria </title>
+    <updated>2023-09-09T15:28:39+00:00</updated>
+    <content>@Maria </content>
+    <link href="https://tiktok.com/@choufeer/video/7276848481237568773" rel="alternate"/>
+    <published>2023-09-09T15:28:39+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7277503504112028934</id>
     <title>No Title</title>
@@ -43,13 +51,5 @@
     <content>maria paling cantik</content>
     <link href="https://tiktok.com/@choufeer/video/7282014710336228614" rel="alternate"/>
     <published>2023-09-23T13:36:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7283879699955059973</id>
-    <title>Punya design stylish dan performa yang oke cuma iQOO Z7 5G Supernova Orange jagonya! Bisa main games sepuasnya karna punya Snapdragon 782​G dengan 120 Watt Flash Charge + 5000 mAh! Buat foto juga oke banget karna punya 64MP + OIS! Langsung aja yuk order d</title>
-    <updated>2023-09-28T14:13:21+00:00</updated>
-    <content>Punya design stylish dan performa yang oke cuma iQOO Z7 5G Supernova Orange jagonya! Bisa main games sepuasnya karna punya Snapdragon 782​G dengan 120 Watt Flash Charge + 5000 mAh! Buat foto juga oke banget karna punya 64MP + OIS! Langsung aja yuk order di vivo e-store @iqoo_id #PowerUpYourLife #PowerUpYourStyle</content>
-    <link href="https://tiktok.com/@choufeer/video/7283879699955059973" rel="alternate"/>
-    <published>2023-09-28T14:13:21+00:00</published>
   </entry>
 </feed>
