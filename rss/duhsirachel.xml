@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-09-29T15:26:07+00:00</updated>
+  <updated>2023-10-01T12:39:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7283348765581348101</id>
-    <title>ini yang gue tunggu tunggu yaitu nonton dbl bareng sama temen2 sma guee, sambil teriak teriak yel yel itu tuh seru bangettt😭🫶🏻...tapi lebih seru lagi kalau bareng kopi good day! di gor juga ada boothnyaa, seru banget banyak games nya jugaa🥹#liveupyourflav</title>
-    <updated>2023-09-27T03:53:06+00:00</updated>
-    <content>ini yang gue tunggu tunggu yaitu nonton dbl bareng sama temen2 sma guee, sambil teriak teriak yel yel itu tuh seru bangettt😭🫶🏻...tapi lebih seru lagi kalau bareng kopi good day! di gor juga ada boothnyaa, seru banget banyak games nya jugaa🥹#liveupyourflavours #gooddayxdbl #hondadblwithkopigoodday </content>
-    <link href="https://tiktok.com/@duhsirachel/video/7283348765581348101" rel="alternate"/>
-    <published>2023-09-27T03:53:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7283822800929000709</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>racun baruu! liptint bagus kantong pelajar nih #LipTintStacey #StaceyBeauty #StayStunningWithStacey </content>
     <link href="https://tiktok.com/@duhsirachel/video/7284269529218272517" rel="alternate"/>
     <published>2023-09-29T15:26:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7284968773868588294</id>
+    <title>junior highscool &gt;&gt; senior highschool + naik 7kg</title>
+    <updated>2023-10-01T12:39:32+00:00</updated>
+    <content>junior highscool &gt;&gt; senior highschool + naik 7kg</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7284968773868588294" rel="alternate"/>
+    <published>2023-10-01T12:39:32+00:00</published>
   </entry>
 </feed>
