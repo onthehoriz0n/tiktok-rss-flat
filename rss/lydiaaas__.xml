@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-09-30T14:00:38+00:00</updated>
+  <updated>2023-10-01T04:49:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7282639865752194310</id>
-    <title>mode sok seksoi  😊</title>
-    <updated>2023-09-25T06:02:13+00:00</updated>
-    <content>mode sok seksoi  😊</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7282639865752194310" rel="alternate"/>
-    <published>2023-09-25T06:02:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7283076424645250309</id>
     <title>nice try guys </title>
@@ -45,11 +37,19 @@
     <published>2023-09-30T05:15:31+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7284618592027479302</id>
-    <title>gara2  ponji test dikit ah</title>
-    <updated>2023-09-30T14:00:38+00:00</updated>
-    <content>gara2  ponji test dikit ah</content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7284618592027479302" rel="alternate"/>
-    <published>2023-09-30T14:00:38+00:00</published>
+    <id>https://tiktok.com/@lydiaaas__/video/7284830871700524293</id>
+    <title>No Title</title>
+    <updated>2023-10-01T03:44:25+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7284830871700524293" rel="alternate"/>
+    <published>2023-10-01T03:44:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7284847617203358982</id>
+    <title>lovely</title>
+    <updated>2023-10-01T04:49:24+00:00</updated>
+    <content>lovely</content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7284847617203358982" rel="alternate"/>
+    <published>2023-10-01T04:49:24+00:00</published>
   </entry>
 </feed>
