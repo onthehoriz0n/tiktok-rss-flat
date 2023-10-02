@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-01T14:45:59+00:00</updated>
+  <updated>2023-10-02T02:17:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7283838378125118725</id>
-    <title>jamet amay</title>
-    <updated>2023-09-28T11:33:01+00:00</updated>
-    <content>jamet amay</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7283838378125118725" rel="alternate"/>
-    <published>2023-09-28T11:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7284258359602138374</id>
-    <title>gsh salting</title>
-    <updated>2023-09-29T14:42:46+00:00</updated>
-    <content>gsh salting</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7284258359602138374" rel="alternate"/>
-    <published>2023-09-29T14:42:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7284269529218272517</id>
-    <title>racun baruu! liptint bagus kantong pelajar nih #LipTintStacey #StaceyBeauty #StayStunningWithStacey </title>
-    <updated>2023-09-29T15:26:07+00:00</updated>
-    <content>racun baruu! liptint bagus kantong pelajar nih #LipTintStacey #StaceyBeauty #StayStunningWithStacey </content>
-    <link href="https://tiktok.com/@duhsirachel/video/7284269529218272517" rel="alternate"/>
-    <published>2023-09-29T15:26:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7284968773868588294</id>
     <title>junior highscool &gt;&gt; senior highschool + naik 7kg</title>
@@ -51,5 +27,29 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7285001360167177477" rel="alternate"/>
     <published>2023-10-01T14:45:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7285154732623088901</id>
+    <title>upacara hari batiqs</title>
+    <updated>2023-10-02T00:41:11+00:00</updated>
+    <content>upacara hari batiqs</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7285154732623088901" rel="alternate"/>
+    <published>2023-10-02T00:41:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7285176434207902981</id>
+    <title>selamat senin</title>
+    <updated>2023-10-02T02:05:22+00:00</updated>
+    <content>selamat senin</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7285176434207902981" rel="alternate"/>
+    <published>2023-10-02T02:05:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7285179576240688389</id>
+    <title>cimoy waskito</title>
+    <updated>2023-10-02T02:17:35+00:00</updated>
+    <content>cimoy waskito</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7285179576240688389" rel="alternate"/>
+    <published>2023-10-02T02:17:35+00:00</published>
   </entry>
 </feed>
