@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-09-30T04:51:32+00:00</updated>
+  <updated>2023-10-02T11:05:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7277748465239641350</id>
-    <title>Haii temen2 UMN !  Now Facemoji is stopping by at Universitas Multimedia Nusantara ! Save the date &amp; enjoy their booth : 🗓 : 11-14 September 📍 : Lobby Gedung B •FREE PHOTOBOX &amp; LUCKY SPIN 🤩 #beinthespotlightwithfacemoji  Dont’t forget to download Facemoji</title>
-    <updated>2023-09-12T01:41:04+00:00</updated>
-    <content>Haii temen2 UMN !  Now Facemoji is stopping by at Universitas Multimedia Nusantara ! Save the date &amp; enjoy their booth : 🗓 : 11-14 September 📍 : Lobby Gedung B •FREE PHOTOBOX &amp; LUCKY SPIN 🤩 #beinthespotlightwithfacemoji  Dont’t forget to download Facemoji Keyboard and see u at Lobby Building B !  🥰</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7277748465239641350" rel="alternate"/>
-    <published>2023-09-12T01:41:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7281859163083279622</id>
-    <title>No Title</title>
-    <updated>2023-09-23T03:32:40+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7281859163083279622" rel="alternate"/>
-    <published>2023-09-23T03:32:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7283034545128017158</id>
     <title>Puanas pol</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7284477083764526342" rel="alternate"/>
     <published>2023-09-30T04:51:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7285311360840355078</id>
+    <title>No Title</title>
+    <updated>2023-10-02T10:48:57+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7285311360840355078" rel="alternate"/>
+    <published>2023-10-02T10:48:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7285315601164143878</id>
+    <title>No Title</title>
+    <updated>2023-10-02T11:05:23+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7285315601164143878" rel="alternate"/>
+    <published>2023-10-02T11:05:23+00:00</published>
   </entry>
 </feed>
