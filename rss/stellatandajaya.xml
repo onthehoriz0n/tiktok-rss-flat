@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-10-03T02:45:09+00:00</updated>
+  <updated>2023-10-03T08:14:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7282655626440871174</id>
-    <title>another grwm ✩°｡⋆⸜ 🎧✮</title>
-    <updated>2023-09-25T07:03:21+00:00</updated>
-    <content>another grwm ✩°｡⋆⸜ 🎧✮</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7282655626440871174" rel="alternate"/>
-    <published>2023-09-25T07:03:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7283431298914356486</id>
     <title>😂</title>
@@ -51,5 +43,13 @@
     <content>but we come in a package deal 🖤🥹</content>
     <link href="https://tiktok.com/@stellatandajaya/video/7285557773637668101" rel="alternate"/>
     <published>2023-10-03T02:45:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7285642605176868101</id>
+    <title>No Title</title>
+    <updated>2023-10-03T08:14:22+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7285642605176868101" rel="alternate"/>
+    <published>2023-10-03T08:14:22+00:00</published>
   </entry>
 </feed>
