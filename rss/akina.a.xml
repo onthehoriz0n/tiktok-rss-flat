@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-10-02T05:03:56+00:00</updated>
+  <updated>2023-10-03T07:05:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-10-01T08:35:52+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@akina.a/video/7284910475995778310</id>
-    <title>No Title</title>
-    <updated>2023-10-01T08:53:19+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7284910475995778310" rel="alternate"/>
-    <published>2023-10-01T08:53:19+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@akina.a/video/7285222449413704966</id>
     <title>Kira" apa lagi yahh perbedaan orang jepang dan indonesia?</title>
     <updated>2023-10-02T05:03:56+00:00</updated>
     <content>Kira" apa lagi yahh perbedaan orang jepang dan indonesia?</content>
     <link href="https://tiktok.com/@akina.a/video/7285222449413704966" rel="alternate"/>
     <published>2023-10-02T05:03:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7285624765102951686</id>
+    <title>Nah gimana nih udah jadi pada tau dong yaa tata cara makan sushi yang bener, kalian mau aku bahas apalagi nih tentang makanan jepang? Komen di bawah yaa!</title>
+    <updated>2023-10-03T07:05:07+00:00</updated>
+    <content>Nah gimana nih udah jadi pada tau dong yaa tata cara makan sushi yang bener, kalian mau aku bahas apalagi nih tentang makanan jepang? Komen di bawah yaa!</content>
+    <link href="https://tiktok.com/@akina.a/video/7285624765102951686" rel="alternate"/>
+    <published>2023-10-03T07:05:07+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-09-30T15:55:10+00:00</updated>
+  <updated>2023-10-03T05:13:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7281215405765496069</id>
-    <title>blwek 😜 #fyp #pageforyou </title>
-    <updated>2023-09-21T09:54:32+00:00</updated>
-    <content>blwek 😜 #fyp #pageforyou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7281215405765496069" rel="alternate"/>
-    <published>2023-09-21T09:54:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7281924586260712709</id>
     <title>Can i get a kiss pleasee🥺 #hinatacosplay #transition #beranda #fypage </title>
@@ -51,5 +43,13 @@
     <content>wangy??  #hinata #thelastnaruto #gym #cosplay #cosplayer </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7284648098733853957" rel="alternate"/>
     <published>2023-09-30T15:55:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7285596108506680581</id>
+    <title>we just friend🥹 #kebaya #fyp </title>
+    <updated>2023-10-03T05:13:56+00:00</updated>
+    <content>we just friend🥹 #kebaya #fyp </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7285596108506680581" rel="alternate"/>
+    <published>2023-10-03T05:13:56+00:00</published>
   </entry>
 </feed>
