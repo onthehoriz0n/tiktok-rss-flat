@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-04T04:00:20+00:00</updated>
+  <updated>2023-10-04T11:01:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7285176434207902981</id>
-    <title>selamat senin</title>
-    <updated>2023-10-02T02:05:22+00:00</updated>
-    <content>selamat senin</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7285176434207902981" rel="alternate"/>
-    <published>2023-10-02T02:05:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7285179576240688389</id>
     <title>cimoy waskito</title>
@@ -51,5 +43,13 @@
     <content>bersama afdal jamet kuproy rambut cepmeq</content>
     <link href="https://tiktok.com/@duhsirachel/video/7285948225079610630" rel="alternate"/>
     <published>2023-10-04T04:00:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7286056721120906502</id>
+    <title>pcr ku💓</title>
+    <updated>2023-10-04T11:01:20+00:00</updated>
+    <content>pcr ku💓</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7286056721120906502" rel="alternate"/>
+    <published>2023-10-04T11:01:20+00:00</published>
   </entry>
 </feed>
