@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-02T02:17:35+00:00</updated>
+  <updated>2023-10-04T04:00:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7284258359602138374</id>
-    <title>gsh salting</title>
-    <updated>2023-09-29T14:42:46+00:00</updated>
-    <content>gsh salting</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7284258359602138374" rel="alternate"/>
-    <published>2023-09-29T14:42:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7284269529218272517</id>
-    <title>racun baruu! liptint bagus kantong pelajar nih #LipTintStacey #StaceyBeauty #StayStunningWithStacey </title>
-    <updated>2023-09-29T15:26:07+00:00</updated>
-    <content>racun baruu! liptint bagus kantong pelajar nih #LipTintStacey #StaceyBeauty #StayStunningWithStacey </content>
-    <link href="https://tiktok.com/@duhsirachel/video/7284269529218272517" rel="alternate"/>
-    <published>2023-09-29T15:26:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7285001360167177477</id>
-    <title>No Title</title>
-    <updated>2023-10-01T14:45:59+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7285001360167177477" rel="alternate"/>
-    <published>2023-10-01T14:45:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7285176434207902981</id>
     <title>selamat senin</title>
@@ -51,5 +27,29 @@
     <content>cimoy waskito</content>
     <link href="https://tiktok.com/@duhsirachel/video/7285179576240688389" rel="alternate"/>
     <published>2023-10-02T02:17:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7285904324788571397</id>
+    <title>ga bobo satu tahun</title>
+    <updated>2023-10-04T01:09:58+00:00</updated>
+    <content>ga bobo satu tahun</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7285904324788571397" rel="alternate"/>
+    <published>2023-10-04T01:09:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7285944359579684101</id>
+    <title>No Title</title>
+    <updated>2023-10-04T03:45:19+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7285944359579684101" rel="alternate"/>
+    <published>2023-10-04T03:45:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7285948225079610630</id>
+    <title>bersama afdal jamet kuproy rambut cepmeq</title>
+    <updated>2023-10-04T04:00:20+00:00</updated>
+    <content>bersama afdal jamet kuproy rambut cepmeq</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7285948225079610630" rel="alternate"/>
+    <published>2023-10-04T04:00:20+00:00</published>
   </entry>
 </feed>
