@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-05T12:11:15+00:00</updated>
+  <updated>2023-10-06T00:46:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -29,14 +29,6 @@
     <published>2023-10-04T11:01:20+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7286289652913278214</id>
-    <title>No Title</title>
-    <updated>2023-10-05T02:05:14+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7286289652913278214" rel="alternate"/>
-    <published>2023-10-05T02:05:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@duhsirachel/video/7286440829852388614</id>
     <title>k</title>
     <updated>2023-10-05T11:51:50+00:00</updated>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7286445829924097285" rel="alternate"/>
     <published>2023-10-05T12:11:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7286640400171830534</id>
+    <title>No Title</title>
+    <updated>2023-10-06T00:46:19+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7286640400171830534" rel="alternate"/>
+    <published>2023-10-06T00:46:19+00:00</published>
   </entry>
 </feed>
