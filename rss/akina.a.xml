@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-10-06T09:34:51+00:00</updated>
+  <updated>2023-10-06T16:59:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7285624765102951686</id>
-    <title>Nah gimana nih udah jadi pada tau dong yaa tata cara makan sushi yang bener, kalian mau aku bahas apalagi nih tentang makanan jepang? Komen di bawah yaa!</title>
-    <updated>2023-10-03T07:05:07+00:00</updated>
-    <content>Nah gimana nih udah jadi pada tau dong yaa tata cara makan sushi yang bener, kalian mau aku bahas apalagi nih tentang makanan jepang? Komen di bawah yaa!</content>
-    <link href="https://tiktok.com/@akina.a/video/7285624765102951686" rel="alternate"/>
-    <published>2023-10-03T07:05:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7286037985294847237</id>
     <title>Replying to @remajasenior Facts about me❤️,, mau tau ga gimana papa ketemu mama yang orang jepang?</title>
@@ -51,5 +43,13 @@
     <content>Replying to @remajasenior STORY TIMEEE,, gimana kira" kalian mau punya pasangan orang Jepang juga gaa?</content>
     <link href="https://tiktok.com/@akina.a/video/7286776606121544966" rel="alternate"/>
     <published>2023-10-06T09:34:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7286891200462720262</id>
+    <title>would u?</title>
+    <updated>2023-10-06T16:59:32+00:00</updated>
+    <content>would u?</content>
+    <link href="https://tiktok.com/@akina.a/video/7286891200462720262" rel="alternate"/>
+    <published>2023-10-06T16:59:32+00:00</published>
   </entry>
 </feed>
