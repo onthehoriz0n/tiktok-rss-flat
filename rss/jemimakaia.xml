@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-09-30T09:17:22+00:00</updated>
+  <updated>2023-10-06T09:43:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7272667612151139589</id>
-    <title>i said 😗</title>
-    <updated>2023-08-29T09:04:45+00:00</updated>
-    <content>i said 😗</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7272667612151139589" rel="alternate"/>
-    <published>2023-08-29T09:04:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7276777326514408710</id>
     <title>we be vibinnn</title>
@@ -51,5 +43,13 @@
     <content>tebak siapa yang dipaksa bikin trend ini😊</content>
     <link href="https://tiktok.com/@jemimakaia/video/7284545591701654790" rel="alternate"/>
     <published>2023-09-30T09:17:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7286778892994481413</id>
+    <title>who this 😮‍💨🤣</title>
+    <updated>2023-10-06T09:43:42+00:00</updated>
+    <content>who this 😮‍💨🤣</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7286778892994481413" rel="alternate"/>
+    <published>2023-10-06T09:43:42+00:00</published>
   </entry>
 </feed>
