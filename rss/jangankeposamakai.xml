@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-10-06T06:05:19+00:00</updated>
+  <updated>2023-10-07T11:20:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -29,14 +29,6 @@
     <published>2023-09-30T15:55:10+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7285596108506680581</id>
-    <title>we just friend🥹 #kebaya #fyp </title>
-    <updated>2023-10-03T05:13:56+00:00</updated>
-    <content>we just friend🥹 #kebaya #fyp </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7285596108506680581" rel="alternate"/>
-    <published>2023-10-03T05:13:56+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7286554811913227526</id>
     <title>#CapCut #cinematic #hinatathelast #fypシ </title>
     <updated>2023-10-05T19:14:11+00:00</updated>
@@ -51,5 +43,13 @@
     <content>Full content? go check on my trakteer 🌚🫶 #CapCut </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7286722607028702469" rel="alternate"/>
     <published>2023-10-06T06:05:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7287175033993153797</id>
+    <title>#fypシ #hinatacosplay #foryou </title>
+    <updated>2023-10-07T11:20:56+00:00</updated>
+    <content>#fypシ #hinatacosplay #foryou </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7287175033993153797" rel="alternate"/>
+    <published>2023-10-07T11:20:56+00:00</published>
   </entry>
 </feed>
