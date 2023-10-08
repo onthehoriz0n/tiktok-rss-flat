@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-07T07:35:31+00:00</updated>
+  <updated>2023-10-08T05:03:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7286640400171830534</id>
-    <title>No Title</title>
-    <updated>2023-10-06T00:46:19+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7286640400171830534" rel="alternate"/>
-    <published>2023-10-06T00:46:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7286790614019083526</id>
-    <title>ikut</title>
-    <updated>2023-10-06T10:29:13+00:00</updated>
-    <content>ikut</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7286790614019083526" rel="alternate"/>
-    <published>2023-10-06T10:29:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7286899226276039942</id>
     <title>join ah</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7287116937593720069" rel="alternate"/>
     <published>2023-10-07T07:35:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7287433318621170949</id>
+    <title>bingung ngapain</title>
+    <updated>2023-10-08T04:03:13+00:00</updated>
+    <content>bingung ngapain</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7287433318621170949" rel="alternate"/>
+    <published>2023-10-08T04:03:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7287448768780193029</id>
+    <title>mau tinggal dibandung deh</title>
+    <updated>2023-10-08T05:03:10+00:00</updated>
+    <content>mau tinggal dibandung deh</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7287448768780193029" rel="alternate"/>
+    <published>2023-10-08T05:03:10+00:00</published>
   </entry>
 </feed>
