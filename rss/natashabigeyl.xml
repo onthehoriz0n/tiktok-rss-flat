@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-10-07T14:05:09+00:00</updated>
+  <updated>2023-10-09T17:27:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7284505766940216581</id>
-    <title>KALAP BGT BELI MAKEUP TERUS🥲 buruan ke CP skrg deeh, acaranya cuma sampe tgl 1! @makeoverid #beautysciencefest2023 #paragonexperts #makeuphaul </title>
-    <updated>2023-09-30T06:42:50+00:00</updated>
-    <content>KALAP BGT BELI MAKEUP TERUS🥲 buruan ke CP skrg deeh, acaranya cuma sampe tgl 1! @makeoverid #beautysciencefest2023 #paragonexperts #makeuphaul </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7284505766940216581" rel="alternate"/>
-    <published>2023-09-30T06:42:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7285617771713465606</id>
     <title>keliatan kan ya bedanya HAHAHA favorit kalian yang manaa? gue team warm tone alwaysss🙋🏻‍♀️🙋🏻‍♀️ #cooltonedmakeup #warmtonemakeup #makeup #grwmmakeup @Somethinc Official </title>
@@ -51,5 +43,13 @@
     <content>gpp tinggalin aja terus @Iben M.A.🙄 means waktunya gue di rumah hibernasi dan nonton Disney+, jadi kalian pilih paket yg mana? @Disney+ Hotstar Indonesia </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7287217351211175173" rel="alternate"/>
     <published>2023-10-07T14:05:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7288011666397121798</id>
+    <title>HAHAHA BENERAN KYK SEPATU FUTSAL GA? BAGUS KAN TAPIIIIII?!  Ini #FentyXPuma Avanti yaa, belinya bisa di Atmos Pink, Grand Indonesia!  @atmos Indonesia🖤</title>
+    <updated>2023-10-09T17:27:32+00:00</updated>
+    <content>HAHAHA BENERAN KYK SEPATU FUTSAL GA? BAGUS KAN TAPIIIIII?!  Ini #FentyXPuma Avanti yaa, belinya bisa di Atmos Pink, Grand Indonesia!  @atmos Indonesia🖤</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7288011666397121798" rel="alternate"/>
+    <published>2023-10-09T17:27:32+00:00</published>
   </entry>
 </feed>
