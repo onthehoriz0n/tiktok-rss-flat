@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-08T14:43:44+00:00</updated>
+  <updated>2023-10-09T06:32:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7286899226276039942</id>
-    <title>join ah</title>
-    <updated>2023-10-06T17:30:41+00:00</updated>
-    <content>join ah</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7286899226276039942" rel="alternate"/>
-    <published>2023-10-06T17:30:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7287116358825970949</id>
-    <title>sekali2 tiktokan sm bokap</title>
-    <updated>2023-10-07T07:33:15+00:00</updated>
-    <content>sekali2 tiktokan sm bokap</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7287116358825970949" rel="alternate"/>
-    <published>2023-10-07T07:33:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7287433318621170949</id>
     <title>bingung ngapain</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7287598376521059589" rel="alternate"/>
     <published>2023-10-08T14:43:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7287842673837280518</id>
+    <title>No Title</title>
+    <updated>2023-10-09T06:31:45+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7287842673837280518" rel="alternate"/>
+    <published>2023-10-09T06:31:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7287842935981214981</id>
+    <title>daddy's home???</title>
+    <updated>2023-10-09T06:32:44+00:00</updated>
+    <content>daddy's home???</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7287842935981214981" rel="alternate"/>
+    <published>2023-10-09T06:32:44+00:00</published>
   </entry>
 </feed>

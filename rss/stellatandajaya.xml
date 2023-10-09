@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-10-08T03:05:57+00:00</updated>
+  <updated>2023-10-09T09:59:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7285655350173388037</id>
-    <title>manifesttttt </title>
-    <updated>2023-10-03T09:03:49+00:00</updated>
-    <content>manifesttttt </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7285655350173388037" rel="alternate"/>
-    <published>2023-10-03T09:03:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7285659934014917893</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>🤎🍪 can’t say no to cookies @Endorphins Cookie </content>
     <link href="https://tiktok.com/@stellatandajaya/video/7287418552531897606" rel="alternate"/>
     <published>2023-10-08T03:05:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7287896283463830790</id>
+    <title>I wish someone told me sooner that do stretching before and after leg day is one of the most important thing to do for maximizing the glutes muscle growth. 🍑✨ #gym #gymtok #gymhacks </title>
+    <updated>2023-10-09T09:59:47+00:00</updated>
+    <content>I wish someone told me sooner that do stretching before and after leg day is one of the most important thing to do for maximizing the glutes muscle growth. 🍑✨ #gym #gymtok #gymhacks </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7287896283463830790" rel="alternate"/>
+    <published>2023-10-09T09:59:47+00:00</published>
   </entry>
 </feed>
