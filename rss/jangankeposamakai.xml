@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-10-08T13:45:38+00:00</updated>
+  <updated>2023-10-09T01:04:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7283889774178471173</id>
-    <title>join livee 🫶✨ #hinata #thelastnaruto #cosplay #hinatacosplay </title>
-    <updated>2023-09-28T14:52:28+00:00</updated>
-    <content>join livee 🫶✨ #hinata #thelastnaruto #cosplay #hinatacosplay </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7283889774178471173" rel="alternate"/>
-    <published>2023-09-28T14:52:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7284214205173992710</id>
     <title>P -1 ayangg #hinata #cosplayhinata #fyp </title>
@@ -51,5 +43,13 @@
     <content>hehe #miharanikke #cosplay #foryou #fypシ </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7287583407490616581" rel="alternate"/>
     <published>2023-10-08T13:45:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7287758276773629189</id>
+    <title>ohayou🫶✨ #fypage #dvacosplay </title>
+    <updated>2023-10-09T01:04:15+00:00</updated>
+    <content>ohayou🫶✨ #fypage #dvacosplay </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7287758276773629189" rel="alternate"/>
+    <published>2023-10-09T01:04:15+00:00</published>
   </entry>
 </feed>
