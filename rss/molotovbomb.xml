@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@molotovbomb</id>
   <title>molotovbomb TikTok</title>
-  <updated>2023-09-16T12:11:31+00:00</updated>
+  <updated>2023-10-10T16:30:14.547588+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,28 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from molotovbomb</subtitle>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7248479886321503493</id>
-    <title>commuter punk bikes! #slowspeeedzombies #commuterbike #26inch #federal #federalbikes #federalindonesia #gravel #gravelbike #jambi #sepeda </title>
-    <updated>2023-06-25T04:44:01+00:00</updated>
-    <content>commuter punk bikes! #slowspeeedzombies #commuterbike #26inch #federal #federalbikes #federalindonesia #gravel #gravelbike #jambi #sepeda </content>
-    <link href="https://tiktok.com/@molotovbomb/video/7248479886321503493" rel="alternate"/>
-    <published>2023-06-25T04:44:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7248863264979848453</id>
-    <title>siap melesat gila mengelilingi tata surya! #SLOWSPEEDZOMBIES #commuterbike #26inch #federal #federalindonesia #gravelbike #gowes #jambi #sepeda #gravel </title>
-    <updated>2023-06-26T05:31:44+00:00</updated>
-    <content>siap melesat gila mengelilingi tata surya! #SLOWSPEEDZOMBIES #commuterbike #26inch #federal #federalindonesia #gravelbike #gowes #jambi #sepeda #gravel </content>
-    <link href="https://tiktok.com/@molotovbomb/video/7248863264979848453" rel="alternate"/>
-    <published>2023-06-26T05:31:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@molotovbomb/video/7279395281936878853</id>
-    <title>Midnight cruiser!  #slowspeedzombies #26inch #26aintdead #commuterbike #gravelbike #gravel #jambi </title>
-    <updated>2023-09-16T12:11:31+00:00</updated>
-    <content>Midnight cruiser!  #slowspeedzombies #26inch #26aintdead #commuterbike #gravelbike #gravel #jambi </content>
-    <link href="https://tiktok.com/@molotovbomb/video/7279395281936878853" rel="alternate"/>
-    <published>2023-09-16T12:11:31+00:00</published>
-  </entry>
 </feed>
