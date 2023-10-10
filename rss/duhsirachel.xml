@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-09T06:32:44+00:00</updated>
+  <updated>2023-10-10T06:41:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7287433318621170949</id>
-    <title>bingung ngapain</title>
-    <updated>2023-10-08T04:03:13+00:00</updated>
-    <content>bingung ngapain</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7287433318621170949" rel="alternate"/>
-    <published>2023-10-08T04:03:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7287521111988768005</id>
-    <title>ikutan</title>
-    <updated>2023-10-08T09:43:54+00:00</updated>
-    <content>ikutan</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7287521111988768005" rel="alternate"/>
-    <published>2023-10-08T09:43:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7287598376521059589</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>daddy's home???</content>
     <link href="https://tiktok.com/@duhsirachel/video/7287842935981214981" rel="alternate"/>
     <published>2023-10-09T06:32:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7288215779017772293</id>
+    <title>jamey</title>
+    <updated>2023-10-10T06:39:34+00:00</updated>
+    <content>jamey</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7288215779017772293" rel="alternate"/>
+    <published>2023-10-10T06:39:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7288216229154737414</id>
+    <title>keyfas gws ya</title>
+    <updated>2023-10-10T06:41:19+00:00</updated>
+    <content>keyfas gws ya</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7288216229154737414" rel="alternate"/>
+    <published>2023-10-10T06:41:19+00:00</published>
   </entry>
 </feed>
