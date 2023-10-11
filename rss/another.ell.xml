@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-09-24T15:32:54+00:00</updated>
+  <updated>2023-09-29T05:10:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7273102021094280454</id>
-    <title>hmm</title>
-    <updated>2023-08-30T13:10:28+00:00</updated>
-    <content>hmm</content>
-    <link href="https://tiktok.com/@another.ell/video/7273102021094280454" rel="alternate"/>
-    <published>2023-08-30T13:10:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7276464395830578437</id>
     <title>agak telat ya</title>
@@ -51,5 +43,13 @@
     <content>#duet with @katie cuthbertson abis ini bikin mobil🥰 #fyp </content>
     <link href="https://tiktok.com/@another.ell/video/7282415854300548357" rel="alternate"/>
     <published>2023-09-24T15:32:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7284110911726505221</id>
+    <title>tutorial body goals🫶🏻 #fyp </title>
+    <updated>2023-09-29T05:10:35+00:00</updated>
+    <content>tutorial body goals🫶🏻 #fyp </content>
+    <link href="https://tiktok.com/@another.ell/video/7284110911726505221" rel="alternate"/>
+    <published>2023-09-29T05:10:35+00:00</published>
   </entry>
 </feed>
