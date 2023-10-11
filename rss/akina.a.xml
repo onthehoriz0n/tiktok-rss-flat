@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-10-10T09:28:12+00:00</updated>
+  <updated>2023-10-11T06:19:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7286891200462720262</id>
-    <title>would u?</title>
-    <updated>2023-10-06T16:59:32+00:00</updated>
-    <content>would u?</content>
-    <link href="https://tiktok.com/@akina.a/video/7286891200462720262" rel="alternate"/>
-    <published>2023-10-06T16:59:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7287122164161973509</id>
-    <title>Replying to @Jalanin Ajaaaa ANOTHER #factsaboutjapan,, nanti kalo ke Jepang inget" ini yahh</title>
-    <updated>2023-10-07T07:55:47+00:00</updated>
-    <content>Replying to @Jalanin Ajaaaa ANOTHER #factsaboutjapan,, nanti kalo ke Jepang inget" ini yahh</content>
-    <link href="https://tiktok.com/@akina.a/video/7287122164161973509" rel="alternate"/>
-    <published>2023-10-07T07:55:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7287487439516519685</id>
     <title>✨GIVE AWAY✨ Action Figure Roronoa Zoro!!! Caranya gampang banget!! tinggal follow ig&amp;tiktok aku @akina.a terus comment "MARIMO" dan tag temen kalian!!🤗 Goodluck nakama❤️</title>
@@ -51,5 +35,21 @@
     <content>God kina hahaha</content>
     <link href="https://tiktok.com/@akina.a/video/7288259235215969542" rel="alternate"/>
     <published>2023-10-10T09:28:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7288581103483489542</id>
+    <title>Ada yg sama gaa pilihannya kaya akuu?😍  cr: yg lewat fyp:) #thisorthat #animeedition #jujutsukaisen #attackontitan #spyxfamily #onepiece #naruto #boruto #demonslayer #tokyorevengers </title>
+    <updated>2023-10-11T06:17:14+00:00</updated>
+    <content>Ada yg sama gaa pilihannya kaya akuu?😍  cr: yg lewat fyp:) #thisorthat #animeedition #jujutsukaisen #attackontitan #spyxfamily #onepiece #naruto #boruto #demonslayer #tokyorevengers </content>
+    <link href="https://tiktok.com/@akina.a/video/7288581103483489542" rel="alternate"/>
+    <published>2023-10-11T06:17:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7288581641369357573</id>
+    <title>No Title</title>
+    <updated>2023-10-11T06:19:20+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7288581641369357573" rel="alternate"/>
+    <published>2023-10-11T06:19:20+00:00</published>
   </entry>
 </feed>
