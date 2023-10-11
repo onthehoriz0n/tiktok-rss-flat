@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-10T06:41:19+00:00</updated>
+  <updated>2023-10-11T18:04:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
   <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7287598376521059589</id>
-    <title>No Title</title>
-    <updated>2023-10-08T14:43:44+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7287598376521059589" rel="alternate"/>
-    <published>2023-10-08T14:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7287842673837280518</id>
-    <title>No Title</title>
-    <updated>2023-10-09T06:31:45+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7287842673837280518" rel="alternate"/>
-    <published>2023-10-09T06:31:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7287842935981214981</id>
-    <title>daddy's home???</title>
-    <updated>2023-10-09T06:32:44+00:00</updated>
-    <content>daddy's home???</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7287842935981214981" rel="alternate"/>
-    <published>2023-10-09T06:32:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7288215779017772293</id>
-    <title>jamey</title>
-    <updated>2023-10-10T06:39:34+00:00</updated>
-    <content>jamey</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7288215779017772293" rel="alternate"/>
-    <published>2023-10-10T06:39:34+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@duhsirachel/video/7288216229154737414</id>
     <title>keyfas gws ya</title>
     <updated>2023-10-10T06:41:19+00:00</updated>
     <content>keyfas gws ya</content>
     <link href="https://tiktok.com/@duhsirachel/video/7288216229154737414" rel="alternate"/>
     <published>2023-10-10T06:41:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7288664213524843781</id>
+    <title>No Title</title>
+    <updated>2023-10-11T11:39:42+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7288664213524843781" rel="alternate"/>
+    <published>2023-10-11T11:39:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7288694499826568453</id>
+    <title>🫶🏻</title>
+    <updated>2023-10-11T13:37:15+00:00</updated>
+    <content>🫶🏻</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7288694499826568453" rel="alternate"/>
+    <published>2023-10-11T13:37:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7288694613618019590</id>
+    <title>asik 3-0</title>
+    <updated>2023-10-11T13:37:40+00:00</updated>
+    <content>asik 3-0</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7288694613618019590" rel="alternate"/>
+    <published>2023-10-11T13:37:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7288763375448804614</id>
+    <title>bye bye gue cabut</title>
+    <updated>2023-10-11T18:04:31+00:00</updated>
+    <content>bye bye gue cabut</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7288763375448804614" rel="alternate"/>
+    <published>2023-10-11T18:04:31+00:00</published>
   </entry>
 </feed>
