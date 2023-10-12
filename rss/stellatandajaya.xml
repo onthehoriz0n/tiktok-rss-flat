@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-10-11T06:22:29+00:00</updated>
+  <updated>2023-10-12T01:22:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7286763374686358790</id>
-    <title>always on my main character era</title>
-    <updated>2023-10-06T08:43:31+00:00</updated>
-    <content>always on my main character era</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7286763374686358790" rel="alternate"/>
-    <published>2023-10-06T08:43:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7286777629653404934</id>
     <title>wiggle wiggle </title>
@@ -51,5 +43,13 @@
     <content>pre workout warm up tiktokan </content>
     <link href="https://tiktok.com/@stellatandajaya/video/7288582458197462278" rel="alternate"/>
     <published>2023-10-11T06:22:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7288876290638155013</id>
+    <title>jeez</title>
+    <updated>2023-10-12T01:22:42+00:00</updated>
+    <content>jeez</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7288876290638155013" rel="alternate"/>
+    <published>2023-10-12T01:22:42+00:00</published>
   </entry>
 </feed>
