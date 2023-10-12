@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-10-12T01:22:42+00:00</updated>
+  <updated>2023-10-12T12:11:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7286777629653404934</id>
-    <title>wiggle wiggle </title>
-    <updated>2023-10-06T09:38:49+00:00</updated>
-    <content>wiggle wiggle </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7286777629653404934" rel="alternate"/>
-    <published>2023-10-06T09:38:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7287418552531897606</id>
     <title>🤎🍪 can’t say no to cookies @Endorphins Cookie </title>
@@ -51,5 +43,13 @@
     <content>jeez</content>
     <link href="https://tiktok.com/@stellatandajaya/video/7288876290638155013" rel="alternate"/>
     <published>2023-10-12T01:22:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7289043401331264774</id>
+    <title>which look is your favorite? 🩵 #fashioninspo </title>
+    <updated>2023-10-12T12:11:09+00:00</updated>
+    <content>which look is your favorite? 🩵 #fashioninspo </content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7289043401331264774" rel="alternate"/>
+    <published>2023-10-12T12:11:09+00:00</published>
   </entry>
 </feed>
