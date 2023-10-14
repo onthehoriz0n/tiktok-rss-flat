@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-10-11T06:19:20+00:00</updated>
+  <updated>2023-10-14T12:38:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7287487439516519685</id>
-    <title>✨GIVE AWAY✨ Action Figure Roronoa Zoro!!! Caranya gampang banget!! tinggal follow ig&amp;tiktok aku @akina.a terus comment "MARIMO" dan tag temen kalian!!🤗 Goodluck nakama❤️</title>
-    <updated>2023-10-08T07:33:15+00:00</updated>
-    <content>✨GIVE AWAY✨ Action Figure Roronoa Zoro!!! Caranya gampang banget!! tinggal follow ig&amp;tiktok aku @akina.a terus comment "MARIMO" dan tag temen kalian!!🤗 Goodluck nakama❤️</content>
-    <link href="https://tiktok.com/@akina.a/video/7287487439516519685" rel="alternate"/>
-    <published>2023-10-08T07:33:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7287495802312838406</id>
-    <title>No Title</title>
-    <updated>2023-10-08T08:05:42+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7287495802312838406" rel="alternate"/>
-    <published>2023-10-08T08:05:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7288259235215969542</id>
     <title>God kina hahaha</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@akina.a/video/7288581641369357573" rel="alternate"/>
     <published>2023-10-11T06:19:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7289792583113411845</id>
+    <title>Setuju gakk kalo zoro itu keren banget🥹✨ Yuk" ramein give away aku yuk #zorororonoa #zoro #onepiece #giveaway </title>
+    <updated>2023-10-14T12:38:21+00:00</updated>
+    <content>Setuju gakk kalo zoro itu keren banget🥹✨ Yuk" ramein give away aku yuk #zorororonoa #zoro #onepiece #giveaway </content>
+    <link href="https://tiktok.com/@akina.a/video/7289792583113411845" rel="alternate"/>
+    <published>2023-10-14T12:38:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7289792691930500357</id>
+    <title>No Title</title>
+    <updated>2023-10-14T12:38:48+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7289792691930500357" rel="alternate"/>
+    <published>2023-10-14T12:38:48+00:00</published>
   </entry>
 </feed>
