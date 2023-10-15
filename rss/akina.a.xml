@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-10-14T12:38:48+00:00</updated>
+  <updated>2023-10-15T06:49:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7288259235215969542</id>
-    <title>God kina hahaha</title>
-    <updated>2023-10-10T09:28:12+00:00</updated>
-    <content>God kina hahaha</content>
-    <link href="https://tiktok.com/@akina.a/video/7288259235215969542" rel="alternate"/>
-    <published>2023-10-10T09:28:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7288581103483489542</id>
-    <title>Ada yg sama gaa pilihannya kaya akuu?😍  cr: yg lewat fyp:) #thisorthat #animeedition #jujutsukaisen #attackontitan #spyxfamily #onepiece #naruto #boruto #demonslayer #tokyorevengers </title>
-    <updated>2023-10-11T06:17:14+00:00</updated>
-    <content>Ada yg sama gaa pilihannya kaya akuu?😍  cr: yg lewat fyp:) #thisorthat #animeedition #jujutsukaisen #attackontitan #spyxfamily #onepiece #naruto #boruto #demonslayer #tokyorevengers </content>
-    <link href="https://tiktok.com/@akina.a/video/7288581103483489542" rel="alternate"/>
-    <published>2023-10-11T06:17:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7288581641369357573</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@akina.a/video/7289792691930500357" rel="alternate"/>
     <published>2023-10-14T12:38:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7290073389581044997</id>
+    <title>Siapa yah ini?🤭 next gambar siapa yahh  #jujutsukaisen #drawings #pointillism </title>
+    <updated>2023-10-15T06:48:03+00:00</updated>
+    <content>Siapa yah ini?🤭 next gambar siapa yahh  #jujutsukaisen #drawings #pointillism </content>
+    <link href="https://tiktok.com/@akina.a/video/7290073389581044997" rel="alternate"/>
+    <published>2023-10-15T06:48:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7290073692887960837</id>
+    <title>No Title</title>
+    <updated>2023-10-15T06:49:13+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7290073692887960837" rel="alternate"/>
+    <published>2023-10-15T06:49:13+00:00</published>
   </entry>
 </feed>
