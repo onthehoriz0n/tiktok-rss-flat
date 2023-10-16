@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-10-15T05:04:05+00:00</updated>
+  <updated>2023-10-16T02:35:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7288170022252350726</id>
-    <title>#gojofemcosplay #gojofemale #cosplay #jangankeposamakai #foryou </title>
-    <updated>2023-10-10T03:42:01+00:00</updated>
-    <content>#gojofemcosplay #gojofemale #cosplay #jangankeposamakai #foryou </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7288170022252350726" rel="alternate"/>
-    <published>2023-10-10T03:42:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7289095881184365830</id>
     <title>💜 #gojofemale #gojousatoru #cosplay #dancing #you </title>
@@ -51,5 +43,13 @@
     <content>#fypage </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7290046603732225286" rel="alternate"/>
     <published>2023-10-15T05:04:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7290379404327292166</id>
+    <title>morning 🥰✨ #foryou </title>
+    <updated>2023-10-16T02:35:32+00:00</updated>
+    <content>morning 🥰✨ #foryou </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7290379404327292166" rel="alternate"/>
+    <published>2023-10-16T02:35:32+00:00</published>
   </entry>
 </feed>
