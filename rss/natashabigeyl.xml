@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-10-11T08:49:00+00:00</updated>
+  <updated>2023-10-16T11:33:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7285712809923464454</id>
-    <title>I guess I’m addicted to brown dresses🤎</title>
-    <updated>2023-10-03T12:46:46+00:00</updated>
-    <content>I guess I’m addicted to brown dresses🤎</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7285712809923464454" rel="alternate"/>
-    <published>2023-10-03T12:46:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7286119765326712070</id>
     <title>NEXTNYA BIKIN DARI APALAGI? #NatInColors #GayadiTikTok #ootd #fashion </title>
@@ -51,5 +43,13 @@
     <content>Siapa yang suka ribet juga kalo pake eyeliner?🥲🙋🏻‍♀️ #makeup #eyeliner #WeAreMaybelline #TattooLiner48Jam #TattooLinerSuperGampangSuperTahan @maybelline_indonesia </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7288620216953736453" rel="alternate"/>
     <published>2023-10-11T08:49:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7290518083507080454</id>
+    <title>bener-bener go to makeup gue tiap hari, ada yang suka pake jugaa? #grwm #makeup #drugstoremakeup #makeupreview  </title>
+    <updated>2023-10-16T11:33:40+00:00</updated>
+    <content>bener-bener go to makeup gue tiap hari, ada yang suka pake jugaa? #grwm #makeup #drugstoremakeup #makeupreview  </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7290518083507080454" rel="alternate"/>
+    <published>2023-10-16T11:33:40+00:00</published>
   </entry>
 </feed>
