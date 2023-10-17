@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-10-16T08:53:23+00:00</updated>
+  <updated>2023-10-17T10:00:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7283836247322266886</id>
-    <title>No Title</title>
-    <updated>2023-09-28T11:24:46+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7283836247322266886" rel="alternate"/>
-    <published>2023-09-28T11:24:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7284871263372315910</id>
     <title>eeeeh</title>
@@ -51,5 +43,13 @@
     <content>OOOH GITU</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7290476772498427142" rel="alternate"/>
     <published>2023-10-16T08:53:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7290865034010496262</id>
+    <title>cantik bgt tmen gw ada yg mao ga</title>
+    <updated>2023-10-17T10:00:02+00:00</updated>
+    <content>cantik bgt tmen gw ada yg mao ga</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7290865034010496262" rel="alternate"/>
+    <published>2023-10-17T10:00:02+00:00</published>
   </entry>
 </feed>
