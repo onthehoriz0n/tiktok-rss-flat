@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-10-17T15:23:44+00:00</updated>
+  <updated>2023-10-18T16:37:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7277566642484301061</id>
-    <title>&amp; tau diri😁</title>
-    <updated>2023-09-11T13:55:29+00:00</updated>
-    <content>&amp; tau diri😁</content>
-    <link href="https://tiktok.com/@another.ell/video/7277566642484301061" rel="alternate"/>
-    <published>2023-09-11T13:55:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7282415854300548357</id>
     <title>#duet with @katie cuthbertson abis ini bikin mobil🥰 #fyp </title>
@@ -51,5 +43,13 @@
     <content>member aespa dimimpi💅🏻</content>
     <link href="https://tiktok.com/@another.ell/video/7290948452673015046" rel="alternate"/>
     <published>2023-10-17T15:23:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7291338658420985094</id>
+    <title>lagii💅🏻</title>
+    <updated>2023-10-18T16:37:56+00:00</updated>
+    <content>lagii💅🏻</content>
+    <link href="https://tiktok.com/@another.ell/video/7291338658420985094" rel="alternate"/>
+    <published>2023-10-18T16:37:56+00:00</published>
   </entry>
 </feed>
