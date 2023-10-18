@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-10-18T04:19:02+00:00</updated>
+  <updated>2023-10-18T13:42:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7288011666397121798</id>
-    <title>HAHAHA BENERAN KYK SEPATU FUTSAL GA? BAGUS KAN TAPIIIIII?!  Ini #FentyXPuma Avanti yaa, belinya bisa di Atmos Pink, Grand Indonesia!  @atmos Indonesia🖤</title>
-    <updated>2023-10-09T17:27:32+00:00</updated>
-    <content>HAHAHA BENERAN KYK SEPATU FUTSAL GA? BAGUS KAN TAPIIIIII?!  Ini #FentyXPuma Avanti yaa, belinya bisa di Atmos Pink, Grand Indonesia!  @atmos Indonesia🖤</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7288011666397121798" rel="alternate"/>
-    <published>2023-10-09T17:27:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7288620216953736453</id>
     <title>Siapa yang suka ribet juga kalo pake eyeliner?🥲🙋🏻‍♀️ #makeup #eyeliner #WeAreMaybelline #TattooLiner48Jam #TattooLinerSuperGampangSuperTahan @maybelline_indonesia </title>
@@ -51,5 +43,13 @@
     <content>Udah siap buat ke Jepang belom?! Tungguin Vlog gue sama Iben yaaa❤️ #IbenNatKeJepang  &amp; THANK YOU @CAPRIQUES ® for alwaya doing my nails💅🏼✨ </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7291148243969314054" rel="alternate"/>
     <published>2023-10-18T04:19:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7291293375456660742</id>
+    <title>3RD OUTFIT IS DEFINITELY MY FAV🖤</title>
+    <updated>2023-10-18T13:42:13+00:00</updated>
+    <content>3RD OUTFIT IS DEFINITELY MY FAV🖤</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7291293375456660742" rel="alternate"/>
+    <published>2023-10-18T13:42:13+00:00</published>
   </entry>
 </feed>
