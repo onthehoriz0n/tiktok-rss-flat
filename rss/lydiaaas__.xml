@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@lydiaaas__</id>
   <title>lydiaaas__ TikTok</title>
-  <updated>2023-10-16T07:11:02+00:00</updated>
+  <updated>2023-10-19T06:42:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from lydiaaas__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@lydiaaas__/video/7286458214151900421</id>
-    <title>sini ke ig akuu aja </title>
-    <updated>2023-10-05T12:59:19+00:00</updated>
-    <content>sini ke ig akuu aja </content>
-    <link href="https://tiktok.com/@lydiaaas__/video/7286458214151900421" rel="alternate"/>
-    <published>2023-10-05T12:59:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@lydiaaas__/video/7286739106707557637</id>
     <title>coba aja ada yang buatin :(</title>
@@ -51,5 +43,13 @@
     <content>tinggal bikin girlband</content>
     <link href="https://tiktok.com/@lydiaaas__/video/7290450385100229894" rel="alternate"/>
     <published>2023-10-16T07:11:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@lydiaaas__/video/7291556199890259206</id>
+    <title>kenapa orang nyesel selalu akhiran ya ? 😞 #whattoplay #mlbb </title>
+    <updated>2023-10-19T06:42:07+00:00</updated>
+    <content>kenapa orang nyesel selalu akhiran ya ? 😞 #whattoplay #mlbb </content>
+    <link href="https://tiktok.com/@lydiaaas__/video/7291556199890259206" rel="alternate"/>
+    <published>2023-10-19T06:42:07+00:00</published>
   </entry>
 </feed>
