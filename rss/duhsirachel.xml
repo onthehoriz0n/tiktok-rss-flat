@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-17T13:58:07+00:00</updated>
+  <updated>2023-10-19T04:09:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7290492043917298949</id>
-    <title>ael apaansi ga bgt😭</title>
-    <updated>2023-10-16T09:52:37+00:00</updated>
-    <content>ael apaansi ga bgt😭</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7290492043917298949" rel="alternate"/>
-    <published>2023-10-16T09:52:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7290492152302292229</id>
     <title>rafael frik</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7290926393188175110" rel="alternate"/>
     <published>2023-10-17T13:58:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7291516986243239173</id>
+    <title>sbnr nya ngambil jurusan ini karna sisa yang ini doang si😇</title>
+    <updated>2023-10-19T04:09:57+00:00</updated>
+    <content>sbnr nya ngambil jurusan ini karna sisa yang ini doang si😇</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7291516986243239173" rel="alternate"/>
+    <published>2023-10-19T04:09:57+00:00</published>
   </entry>
 </feed>
