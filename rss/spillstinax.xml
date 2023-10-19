@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-10-17T08:45:49+00:00</updated>
+  <updated>2023-10-19T02:20:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from spillstinax</subtitle>
-  <entry>
-    <id>https://tiktok.com/@spillstinax/video/7288948493702450437</id>
-    <title>#moisturizerviral #glad2glow </title>
-    <updated>2023-10-12T06:02:52+00:00</updated>
-    <content>#moisturizerviral #glad2glow </content>
-    <link href="https://tiktok.com/@spillstinax/video/7288948493702450437" rel="alternate"/>
-    <published>2023-10-12T06:02:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@spillstinax/video/7289397481455045894</id>
     <title>sikhatt</title>
@@ -51,5 +43,13 @@
     <content>#facialwashviral #glad2glow </content>
     <link href="https://tiktok.com/@spillstinax/video/7290845910316174598" rel="alternate"/>
     <published>2023-10-17T08:45:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@spillstinax/video/7291488872825883910</id>
+    <title>#volcanoclaymask #glad2glow </title>
+    <updated>2023-10-19T02:20:49+00:00</updated>
+    <content>#volcanoclaymask #glad2glow </content>
+    <link href="https://tiktok.com/@spillstinax/video/7291488872825883910" rel="alternate"/>
+    <published>2023-10-19T02:20:49+00:00</published>
   </entry>
 </feed>
