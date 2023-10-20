@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-10-20T22:24:42.683586+00:00</updated>
+  <updated>2023-10-20T20:10:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7289500130825260294</id>
+    <title>look at me #gojousatoru #fyp #foryoupage </title>
+    <updated>2023-10-13T17:43:31+00:00</updated>
+    <content>look at me #gojousatoru #fyp #foryoupage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7289500130825260294" rel="alternate"/>
+    <published>2023-10-13T17:43:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7290046603732225286</id>
+    <title>#fypage </title>
+    <updated>2023-10-15T05:04:05+00:00</updated>
+    <content>#fypage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7290046603732225286" rel="alternate"/>
+    <published>2023-10-15T05:04:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7290379404327292166</id>
+    <title>morning 🥰✨ #foryou </title>
+    <updated>2023-10-16T02:35:32+00:00</updated>
+    <content>morning 🥰✨ #foryou </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7290379404327292166" rel="alternate"/>
+    <published>2023-10-16T02:35:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7290979653190208774</id>
+    <title>#halloween #black #foryou </title>
+    <updated>2023-10-17T17:24:48+00:00</updated>
+    <content>#halloween #black #foryou </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7290979653190208774" rel="alternate"/>
+    <published>2023-10-17T17:24:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7292135583864933638</id>
+    <title>Replying to @vristo cocokkkkk #bunnygirlsenpai #fyp </title>
+    <updated>2023-10-20T20:10:25+00:00</updated>
+    <content>Replying to @vristo cocokkkkk #bunnygirlsenpai #fyp </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7292135583864933638" rel="alternate"/>
+    <published>2023-10-20T20:10:25+00:00</published>
+  </entry>
 </feed>
