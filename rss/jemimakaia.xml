@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-10-20T08:27:12.050101+00:00</updated>
+  <updated>2023-10-18T10:18:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7281245729866206469</id>
+    <title>why is dark lighting the best selfies anyways hi</title>
+    <updated>2023-09-21T11:52:13+00:00</updated>
+    <content>why is dark lighting the best selfies anyways hi</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7281245729866206469" rel="alternate"/>
+    <published>2023-09-21T11:52:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7284545591701654790</id>
+    <title>tebak siapa yang dipaksa bikin trend ini😊</title>
+    <updated>2023-09-30T09:17:22+00:00</updated>
+    <content>tebak siapa yang dipaksa bikin trend ini😊</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7284545591701654790" rel="alternate"/>
+    <published>2023-09-30T09:17:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7286778892994481413</id>
+    <title>who this 😮‍💨🤣</title>
+    <updated>2023-10-06T09:43:42+00:00</updated>
+    <content>who this 😮‍💨🤣</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7286778892994481413" rel="alternate"/>
+    <published>2023-10-06T09:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7287138045172796678</id>
+    <title>PICK UR FAVV👆🏻 ft all fits are thrifted except 2nd one 🤩</title>
+    <updated>2023-10-07T08:57:27+00:00</updated>
+    <content>PICK UR FAVV👆🏻 ft all fits are thrifted except 2nd one 🤩</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7287138045172796678" rel="alternate"/>
+    <published>2023-10-07T08:57:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7291240849428581637</id>
+    <title>long time no seeeee</title>
+    <updated>2023-10-18T10:18:23+00:00</updated>
+    <content>long time no seeeee</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7291240849428581637" rel="alternate"/>
+    <published>2023-10-18T10:18:23+00:00</published>
+  </entry>
 </feed>

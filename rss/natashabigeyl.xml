@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-10-18T13:42:13+00:00</updated>
+  <updated>2023-10-20T10:27:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7290518083507080454</id>
-    <title>bener-bener go to makeup gue tiap hari, ada yang suka pake jugaa? #grwm #makeup #drugstoremakeup #makeupreview  </title>
-    <updated>2023-10-16T11:33:40+00:00</updated>
-    <content>bener-bener go to makeup gue tiap hari, ada yang suka pake jugaa? #grwm #makeup #drugstoremakeup #makeupreview  </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7290518083507080454" rel="alternate"/>
-    <published>2023-10-16T11:33:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7290571889821388038</id>
-    <title>buat daily makeup ini okeeee bgt sihh, ada yg udh coba?! @makeoverid #powderfoundation #reviewmakeup #grwm #grwmmakeup </title>
-    <updated>2023-10-16T15:02:29+00:00</updated>
-    <content>buat daily makeup ini okeeee bgt sihh, ada yg udh coba?! @makeoverid #powderfoundation #reviewmakeup #grwm #grwmmakeup </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7290571889821388038" rel="alternate"/>
-    <published>2023-10-16T15:02:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7290944115385322757</id>
     <title>Rempongggg bgt beli celana panjang doang🥲 @Iben M.A. #IbenNatKeJepang </title>
@@ -51,5 +35,21 @@
     <content>3RD OUTFIT IS DEFINITELY MY FAV🖤</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7291293375456660742" rel="alternate"/>
     <published>2023-10-18T13:42:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7291970725508812033</id>
+    <title>Ini definisi GEDEEEEE sih, gemessss bgt tp!!!🥺🥺 @tellavision @Winona </title>
+    <updated>2023-10-20T09:30:42+00:00</updated>
+    <content>Ini definisi GEDEEEEE sih, gemessss bgt tp!!!🥺🥺 @tellavision @Winona </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7291970725508812033" rel="alternate"/>
+    <published>2023-10-20T09:30:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7291985347809004802</id>
+    <title>siapa yg punya masalah sama setiap lg rajin olahraga?🥲 @clearindonesia #CLEARINAJA #CLEARdandruffexpert</title>
+    <updated>2023-10-20T10:27:27+00:00</updated>
+    <content>siapa yg punya masalah sama setiap lg rajin olahraga?🥲 @clearindonesia #CLEARINAJA #CLEARdandruffexpert</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7291985347809004802" rel="alternate"/>
+    <published>2023-10-20T10:27:27+00:00</published>
   </entry>
 </feed>
