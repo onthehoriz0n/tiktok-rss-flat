@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-10-20T20:10:25+00:00</updated>
+  <updated>2023-10-21T05:59:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7289500130825260294</id>
-    <title>look at me #gojousatoru #fyp #foryoupage </title>
-    <updated>2023-10-13T17:43:31+00:00</updated>
-    <content>look at me #gojousatoru #fyp #foryoupage </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7289500130825260294" rel="alternate"/>
-    <published>2023-10-13T17:43:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7290046603732225286</id>
     <title>#fypage </title>
@@ -51,5 +43,13 @@
     <content>Replying to @vristo cocokkkkk #bunnygirlsenpai #fyp </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7292135583864933638" rel="alternate"/>
     <published>2023-10-20T20:10:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7292287400678591749</id>
+    <title>lebih suka yang mana?? #foru #myboyfriendhas2girlfriends #fypageシ #cosplay #cosplayer #bunny </title>
+    <updated>2023-10-21T05:59:33+00:00</updated>
+    <content>lebih suka yang mana?? #foru #myboyfriendhas2girlfriends #fypageシ #cosplay #cosplayer #bunny </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7292287400678591749" rel="alternate"/>
+    <published>2023-10-21T05:59:33+00:00</published>
   </entry>
 </feed>
