@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@choufeer</id>
   <title>choufeer TikTok</title>
-  <updated>2023-10-17T15:00:02+00:00</updated>
+  <updated>2023-10-21T05:34:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from choufeer</subtitle>
-  <entry>
-    <id>https://tiktok.com/@choufeer/video/7287999530300099845</id>
-    <title>@Heho🍓 </title>
-    <updated>2023-10-09T16:40:24+00:00</updated>
-    <content>@Heho🍓 </content>
-    <link href="https://tiktok.com/@choufeer/video/7287999530300099845" rel="alternate"/>
-    <published>2023-10-09T16:40:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@choufeer/video/7288212635198196997</id>
     <title>@Heho🍓 </title>
@@ -51,5 +43,13 @@
     <content>@D </content>
     <link href="https://tiktok.com/@choufeer/video/7290942347393649926" rel="alternate"/>
     <published>2023-10-17T15:00:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@choufeer/video/7292280812416929029</id>
+    <title>racunnya zizah, jd suka juga sama truffle biomenya @skintific_id </title>
+    <updated>2023-10-21T05:34:00+00:00</updated>
+    <content>racunnya zizah, jd suka juga sama truffle biomenya @skintific_id </content>
+    <link href="https://tiktok.com/@choufeer/video/7292280812416929029" rel="alternate"/>
+    <published>2023-10-21T05:34:00+00:00</published>
   </entry>
 </feed>
