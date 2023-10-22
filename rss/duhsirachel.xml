@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-21T13:57:53+00:00</updated>
+  <updated>2023-10-22T05:23:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7290517330562452741</id>
-    <title>suka banget sama make up kali inii💗</title>
-    <updated>2023-10-16T11:30:46+00:00</updated>
-    <content>suka banget sama make up kali inii💗</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7290517330562452741" rel="alternate"/>
-    <published>2023-10-16T11:30:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7290926393188175110</id>
-    <title>No Title</title>
-    <updated>2023-10-17T13:58:07+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7290926393188175110" rel="alternate"/>
-    <published>2023-10-17T13:58:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7291516986243239173</id>
-    <title>sbnr nya ngambil jurusan ini karna sisa yang ini doang si😇</title>
-    <updated>2023-10-19T04:09:57+00:00</updated>
-    <content>sbnr nya ngambil jurusan ini karna sisa yang ini doang si😇</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7291516986243239173" rel="alternate"/>
-    <published>2023-10-19T04:09:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7292328765869411590</id>
     <title>ngasal bgt kepala nya</title>
@@ -51,5 +27,29 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7292410672183282950" rel="alternate"/>
     <published>2023-10-21T13:57:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7292640920032693509</id>
+    <title>di video ini jaim bgt, makannya awal nya di draft😀</title>
+    <updated>2023-10-22T04:51:24+00:00</updated>
+    <content>di video ini jaim bgt, makannya awal nya di draft😀</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7292640920032693509" rel="alternate"/>
+    <published>2023-10-22T04:51:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7292648413517057286</id>
+    <title>baru mandi ini</title>
+    <updated>2023-10-22T05:20:27+00:00</updated>
+    <content>baru mandi ini</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7292648413517057286" rel="alternate"/>
+    <published>2023-10-22T05:20:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7292649125160439045</id>
+    <title>kangen char</title>
+    <updated>2023-10-22T05:23:14+00:00</updated>
+    <content>kangen char</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7292649125160439045" rel="alternate"/>
+    <published>2023-10-22T05:23:14+00:00</published>
   </entry>
 </feed>
