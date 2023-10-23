@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-22T05:23:14+00:00</updated>
+  <updated>2023-10-23T13:12:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7291516986243239173</id>
-    <title>sbnr nya ngambil jurusan ini karna sisa yang ini doang si😇</title>
-    <updated>2023-10-19T04:09:57+00:00</updated>
-    <content>sbnr nya ngambil jurusan ini karna sisa yang ini doang si😇</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7291516986243239173" rel="alternate"/>
-    <published>2023-10-19T04:09:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7292328765869411590</id>
-    <title>ngasal bgt kepala nya</title>
-    <updated>2023-10-21T08:40:04+00:00</updated>
-    <content>ngasal bgt kepala nya</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7292328765869411590" rel="alternate"/>
-    <published>2023-10-21T08:40:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7292410672183282950</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>kangen char</content>
     <link href="https://tiktok.com/@duhsirachel/video/7292649125160439045" rel="alternate"/>
     <published>2023-10-22T05:23:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7293110488873929990</id>
+    <title>go and get in the orange apps🫶🏻</title>
+    <updated>2023-10-23T11:13:33+00:00</updated>
+    <content>go and get in the orange apps🫶🏻</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7293110488873929990" rel="alternate"/>
+    <published>2023-10-23T11:13:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7293141114201050374</id>
+    <title>abis ini gabisa tidur ya dot</title>
+    <updated>2023-10-23T13:12:21+00:00</updated>
+    <content>abis ini gabisa tidur ya dot</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7293141114201050374" rel="alternate"/>
+    <published>2023-10-23T13:12:21+00:00</published>
   </entry>
 </feed>
