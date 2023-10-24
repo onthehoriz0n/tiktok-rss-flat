@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-10-21T11:44:01+00:00</updated>
+  <updated>2023-10-24T10:10:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7290928938761620741</id>
-    <title>versi solo dulu</title>
-    <updated>2023-10-17T14:08:00+00:00</updated>
-    <content>versi solo dulu</content>
-    <link href="https://tiktok.com/@another.ell/video/7290928938761620741" rel="alternate"/>
-    <published>2023-10-17T14:08:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7290948452673015046</id>
-    <title>member aespa dimimpi💅🏻</title>
-    <updated>2023-10-17T15:23:44+00:00</updated>
-    <content>member aespa dimimpi💅🏻</content>
-    <link href="https://tiktok.com/@another.ell/video/7290948452673015046" rel="alternate"/>
-    <published>2023-10-17T15:23:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7291338658420985094</id>
     <title>lagii💅🏻</title>
@@ -51,5 +35,21 @@
     <content>instant hourglass body with #bodyshaperternyaman !!😭🫶🏻 #chessbodyshaper </content>
     <link href="https://tiktok.com/@another.ell/video/7292376171910565125" rel="alternate"/>
     <published>2023-10-21T11:44:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7293462037982612741</id>
+    <title>nyore</title>
+    <updated>2023-10-24T09:57:43+00:00</updated>
+    <content>nyore</content>
+    <link href="https://tiktok.com/@another.ell/video/7293462037982612741" rel="alternate"/>
+    <published>2023-10-24T09:57:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7293465409536281862</id>
+    <title>ada bocil ngintip</title>
+    <updated>2023-10-24T10:10:49+00:00</updated>
+    <content>ada bocil ngintip</content>
+    <link href="https://tiktok.com/@another.ell/video/7293465409536281862" rel="alternate"/>
+    <published>2023-10-24T10:10:49+00:00</published>
   </entry>
 </feed>
