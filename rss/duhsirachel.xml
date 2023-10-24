@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-23T13:12:21+00:00</updated>
+  <updated>2023-10-24T01:21:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7292410672183282950</id>
-    <title>No Title</title>
-    <updated>2023-10-21T13:57:53+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7292410672183282950" rel="alternate"/>
-    <published>2023-10-21T13:57:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7292648413517057286</id>
     <title>baru mandi ini</title>
@@ -51,5 +43,13 @@
     <content>abis ini gabisa tidur ya dot</content>
     <link href="https://tiktok.com/@duhsirachel/video/7293141114201050374" rel="alternate"/>
     <published>2023-10-23T13:12:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7293328959461264645</id>
+    <title>gbs</title>
+    <updated>2023-10-24T01:21:19+00:00</updated>
+    <content>gbs</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7293328959461264645" rel="alternate"/>
+    <published>2023-10-24T01:21:19+00:00</published>
   </entry>
 </feed>
