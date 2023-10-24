@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-10-24T10:10:49+00:00</updated>
+  <updated>2023-10-24T15:23:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7291338658420985094</id>
-    <title>lagii💅🏻</title>
-    <updated>2023-10-18T16:37:56+00:00</updated>
-    <content>lagii💅🏻</content>
-    <link href="https://tiktok.com/@another.ell/video/7291338658420985094" rel="alternate"/>
-    <published>2023-10-18T16:37:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7291690058728426758</id>
-    <title>No Title</title>
-    <updated>2023-10-19T15:21:33+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@another.ell/video/7291690058728426758" rel="alternate"/>
-    <published>2023-10-19T15:21:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7292376171910565125</id>
     <title>instant hourglass body with #bodyshaperternyaman !!😭🫶🏻 #chessbodyshaper </title>
@@ -51,5 +35,21 @@
     <content>ada bocil ngintip</content>
     <link href="https://tiktok.com/@another.ell/video/7293465409536281862" rel="alternate"/>
     <published>2023-10-24T10:10:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7293498590981377286</id>
+    <title>part 2</title>
+    <updated>2023-10-24T12:19:34+00:00</updated>
+    <content>part 2</content>
+    <link href="https://tiktok.com/@another.ell/video/7293498590981377286" rel="alternate"/>
+    <published>2023-10-24T12:19:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7293546039083060486</id>
+    <title>banting aja jo</title>
+    <updated>2023-10-24T15:23:41+00:00</updated>
+    <content>banting aja jo</content>
+    <link href="https://tiktok.com/@another.ell/video/7293546039083060486" rel="alternate"/>
+    <published>2023-10-24T15:23:41+00:00</published>
   </entry>
 </feed>
