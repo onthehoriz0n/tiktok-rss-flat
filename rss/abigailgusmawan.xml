@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-10-17T10:00:02+00:00</updated>
+  <updated>2023-10-26T16:27:47.875481+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7280136304459926790</id>
-    <title>ig saw it first</title>
-    <updated>2023-09-18T12:07:05+00:00</updated>
-    <content>ig saw it first</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7280136304459926790" rel="alternate"/>
-    <published>2023-09-18T12:07:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7280873888370674950</id>
-    <title>konsepnya gemeyyy🌸</title>
-    <updated>2023-09-20T11:49:16+00:00</updated>
-    <content>konsepnya gemeyyy🌸</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7280873888370674950" rel="alternate"/>
-    <published>2023-09-20T11:49:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7281884484083944710</id>
-    <title>LELAAAAH</title>
-    <updated>2023-09-23T05:10:55+00:00</updated>
-    <content>LELAAAAH</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7281884484083944710" rel="alternate"/>
-    <published>2023-09-23T05:10:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7289921700257385733</id>
-    <title>gak pernah berambisi untuk kaya, selalu berharap bisa jadi perpanjangan tangan yang di atas aja. jangan lupa bersyukur ya hari ini</title>
-    <updated>2023-10-14T20:59:25+00:00</updated>
-    <content>gak pernah berambisi untuk kaya, selalu berharap bisa jadi perpanjangan tangan yang di atas aja. jangan lupa bersyukur ya hari ini</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7289921700257385733" rel="alternate"/>
-    <published>2023-10-14T20:59:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7290865034010496262</id>
-    <title>cantik bgt tmen gw ada yg mao ga</title>
-    <updated>2023-10-17T10:00:02+00:00</updated>
-    <content>cantik bgt tmen gw ada yg mao ga</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7290865034010496262" rel="alternate"/>
-    <published>2023-10-17T10:00:02+00:00</published>
-  </entry>
 </feed>
