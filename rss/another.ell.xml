@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-10-24T15:23:41+00:00</updated>
+  <updated>2023-10-26T09:27:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7292376171910565125</id>
-    <title>instant hourglass body with #bodyshaperternyaman !!😭🫶🏻 #chessbodyshaper </title>
-    <updated>2023-10-21T11:44:01+00:00</updated>
-    <content>instant hourglass body with #bodyshaperternyaman !!😭🫶🏻 #chessbodyshaper </content>
-    <link href="https://tiktok.com/@another.ell/video/7292376171910565125" rel="alternate"/>
-    <published>2023-10-21T11:44:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7293462037982612741</id>
     <title>nyore</title>
@@ -51,5 +43,13 @@
     <content>banting aja jo</content>
     <link href="https://tiktok.com/@another.ell/video/7293546039083060486" rel="alternate"/>
     <published>2023-10-24T15:23:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7294196445970795782</id>
+    <title>wkwk</title>
+    <updated>2023-10-26T09:27:38+00:00</updated>
+    <content>wkwk</content>
+    <link href="https://tiktok.com/@another.ell/video/7294196445970795782" rel="alternate"/>
+    <published>2023-10-26T09:27:38+00:00</published>
   </entry>
 </feed>
