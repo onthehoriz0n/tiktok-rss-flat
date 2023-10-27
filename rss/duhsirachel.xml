@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-10-25T09:15:03+00:00</updated>
+  <updated>2023-10-27T14:13:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7293141114201050374</id>
-    <title>abis ini gabisa tidur ya dot</title>
-    <updated>2023-10-23T13:12:21+00:00</updated>
-    <content>abis ini gabisa tidur ya dot</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7293141114201050374" rel="alternate"/>
-    <published>2023-10-23T13:12:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7293328959461264645</id>
-    <title>gbs</title>
-    <updated>2023-10-24T01:21:19+00:00</updated>
-    <content>gbs</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7293328959461264645" rel="alternate"/>
-    <published>2023-10-24T01:21:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7293462780533935366</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>hm</content>
     <link href="https://tiktok.com/@duhsirachel/video/7293822118221860102" rel="alternate"/>
     <published>2023-10-25T09:15:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7294584310277868806</id>
+    <title>No Title</title>
+    <updated>2023-10-27T10:32:43+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7294584310277868806" rel="alternate"/>
+    <published>2023-10-27T10:32:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7294641177301634310</id>
+    <title>No Title</title>
+    <updated>2023-10-27T14:13:23+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7294641177301634310" rel="alternate"/>
+    <published>2023-10-27T14:13:23+00:00</published>
   </entry>
 </feed>
