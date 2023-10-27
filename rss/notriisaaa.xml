@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@notriisaaa</id>
   <title>notriisaaa TikTok</title>
-  <updated>2023-10-11T08:53:57+00:00</updated>
+  <updated>2023-10-27T17:06:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from notriisaaa</subtitle>
-  <entry>
-    <id>https://tiktok.com/@notriisaaa/video/7281150774552300806</id>
-    <title>No Title</title>
-    <updated>2023-09-21T05:43:45+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@notriisaaa/video/7281150774552300806" rel="alternate"/>
-    <published>2023-09-21T05:43:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@notriisaaa/video/7284193496007822597</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@notriisaaa/video/7288621497097129221" rel="alternate"/>
     <published>2023-10-11T08:53:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@notriisaaa/video/7294685729450396934</id>
+    <title>@Whatever 🤍✨</title>
+    <updated>2023-10-27T17:06:17+00:00</updated>
+    <content>@Whatever 🤍✨</content>
+    <link href="https://tiktok.com/@notriisaaa/video/7294685729450396934" rel="alternate"/>
+    <published>2023-10-27T17:06:17+00:00</published>
   </entry>
 </feed>
