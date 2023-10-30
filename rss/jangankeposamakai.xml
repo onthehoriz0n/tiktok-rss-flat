@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-10-29T20:00:22+00:00</updated>
+  <updated>2023-10-25T14:44:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7292287400678591749</id>
+    <title>lebih suka yang mana?? #foru #myboyfriendhas2girlfriends #fypageシ #cosplay #cosplayer #bunny </title>
+    <updated>2023-10-21T05:59:33+00:00</updated>
+    <content>lebih suka yang mana?? #foru #myboyfriendhas2girlfriends #fypageシ #cosplay #cosplayer #bunny </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7292287400678591749" rel="alternate"/>
+    <published>2023-10-21T05:59:33+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7293013765358898438</id>
     <title>Do u love bunny?? #foryoupage #foruyou #bunnygirlcosplay </title>
@@ -43,13 +51,5 @@
     <content>#hallowen #cleopatra #fyp #transisimakeup </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7293906946598489350" rel="alternate"/>
     <published>2023-10-25T14:44:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7295472758488681734</id>
-    <title>#fyp </title>
-    <updated>2023-10-29T20:00:22+00:00</updated>
-    <content>#fyp </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7295472758488681734" rel="alternate"/>
-    <published>2023-10-29T20:00:22+00:00</published>
   </entry>
 </feed>
