@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-10-29T09:25:45+00:00</updated>
+  <updated>2023-10-29T13:34:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7284545591701654790</id>
-    <title>tebak siapa yang dipaksa bikin trend ini😊</title>
-    <updated>2023-09-30T09:17:22+00:00</updated>
-    <content>tebak siapa yang dipaksa bikin trend ini😊</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7284545591701654790" rel="alternate"/>
-    <published>2023-09-30T09:17:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7286778892994481413</id>
     <title>who this 😮‍💨🤣</title>
@@ -51,5 +43,13 @@
     <content>his one and only playboy bunny</content>
     <link href="https://tiktok.com/@jemimakaia/video/7295309224777649413" rel="alternate"/>
     <published>2023-10-29T09:25:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7295373410765458693</id>
+    <title>Get ready with me to the airport! ✈️ Kalau mau long flight harus banget pakai pakaian yang nyaman, apalagi bra. Kali ini aku pakai Wireless Bra Ultra Relax dari @UNIQLO Indonesia karena suuuper comfy 🤏🏼 Buruan ke store UNIQLO terdekat atau UNIQLO.COM dan </title>
+    <updated>2023-10-29T13:34:50+00:00</updated>
+    <content>Get ready with me to the airport! ✈️ Kalau mau long flight harus banget pakai pakaian yang nyaman, apalagi bra. Kali ini aku pakai Wireless Bra Ultra Relax dari @UNIQLO Indonesia karena suuuper comfy 🤏🏼 Buruan ke store UNIQLO terdekat atau UNIQLO.COM dan rasain sendiri kenyamanannya!  #feelthefreedom #UniqloIndonesia </content>
+    <link href="https://tiktok.com/@jemimakaia/video/7295373410765458693" rel="alternate"/>
+    <published>2023-10-29T13:34:50+00:00</published>
   </entry>
 </feed>
