@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-01T09:19:43+00:00</updated>
+  <updated>2023-11-03T00:42:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7295571912917372166</id>
-    <title>bli bli</title>
-    <updated>2023-10-30T02:25:08+00:00</updated>
-    <content>bli bli</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7295571912917372166" rel="alternate"/>
-    <published>2023-10-30T02:25:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7295572043058269446</id>
     <title>bali bgt anaknya</title>
@@ -51,5 +43,13 @@
     <content>cm 2</content>
     <link href="https://tiktok.com/@duhsirachel/video/7296420924054572294" rel="alternate"/>
     <published>2023-11-01T09:19:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7297029854359244038</id>
+    <title>bare face lebih ke mager make up</title>
+    <updated>2023-11-03T00:42:41+00:00</updated>
+    <content>bare face lebih ke mager make up</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7297029854359244038" rel="alternate"/>
+    <published>2023-11-03T00:42:41+00:00</published>
   </entry>
 </feed>
