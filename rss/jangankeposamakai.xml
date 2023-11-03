@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-03T05:19:49+00:00</updated>
+  <updated>2023-11-03T12:58:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7293409419570859270</id>
-    <title>dance with me #fyp #cleopatra #sway #fypシ </title>
-    <updated>2023-10-24T06:33:34+00:00</updated>
-    <content>dance with me #fyp #cleopatra #sway #fypシ </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7293409419570859270" rel="alternate"/>
-    <published>2023-10-24T06:33:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7293906946598489350</id>
     <title>#hallowen #cleopatra #fyp #transisimakeup </title>
@@ -51,5 +43,13 @@
     <content>#hilangkadangkutakenalkuhanyadiam </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7297101271088106757" rel="alternate"/>
     <published>2023-11-03T05:19:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7297219581330885893</id>
+    <title>Kai mode cheongsam 🥰 #chinese #china #transition #cheongsam #greddy #jangankeposamakai </title>
+    <updated>2023-11-03T12:58:55+00:00</updated>
+    <content>Kai mode cheongsam 🥰 #chinese #china #transition #cheongsam #greddy #jangankeposamakai </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7297219581330885893" rel="alternate"/>
+    <published>2023-11-03T12:58:55+00:00</published>
   </entry>
 </feed>
