@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-02T15:29:33+00:00</updated>
+  <updated>2023-11-03T05:19:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7293409419570859270</id>
+    <title>dance with me #fyp #cleopatra #sway #fypシ </title>
+    <updated>2023-10-24T06:33:34+00:00</updated>
+    <content>dance with me #fyp #cleopatra #sway #fypシ </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7293409419570859270" rel="alternate"/>
+    <published>2023-10-24T06:33:34+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7293906946598489350</id>
     <title>#hallowen #cleopatra #fyp #transisimakeup </title>
@@ -29,27 +37,19 @@
     <published>2023-11-01T10:59:03+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7296668982336130309</id>
-    <title>pipi jgn malahh2 #fypシ #tiktok #lpsync </title>
-    <updated>2023-11-02T01:22:19+00:00</updated>
-    <content>pipi jgn malahh2 #fypシ #tiktok #lpsync </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7296668982336130309" rel="alternate"/>
-    <published>2023-11-02T01:22:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7296744350229302534</id>
-    <title>lagu nya candu 😆 #foryourpage #sitibadriah #mimipipi </title>
-    <updated>2023-11-02T06:14:47+00:00</updated>
-    <content>lagu nya candu 😆 #foryourpage #sitibadriah #mimipipi </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7296744350229302534" rel="alternate"/>
-    <published>2023-11-02T06:14:47+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7296887309822201093</id>
     <title>i love you! #budebuai #inquisitive #cheongsan #china #chinese #foryou </title>
     <updated>2023-11-02T15:29:33+00:00</updated>
     <content>i love you! #budebuai #inquisitive #cheongsan #china #chinese #foryou </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7296887309822201093" rel="alternate"/>
     <published>2023-11-02T15:29:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7297101271088106757</id>
+    <title>#hilangkadangkutakenalkuhanyadiam </title>
+    <updated>2023-11-03T05:19:49+00:00</updated>
+    <content>#hilangkadangkutakenalkuhanyadiam </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7297101271088106757" rel="alternate"/>
+    <published>2023-11-03T05:19:49+00:00</published>
   </entry>
 </feed>
