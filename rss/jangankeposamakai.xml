@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-03T12:58:55+00:00</updated>
+  <updated>2023-11-04T00:56:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7293906946598489350</id>
-    <title>#hallowen #cleopatra #fyp #transisimakeup </title>
-    <updated>2023-10-25T14:44:11+00:00</updated>
-    <content>#hallowen #cleopatra #fyp #transisimakeup </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7293906946598489350" rel="alternate"/>
-    <published>2023-10-25T14:44:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7296446520432315654</id>
     <title>#fyp </title>
@@ -51,5 +43,13 @@
     <content>Kai mode cheongsam 🥰 #chinese #china #transition #cheongsam #greddy #jangankeposamakai </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7297219581330885893" rel="alternate"/>
     <published>2023-11-03T12:58:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7297404556118445317</id>
+    <title>auto kena mental 😓 #fypage </title>
+    <updated>2023-11-04T00:56:44+00:00</updated>
+    <content>auto kena mental 😓 #fypage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7297404556118445317" rel="alternate"/>
+    <published>2023-11-04T00:56:44+00:00</published>
   </entry>
 </feed>
