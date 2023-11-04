@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-11-04T02:28:20.474928+00:00</updated>
+  <updated>2023-11-04T09:08:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7290095612404468997</id>
+    <title>No Title</title>
+    <updated>2023-10-15T08:14:17+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@bailafauri/video/7290095612404468997" rel="alternate"/>
+    <published>2023-10-15T08:14:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7294915630006897925</id>
+    <title>🧜🏻‍♀️ idk why the ending got cut out i’m sorry😭</title>
+    <updated>2023-10-28T07:58:25+00:00</updated>
+    <content>🧜🏻‍♀️ idk why the ending got cut out i’m sorry😭</content>
+    <link href="https://tiktok.com/@bailafauri/video/7294915630006897925" rel="alternate"/>
+    <published>2023-10-28T07:58:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7295281775318666502</id>
+    <title>No Title</title>
+    <updated>2023-10-29T07:39:14+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@bailafauri/video/7295281775318666502" rel="alternate"/>
+    <published>2023-10-29T07:39:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7296393979506052358</id>
+    <title>jogja bound</title>
+    <updated>2023-11-01T07:35:11+00:00</updated>
+    <content>jogja bound</content>
+    <link href="https://tiktok.com/@bailafauri/video/7296393979506052358" rel="alternate"/>
+    <published>2023-11-01T07:35:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7297531266012925190</id>
+    <title>i miss ya</title>
+    <updated>2023-11-04T09:08:26+00:00</updated>
+    <content>i miss ya</content>
+    <link href="https://tiktok.com/@bailafauri/video/7297531266012925190" rel="alternate"/>
+    <published>2023-11-04T09:08:26+00:00</published>
+  </entry>
 </feed>
