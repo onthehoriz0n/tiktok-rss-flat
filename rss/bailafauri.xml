@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-11-05T13:32:35+00:00</updated>
+  <updated>2023-11-07T02:51:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7294915630006897925</id>
-    <title>🧜🏻‍♀️ idk why the ending got cut out i’m sorry😭</title>
-    <updated>2023-10-28T07:58:25+00:00</updated>
-    <content>🧜🏻‍♀️ idk why the ending got cut out i’m sorry😭</content>
-    <link href="https://tiktok.com/@bailafauri/video/7294915630006897925" rel="alternate"/>
-    <published>2023-10-28T07:58:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7295281775318666502</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Sori</content>
     <link href="https://tiktok.com/@bailafauri/video/7297970424535731462" rel="alternate"/>
     <published>2023-11-05T13:32:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7298547405627182342</id>
+    <title>kamari i feel sorry for what you have to deal woth when you get older 💋</title>
+    <updated>2023-11-07T02:51:34+00:00</updated>
+    <content>kamari i feel sorry for what you have to deal woth when you get older 💋</content>
+    <link href="https://tiktok.com/@bailafauri/video/7298547405627182342" rel="alternate"/>
+    <published>2023-11-07T02:51:34+00:00</published>
   </entry>
 </feed>
