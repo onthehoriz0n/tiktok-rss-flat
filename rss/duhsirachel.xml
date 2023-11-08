@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-07T14:22:49+00:00</updated>
+  <updated>2023-11-08T03:11:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7297029854359244038</id>
-    <title>bare face lebih ke mager make up</title>
-    <updated>2023-11-03T00:42:41+00:00</updated>
-    <content>bare face lebih ke mager make up</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7297029854359244038" rel="alternate"/>
-    <published>2023-11-03T00:42:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7297165047191670021</id>
-    <title>No Title</title>
-    <updated>2023-11-03T09:27:20+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7297165047191670021" rel="alternate"/>
-    <published>2023-11-03T09:27:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7297167020376771846</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>lupa 60 detikk</content>
     <link href="https://tiktok.com/@duhsirachel/video/7298725544068205829" rel="alternate"/>
     <published>2023-11-07T14:22:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7298918957841501445</id>
+    <title>otw nyoblos ketos</title>
+    <updated>2023-11-08T02:53:23+00:00</updated>
+    <content>otw nyoblos ketos</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7298918957841501445" rel="alternate"/>
+    <published>2023-11-08T02:53:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7298923516441791749</id>
+    <title>jangan lupa coblos acel sbgai...</title>
+    <updated>2023-11-08T03:11:04+00:00</updated>
+    <content>jangan lupa coblos acel sbgai...</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7298923516441791749" rel="alternate"/>
+    <published>2023-11-08T03:11:04+00:00</published>
   </entry>
 </feed>
