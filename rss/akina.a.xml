@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-11-05T08:26:08+00:00</updated>
+  <updated>2023-11-09T07:36:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7292346628596305158</id>
-    <title>No Title</title>
-    <updated>2023-10-21T09:49:21+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7292346628596305158" rel="alternate"/>
-    <published>2023-10-21T09:49:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7294923808996117765</id>
-    <title>@MOIR-SALON buka cabang di Balii!🦋😍 #salonbali #moirsalon #moirsalonbali </title>
-    <updated>2023-10-28T08:30:09+00:00</updated>
-    <content>@MOIR-SALON buka cabang di Balii!🦋😍 #salonbali #moirsalon #moirsalonbali </content>
-    <link href="https://tiktok.com/@akina.a/video/7294923808996117765" rel="alternate"/>
-    <published>2023-10-28T08:30:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7296395178540109061</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@akina.a/video/7297891448219913477" rel="alternate"/>
     <published>2023-11-05T08:26:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7299361940739050758</id>
+    <title>Sorry luffy, my heart belongs to Aokiji😌 #onepiece #boahankock #aokiji </title>
+    <updated>2023-11-09T07:32:23+00:00</updated>
+    <content>Sorry luffy, my heart belongs to Aokiji😌 #onepiece #boahankock #aokiji </content>
+    <link href="https://tiktok.com/@akina.a/video/7299361940739050758" rel="alternate"/>
+    <published>2023-11-09T07:32:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7299362951616564485</id>
+    <title>My first cosplay🤍 #onepiece #boahankock </title>
+    <updated>2023-11-09T07:36:17+00:00</updated>
+    <content>My first cosplay🤍 #onepiece #boahankock </content>
+    <link href="https://tiktok.com/@akina.a/video/7299362951616564485" rel="alternate"/>
+    <published>2023-11-09T07:36:17+00:00</published>
   </entry>
 </feed>
