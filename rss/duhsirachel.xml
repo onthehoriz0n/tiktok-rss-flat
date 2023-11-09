@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-08T10:25:00+00:00</updated>
+  <updated>2023-11-09T01:53:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7298725544068205829</id>
-    <title>lupa 60 detikk</title>
-    <updated>2023-11-07T14:22:49+00:00</updated>
-    <content>lupa 60 detikk</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7298725544068205829" rel="alternate"/>
-    <published>2023-11-07T14:22:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7298918957841501445</id>
     <title>otw nyoblos ketos</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7299035341397200134" rel="alternate"/>
     <published>2023-11-08T10:25:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7299274606341295366</id>
+    <title>oi kehabisan sound dc</title>
+    <updated>2023-11-09T01:53:28+00:00</updated>
+    <content>oi kehabisan sound dc</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7299274606341295366" rel="alternate"/>
+    <published>2023-11-09T01:53:28+00:00</published>
   </entry>
 </feed>
