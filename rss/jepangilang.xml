@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jepangilang</id>
   <title>jepangilang TikTok</title>
-  <updated>2023-11-08T17:06:09+00:00</updated>
+  <updated>2023-11-09T03:22:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7296061288239598853</id>
-    <title>halloween ‘23👻</title>
-    <updated>2023-10-31T10:04:09+00:00</updated>
-    <content>halloween ‘23👻</content>
-    <link href="https://tiktok.com/@jepangilang/video/7296061288239598853" rel="alternate"/>
-    <published>2023-10-31T10:04:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jepangilang/video/7297549395745131782</id>
-    <title>No Title</title>
-    <updated>2023-11-04T10:18:46+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@jepangilang/video/7297549395745131782" rel="alternate"/>
-    <published>2023-11-04T10:18:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7297931456888835333</id>
     <title>hope i found my rocky soon</title>
@@ -51,5 +35,21 @@
     <content>heyyyyy</content>
     <link href="https://tiktok.com/@jepangilang/video/7299138718839868677" rel="alternate"/>
     <published>2023-11-08T17:06:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7299294844898249990</id>
+    <title>No Title</title>
+    <updated>2023-11-09T03:12:00+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jepangilang/video/7299294844898249990" rel="alternate"/>
+    <published>2023-11-09T03:12:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7299297591903243526</id>
+    <title>bu ika🫰🏻</title>
+    <updated>2023-11-09T03:22:39+00:00</updated>
+    <content>bu ika🫰🏻</content>
+    <link href="https://tiktok.com/@jepangilang/video/7299297591903243526" rel="alternate"/>
+    <published>2023-11-09T03:22:39+00:00</published>
   </entry>
 </feed>
