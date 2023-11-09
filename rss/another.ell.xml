@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-11-08T14:18:16+00:00</updated>
+  <updated>2023-11-09T16:38:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7294615580286668037</id>
-    <title>candu dancenya🤌</title>
-    <updated>2023-10-27T12:34:03+00:00</updated>
-    <content>candu dancenya🤌</content>
-    <link href="https://tiktok.com/@another.ell/video/7294615580286668037" rel="alternate"/>
-    <published>2023-10-27T12:34:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7295021820963458309</id>
     <title>💀 #halloween </title>
@@ -51,5 +43,13 @@
     <content>asiq</content>
     <link href="https://tiktok.com/@another.ell/video/7299095457073089798" rel="alternate"/>
     <published>2023-11-08T14:18:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7299502652419804421</id>
+    <title>ga janji terakhir</title>
+    <updated>2023-11-09T16:38:24+00:00</updated>
+    <content>ga janji terakhir</content>
+    <link href="https://tiktok.com/@another.ell/video/7299502652419804421" rel="alternate"/>
+    <published>2023-11-09T16:38:24+00:00</published>
   </entry>
 </feed>
