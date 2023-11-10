@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-09T14:50:04+00:00</updated>
+  <updated>2023-11-10T23:06:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7299035341397200134</id>
-    <title>No Title</title>
-    <updated>2023-11-08T10:25:00+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7299035341397200134" rel="alternate"/>
-    <published>2023-11-08T10:25:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7299274606341295366</id>
     <title>oi kehabisan sound dc</title>
@@ -51,5 +43,13 @@
     <content>kluarin smua draft</content>
     <link href="https://tiktok.com/@duhsirachel/video/7299474734083837189" rel="alternate"/>
     <published>2023-11-09T14:50:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7299973721530387718</id>
+    <title>gangerti lagi😭</title>
+    <updated>2023-11-10T23:06:25+00:00</updated>
+    <content>gangerti lagi😭</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7299973721530387718" rel="alternate"/>
+    <published>2023-11-10T23:06:25+00:00</published>
   </entry>
 </feed>
