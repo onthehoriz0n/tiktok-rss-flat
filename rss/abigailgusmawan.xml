@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-11-09T07:21:06+00:00</updated>
+  <updated>2023-11-11T14:37:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7289921700257385733</id>
-    <title>gak pernah berambisi untuk kaya, selalu berharap bisa jadi perpanjangan tangan yang di atas aja. jangan lupa bersyukur ya hari ini</title>
-    <updated>2023-10-14T20:59:25+00:00</updated>
-    <content>gak pernah berambisi untuk kaya, selalu berharap bisa jadi perpanjangan tangan yang di atas aja. jangan lupa bersyukur ya hari ini</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7289921700257385733" rel="alternate"/>
-    <published>2023-10-14T20:59:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7290865034010496262</id>
     <title>cantik bgt tmen gw ada yg mao ga</title>
@@ -51,5 +43,13 @@
     <content>the only time i feel safeee</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7299359027685887237" rel="alternate"/>
     <published>2023-11-09T07:21:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7300213756494138629</id>
+    <title>bayar tagihan listrik air wifi bensin etoll</title>
+    <updated>2023-11-11T14:37:51+00:00</updated>
+    <content>bayar tagihan listrik air wifi bensin etoll</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7300213756494138629" rel="alternate"/>
+    <published>2023-11-11T14:37:51+00:00</published>
   </entry>
 </feed>
