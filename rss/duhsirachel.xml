@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-11T09:41:52+00:00</updated>
+  <updated>2023-11-11T13:03:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7299471008531041542</id>
-    <title>No Title</title>
-    <updated>2023-11-09T14:35:37+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7299471008531041542" rel="alternate"/>
-    <published>2023-11-09T14:35:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7299472015923219717</id>
-    <title>gila gue lama2 perkara rambut doang</title>
-    <updated>2023-11-09T14:39:30+00:00</updated>
-    <content>gila gue lama2 perkara rambut doang</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7299472015923219717" rel="alternate"/>
-    <published>2023-11-09T14:39:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7299474734083837189</id>
     <title>kluarin smua draft</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@duhsirachel/video/7300137480269974790" rel="alternate"/>
     <published>2023-11-11T09:41:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7300188526224739589</id>
+    <title>akhirnya bikin</title>
+    <updated>2023-11-11T12:59:56+00:00</updated>
+    <content>akhirnya bikin</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7300188526224739589" rel="alternate"/>
+    <published>2023-11-11T12:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7300189318142807302</id>
+    <title>gjls kl ini</title>
+    <updated>2023-11-11T13:03:01+00:00</updated>
+    <content>gjls kl ini</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7300189318142807302" rel="alternate"/>
+    <published>2023-11-11T13:03:01+00:00</published>
   </entry>
 </feed>
