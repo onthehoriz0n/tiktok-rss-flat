@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@bailafauri</id>
   <title>bailafauri TikTok</title>
-  <updated>2023-11-12T08:37:52+00:00</updated>
+  <updated>2023-11-12T16:01:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from bailafauri</subtitle>
-  <entry>
-    <id>https://tiktok.com/@bailafauri/video/7297531266012925190</id>
-    <title>i miss ya</title>
-    <updated>2023-11-04T09:08:26+00:00</updated>
-    <content>i miss ya</content>
-    <link href="https://tiktok.com/@bailafauri/video/7297531266012925190" rel="alternate"/>
-    <published>2023-11-04T09:08:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@bailafauri/video/7297970424535731462</id>
     <title>Sori</title>
@@ -51,5 +43,13 @@
     <content>selamat hari bapak 💛</content>
     <link href="https://tiktok.com/@bailafauri/video/7300492068122627333" rel="alternate"/>
     <published>2023-11-12T08:37:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@bailafauri/video/7300606511003323653</id>
+    <title>happy diwali &lt;3 @Jennifer coppen </title>
+    <updated>2023-11-12T16:01:56+00:00</updated>
+    <content>happy diwali &lt;3 @Jennifer coppen </content>
+    <link href="https://tiktok.com/@bailafauri/video/7300606511003323653" rel="alternate"/>
+    <published>2023-11-12T16:01:56+00:00</published>
   </entry>
 </feed>
