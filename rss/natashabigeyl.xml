@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-11-09T12:04:48+00:00</updated>
+  <updated>2023-11-13T13:05:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7296337476837215489</id>
-    <title>ITU NASI KENAPA KECIL BGT?🙂 #IbenNatKeJepang </title>
-    <updated>2023-11-01T03:55:57+00:00</updated>
-    <content>ITU NASI KENAPA KECIL BGT?🙂 #IbenNatKeJepang </content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7296337476837215489" rel="alternate"/>
-    <published>2023-11-01T03:55:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7296587994386025733</id>
     <title>ZONK BGT jangan ke sini kalo gamau kena tourist trap🙏🏻 #IbenNatKeJepang </title>
@@ -51,5 +43,13 @@
     <content>KALO 2 MINGGU KAYA GINI TERUS, GUE FIX NAIK 10KG SIH🥲 #IbenNatKeJepang</content>
     <link href="https://tiktok.com/@natashabigeyl/video/7299432146131782917" rel="alternate"/>
     <published>2023-11-09T12:04:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7300932090793577733</id>
+    <title>GA LAGI-LAGI SIH NAIK RIDENYA🙏🏻 #IbenNatKeJepang </title>
+    <updated>2023-11-13T13:05:21+00:00</updated>
+    <content>GA LAGI-LAGI SIH NAIK RIDENYA🙏🏻 #IbenNatKeJepang </content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7300932090793577733" rel="alternate"/>
+    <published>2023-11-13T13:05:21+00:00</published>
   </entry>
 </feed>
