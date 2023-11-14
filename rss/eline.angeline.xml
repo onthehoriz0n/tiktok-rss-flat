@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-11-13T12:34:38+00:00</updated>
+  <updated>2023-11-12T04:38:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7285311360840355078</id>
+    <title>No Title</title>
+    <updated>2023-10-02T10:48:57+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7285311360840355078" rel="alternate"/>
+    <published>2023-10-02T10:48:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7291655702550940934</id>
+    <title>No Title</title>
+    <updated>2023-10-19T13:08:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7291655702550940934" rel="alternate"/>
+    <published>2023-10-19T13:08:12+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7298382482624335109</id>
     <title>My type of warm ups before workout😂</title>
@@ -35,21 +51,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@eline.angeline/video/7300430315443522822" rel="alternate"/>
     <published>2023-11-12T04:38:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7300431960529227014</id>
-    <title>😬</title>
-    <updated>2023-11-12T04:44:35+00:00</updated>
-    <content>😬</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7300431960529227014" rel="alternate"/>
-    <published>2023-11-12T04:44:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7300924175928020230</id>
-    <title>Akhirnya ad temen buat bkin tiktok ini wkwkw</title>
-    <updated>2023-11-13T12:34:38+00:00</updated>
-    <content>Akhirnya ad temen buat bkin tiktok ini wkwkw</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7300924175928020230" rel="alternate"/>
-    <published>2023-11-13T12:34:38+00:00</published>
   </entry>
 </feed>
