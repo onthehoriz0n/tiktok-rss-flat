@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-11-12T10:51:16+00:00</updated>
+  <updated>2023-11-15T10:45:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7295642923784441094</id>
-    <title>bangs</title>
-    <updated>2023-10-30T07:00:42+00:00</updated>
-    <content>bangs</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7295642923784441094" rel="alternate"/>
-    <published>2023-10-30T07:00:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7296165595924466950</id>
-    <title>miss wallace🚬 #fakeblood #fakecigeratte #halloween2023 </title>
-    <updated>2023-10-31T16:48:55+00:00</updated>
-    <content>miss wallace🚬 #fakeblood #fakecigeratte #halloween2023 </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7296165595924466950" rel="alternate"/>
-    <published>2023-10-31T16:48:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7297099999509351686</id>
     <title>this is a reminder to take your creatine 💪🏼 @FITlife Indonesia </title>
@@ -51,5 +35,21 @@
     <content>🥹👊🏻🍚🥢🥩</content>
     <link href="https://tiktok.com/@stellatandajaya/video/7300526452481494277" rel="alternate"/>
     <published>2023-11-12T10:51:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7301626469443308805</id>
+    <title>gwenchana pablo</title>
+    <updated>2023-11-15T09:59:54+00:00</updated>
+    <content>gwenchana pablo</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7301626469443308805" rel="alternate"/>
+    <published>2023-11-15T09:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7301638214249352453</id>
+    <title>2023 is almost over 🥹</title>
+    <updated>2023-11-15T10:45:27+00:00</updated>
+    <content>2023 is almost over 🥹</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7301638214249352453" rel="alternate"/>
+    <published>2023-11-15T10:45:27+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-15T08:05:22+00:00</updated>
+  <updated>2023-11-15T13:55:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7300137480269974790</id>
-    <title>No Title</title>
-    <updated>2023-11-11T09:41:52+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7300137480269974790" rel="alternate"/>
-    <published>2023-11-11T09:41:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7300188526224739589</id>
     <title>akhirnya bikin</title>
@@ -51,5 +43,13 @@
     <content>mwa mwa</content>
     <link href="https://tiktok.com/@duhsirachel/video/7301596948467813637" rel="alternate"/>
     <published>2023-11-15T08:05:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7301687120853355781</id>
+    <title>kembaran dongg jersey nya kaya akuu😍</title>
+    <updated>2023-11-15T13:55:15+00:00</updated>
+    <content>kembaran dongg jersey nya kaya akuu😍</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7301687120853355781" rel="alternate"/>
+    <published>2023-11-15T13:55:15+00:00</published>
   </entry>
 </feed>
