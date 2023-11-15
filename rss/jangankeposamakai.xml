@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-14T14:04:30+00:00</updated>
+  <updated>2023-11-15T05:55:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7298627979389701382</id>
-    <title>#zorororonoa #foryou #cosplay #zorofemale </title>
-    <updated>2023-11-07T08:04:15+00:00</updated>
-    <content>#zorororonoa #foryou #cosplay #zorofemale </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7298627979389701382" rel="alternate"/>
-    <published>2023-11-07T08:04:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7298929476950347013</id>
     <title>zoro nya agak lain 🗿 #roronoazoro #zorofemale #cosplay #foryou #fyp </title>
@@ -51,5 +43,13 @@
     <content>Replying to @r.yannn #fyp #zorofemalecosplay #zorofemale #cosplayer </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7301318414939983109" rel="alternate"/>
     <published>2023-11-14T14:04:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7301563473253682437</id>
+    <title>No Title</title>
+    <updated>2023-11-15T05:55:28+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7301563473253682437" rel="alternate"/>
+    <published>2023-11-15T05:55:28+00:00</published>
   </entry>
 </feed>
