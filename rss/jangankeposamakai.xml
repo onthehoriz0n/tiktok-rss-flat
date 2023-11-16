@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-15T15:25:58+00:00</updated>
+  <updated>2023-11-16T09:24:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7298929476950347013</id>
-    <title>zoro nya agak lain 🗿 #roronoazoro #zorofemale #cosplay #foryou #fyp </title>
-    <updated>2023-11-08T03:34:12+00:00</updated>
-    <content>zoro nya agak lain 🗿 #roronoazoro #zorofemale #cosplay #foryou #fyp </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7298929476950347013" rel="alternate"/>
-    <published>2023-11-08T03:34:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7300908280530865413</id>
     <title>Bucin 1000% 🥰 #roronoazoro #zorocosplay #zorofemcosplay #fyp #beranda </title>
@@ -51,5 +43,13 @@
     <content>Absen yang cinta kurumi 🥰 #kurumitokisaki #kurumitokisakicosplay #loly #foryou </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7301710497211059462" rel="alternate"/>
     <published>2023-11-15T15:25:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7301988342487321861</id>
+    <title>Huft 😩 #kurumi #kurumicosplay #kurumitokisaki #cosplayer #foryoupage </title>
+    <updated>2023-11-16T09:24:08+00:00</updated>
+    <content>Huft 😩 #kurumi #kurumicosplay #kurumitokisaki #cosplayer #foryoupage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7301988342487321861" rel="alternate"/>
+    <published>2023-11-16T09:24:08+00:00</published>
   </entry>
 </feed>
