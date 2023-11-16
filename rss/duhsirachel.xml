@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-16T07:58:49+00:00</updated>
+  <updated>2023-11-16T14:15:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7300189318142807302</id>
-    <title>gjls kl ini</title>
-    <updated>2023-11-11T13:03:01+00:00</updated>
-    <content>gjls kl ini</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7300189318142807302" rel="alternate"/>
-    <published>2023-11-11T13:03:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7300917823591697669</id>
     <title>anjay starboy abiez acel</title>
@@ -51,5 +43,13 @@
     <content>info senderan hp kita pecah</content>
     <link href="https://tiktok.com/@duhsirachel/video/7301966354138025222" rel="alternate"/>
     <published>2023-11-16T07:58:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7302063382817983750</id>
+    <title>No Title</title>
+    <updated>2023-11-16T14:15:20+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7302063382817983750" rel="alternate"/>
+    <published>2023-11-16T14:15:20+00:00</published>
   </entry>
 </feed>
