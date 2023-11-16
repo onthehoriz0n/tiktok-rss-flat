@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-11-15T10:45:27+00:00</updated>
+  <updated>2023-11-16T06:19:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7297099999509351686</id>
-    <title>this is a reminder to take your creatine 💪🏼 @FITlife Indonesia </title>
-    <updated>2023-11-03T05:14:55+00:00</updated>
-    <content>this is a reminder to take your creatine 💪🏼 @FITlife Indonesia </content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7297099999509351686" rel="alternate"/>
-    <published>2023-11-03T05:14:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7298272432001993989</id>
     <title>💪🏼🩶</title>
@@ -51,5 +43,13 @@
     <content>2023 is almost over 🥹</content>
     <link href="https://tiktok.com/@stellatandajaya/video/7301638214249352453" rel="alternate"/>
     <published>2023-11-15T10:45:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7301940763531742470</id>
+    <title>🍒🌲</title>
+    <updated>2023-11-16T06:19:31+00:00</updated>
+    <content>🍒🌲</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7301940763531742470" rel="alternate"/>
+    <published>2023-11-16T06:19:31+00:00</published>
   </entry>
 </feed>
