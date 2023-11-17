@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-11-14T11:41:15+00:00</updated>
+  <updated>2023-11-17T06:35:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7296940964197846278</id>
-    <title>No Title</title>
-    <updated>2023-11-02T18:57:46+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7296940964197846278" rel="alternate"/>
-    <published>2023-11-02T18:57:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7299359027685887237</id>
     <title>the only time i feel safeee</title>
@@ -51,5 +43,13 @@
     <content>ig saw it first</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7301281505140116741" rel="alternate"/>
     <published>2023-11-14T11:41:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7302316049905569029</id>
+    <title>nü bangsss</title>
+    <updated>2023-11-17T06:35:50+00:00</updated>
+    <content>nü bangsss</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7302316049905569029" rel="alternate"/>
+    <published>2023-11-17T06:35:50+00:00</published>
   </entry>
 </feed>
