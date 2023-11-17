@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@stellatandajaya</id>
   <title>stellatandajaya TikTok</title>
-  <updated>2023-11-16T10:25:10+00:00</updated>
+  <updated>2023-11-17T05:32:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from stellatandajaya</subtitle>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7300526452481494277</id>
-    <title>🥹👊🏻🍚🥢🥩</title>
-    <updated>2023-11-12T10:51:16+00:00</updated>
-    <content>🥹👊🏻🍚🥢🥩</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7300526452481494277" rel="alternate"/>
-    <published>2023-11-12T10:51:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@stellatandajaya/video/7301626469443308805</id>
-    <title>gwenchana pablo</title>
-    <updated>2023-11-15T09:59:54+00:00</updated>
-    <content>gwenchana pablo</content>
-    <link href="https://tiktok.com/@stellatandajaya/video/7301626469443308805" rel="alternate"/>
-    <published>2023-11-15T09:59:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@stellatandajaya/video/7301638214249352453</id>
     <title>2023 is almost over 🥹</title>
@@ -51,5 +35,21 @@
     <content>#onthisday </content>
     <link href="https://tiktok.com/@stellatandajaya/video/7302004068631743750" rel="alternate"/>
     <published>2023-11-16T10:25:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7302297661204483334</id>
+    <title>🤓</title>
+    <updated>2023-11-17T05:24:28+00:00</updated>
+    <content>🤓</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7302297661204483334" rel="alternate"/>
+    <published>2023-11-17T05:24:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@stellatandajaya/video/7302299736181116166</id>
+    <title>No Title</title>
+    <updated>2023-11-17T05:32:31+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@stellatandajaya/video/7302299736181116166" rel="alternate"/>
+    <published>2023-11-17T05:32:31+00:00</published>
   </entry>
 </feed>
