@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-11-18T09:17:20+00:00</updated>
+  <updated>2023-11-19T11:24:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7299095457073089798</id>
-    <title>asiq</title>
-    <updated>2023-11-08T14:18:16+00:00</updated>
-    <content>asiq</content>
-    <link href="https://tiktok.com/@another.ell/video/7299095457073089798" rel="alternate"/>
-    <published>2023-11-08T14:18:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7299502652419804421</id>
     <title>ga janji terakhir</title>
@@ -51,5 +43,13 @@
     <content>abaikan belum mandi,tebak totalnya ada berapa?💸✨#fypシ #moneybouquet </content>
     <link href="https://tiktok.com/@another.ell/video/7302728755527601414" rel="alternate"/>
     <published>2023-11-18T09:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7303132536966745350</id>
+    <title>korban “coklat kehitaman” garnier☺️🤌</title>
+    <updated>2023-11-19T11:24:12+00:00</updated>
+    <content>korban “coklat kehitaman” garnier☺️🤌</content>
+    <link href="https://tiktok.com/@another.ell/video/7303132536966745350" rel="alternate"/>
+    <published>2023-11-19T11:24:12+00:00</published>
   </entry>
 </feed>
