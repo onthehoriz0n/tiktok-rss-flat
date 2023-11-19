@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-16T15:49:45+00:00</updated>
+  <updated>2023-11-19T10:53:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7301158757902355717</id>
-    <title>Happy belated birthday roronoa zoro 🫰🏻✨ #roronoazoro #zorocosplay #zorofemale #fypシ </title>
-    <updated>2023-11-14T03:44:56+00:00</updated>
-    <content>Happy belated birthday roronoa zoro 🫰🏻✨ #roronoazoro #zorocosplay #zorofemale #fypシ </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7301158757902355717" rel="alternate"/>
-    <published>2023-11-14T03:44:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7301318414939983109</id>
     <title>Replying to @r.yannn #fyp #zorofemalecosplay #zorofemale #cosplayer </title>
@@ -51,5 +43,13 @@
     <content>😸 #fyp #bodytransformation #gymtok #gym </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7302087710326492421" rel="alternate"/>
     <published>2023-11-16T15:49:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7303124584491044101</id>
+    <title>#foru </title>
+    <updated>2023-11-19T10:53:20+00:00</updated>
+    <content>#foru </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7303124584491044101" rel="alternate"/>
+    <published>2023-11-19T10:53:20+00:00</published>
   </entry>
 </feed>
