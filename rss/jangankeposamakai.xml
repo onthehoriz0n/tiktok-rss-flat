@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-19T10:53:20+00:00</updated>
+  <updated>2023-11-20T07:08:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7301318414939983109</id>
-    <title>Replying to @r.yannn #fyp #zorofemalecosplay #zorofemale #cosplayer </title>
-    <updated>2023-11-14T14:04:30+00:00</updated>
-    <content>Replying to @r.yannn #fyp #zorofemalecosplay #zorofemale #cosplayer </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7301318414939983109" rel="alternate"/>
-    <published>2023-11-14T14:04:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7301710497211059462</id>
     <title>Absen yang cinta kurumi 🥰 #kurumitokisaki #kurumitokisakicosplay #loly #foryou </title>
@@ -51,5 +43,13 @@
     <content>#foru </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7303124584491044101" rel="alternate"/>
     <published>2023-11-19T10:53:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7303437727108828421</id>
+    <title>#tremor </title>
+    <updated>2023-11-20T07:08:33+00:00</updated>
+    <content>#tremor </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7303437727108828421" rel="alternate"/>
+    <published>2023-11-20T07:08:33+00:00</published>
   </entry>
 </feed>
