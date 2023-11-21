@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@another.ell</id>
   <title>another.ell TikTok</title>
-  <updated>2023-11-19T17:51:11+00:00</updated>
+  <updated>2023-11-21T02:54:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from another.ell</subtitle>
-  <entry>
-    <id>https://tiktok.com/@another.ell/video/7302366101437025541</id>
-    <title>kaum” yg suka pake baju haram wajib punyaa!🤌💯 </title>
-    <updated>2023-11-17T09:50:03+00:00</updated>
-    <content>kaum” yg suka pake baju haram wajib punyaa!🤌💯 </content>
-    <link href="https://tiktok.com/@another.ell/video/7302366101437025541" rel="alternate"/>
-    <published>2023-11-17T09:50:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@another.ell/video/7302416944467070213</id>
     <title>melet monyong pokoknya mah</title>
@@ -51,5 +43,13 @@
     <content>rambut kembali ke setelan pabrik</content>
     <link href="https://tiktok.com/@another.ell/video/7303232258998144262" rel="alternate"/>
     <published>2023-11-19T17:51:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@another.ell/video/7303743238022778117</id>
+    <title>No Title</title>
+    <updated>2023-11-21T02:54:03+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@another.ell/video/7303743238022778117" rel="alternate"/>
+    <published>2023-11-21T02:54:03+00:00</published>
   </entry>
 </feed>
