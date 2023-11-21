@@ -13,14 +13,6 @@
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jepangilang</subtitle>
   <entry>
-    <id>https://tiktok.com/@jepangilang/video/7300122515194531077</id>
-    <title>No Title</title>
-    <updated>2023-11-11T08:43:48+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@jepangilang/video/7300122515194531077" rel="alternate"/>
-    <published>2023-11-11T08:43:48+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@jepangilang/video/7301327187213438213</id>
     <title>No Title</title>
     <updated>2023-11-14T14:38:31+00:00</updated>
@@ -35,6 +27,14 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@jepangilang/video/7302372533540523270" rel="alternate"/>
     <published>2023-11-17T10:14:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jepangilang/video/7302372579405286661</id>
+    <title>No Title</title>
+    <updated>2023-11-17T10:15:12+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@jepangilang/video/7302372579405286661" rel="alternate"/>
+    <published>2023-11-17T10:15:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@jepangilang/video/7302382717209939205</id>
