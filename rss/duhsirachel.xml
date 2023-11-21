@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-20T02:06:14+00:00</updated>
+  <updated>2023-11-21T01:11:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7303087110028889349</id>
-    <title>yaa</title>
-    <updated>2023-11-19T08:27:56+00:00</updated>
-    <content>yaa</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7303087110028889349" rel="alternate"/>
-    <published>2023-11-19T08:27:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7303355774103719173</id>
     <title>don't yah?</title>
@@ -51,5 +43,13 @@
     <content>terimakasii 1M nyaa🫶🏻</content>
     <link href="https://tiktok.com/@duhsirachel/video/7303359824459304198" rel="alternate"/>
     <published>2023-11-20T02:06:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7303716878650821894</id>
+    <title>lagi project negara apa tebak</title>
+    <updated>2023-11-21T01:11:45+00:00</updated>
+    <content>lagi project negara apa tebak</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7303716878650821894" rel="alternate"/>
+    <published>2023-11-21T01:11:45+00:00</published>
   </entry>
 </feed>
