@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-11-01T16:08:34+00:00</updated>
+  <updated>2023-11-30T12:37:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7286778892994481413</id>
-    <title>who this 😮‍💨🤣</title>
-    <updated>2023-10-06T09:43:42+00:00</updated>
-    <content>who this 😮‍💨🤣</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7286778892994481413" rel="alternate"/>
-    <published>2023-10-06T09:43:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7287138045172796678</id>
-    <title>PICK UR FAVV👆🏻 ft all fits are thrifted except 2nd one 🤩</title>
-    <updated>2023-10-07T08:57:27+00:00</updated>
-    <content>PICK UR FAVV👆🏻 ft all fits are thrifted except 2nd one 🤩</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7287138045172796678" rel="alternate"/>
-    <published>2023-10-07T08:57:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7295309224777649413</id>
     <title>his one and only playboy bunny</title>
@@ -51,5 +35,21 @@
     <content>THIS FILTER &gt;&gt;&gt;</content>
     <link href="https://tiktok.com/@jemimakaia/video/7296526277182278917" rel="alternate"/>
     <published>2023-11-01T16:08:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7304568636751006981</id>
+    <title>DADDYSS HOMEEE</title>
+    <updated>2023-11-23T08:17:03+00:00</updated>
+    <content>DADDYSS HOMEEE</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7304568636751006981" rel="alternate"/>
+    <published>2023-11-23T08:17:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7307233347502099717</id>
+    <title>sebenernya masi hafalin😂 anw GOODNIGHTTT</title>
+    <updated>2023-11-30T12:37:26+00:00</updated>
+    <content>sebenernya masi hafalin😂 anw GOODNIGHTTT</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7307233347502099717" rel="alternate"/>
+    <published>2023-11-30T12:37:26+00:00</published>
   </entry>
 </feed>
