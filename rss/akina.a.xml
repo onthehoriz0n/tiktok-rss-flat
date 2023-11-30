@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@akina.a</id>
   <title>akina.a TikTok</title>
-  <updated>2023-11-09T07:36:17+00:00</updated>
+  <updated>2023-11-29T03:09:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from akina.a</subtitle>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7296395178540109061</id>
-    <title>No Title</title>
-    <updated>2023-11-01T07:39:50+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7296395178540109061" rel="alternate"/>
-    <published>2023-11-01T07:39:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7296395431402097925</id>
-    <title>Bingung mau rayleigh atau shanks😩#onepiece #ace #rayleigh #shanks </title>
-    <updated>2023-11-01T07:40:48+00:00</updated>
-    <content>Bingung mau rayleigh atau shanks😩#onepiece #ace #rayleigh #shanks </content>
-    <link href="https://tiktok.com/@akina.a/video/7296395431402097925" rel="alternate"/>
-    <published>2023-11-01T07:40:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@akina.a/video/7297891448219913477</id>
-    <title>No Title</title>
-    <updated>2023-11-05T08:26:08+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@akina.a/video/7297891448219913477" rel="alternate"/>
-    <published>2023-11-05T08:26:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@akina.a/video/7299361940739050758</id>
     <title>Sorry luffy, my heart belongs to Aokiji😌 #onepiece #boahankock #aokiji </title>
@@ -51,5 +27,29 @@
     <content>My first cosplay🤍 #onepiece #boahankock </content>
     <link href="https://tiktok.com/@akina.a/video/7299362951616564485" rel="alternate"/>
     <published>2023-11-09T07:36:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7304586512849554693</id>
+    <title>No Title</title>
+    <updated>2023-11-23T09:26:24+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7304586512849554693" rel="alternate"/>
+    <published>2023-11-23T09:26:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7304586958351764742</id>
+    <title>No Title</title>
+    <updated>2023-11-23T09:28:07+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7304586958351764742" rel="alternate"/>
+    <published>2023-11-23T09:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@akina.a/video/7306715838759881989</id>
+    <title>No Title</title>
+    <updated>2023-11-29T03:09:15+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@akina.a/video/7306715838759881989" rel="alternate"/>
+    <published>2023-11-29T03:09:15+00:00</published>
   </entry>
 </feed>
