@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@aisykaspol</id>
   <title>aisykaspol TikTok</title>
-  <updated>2023-11-20T11:35:43+00:00</updated>
+  <updated>2023-11-30T10:28:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aisykaspol</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aisykaspol/video/7297181965197970694</id>
-    <title>No Title</title>
-    <updated>2023-11-03T10:32:57+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@aisykaspol/video/7297181965197970694" rel="alternate"/>
-    <published>2023-11-03T10:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@aisykaspol/video/7298329515506306309</id>
-    <title>No Title</title>
-    <updated>2023-11-06T12:46:02+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@aisykaspol/video/7298329515506306309" rel="alternate"/>
-    <published>2023-11-06T12:46:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aisykaspol/video/7300875149702663430</id>
     <title>Diajarin hashfi lawlll</title>
@@ -51,5 +35,21 @@
     <content>Bruh</content>
     <link href="https://tiktok.com/@aisykaspol/video/7303506592803081477" rel="alternate"/>
     <published>2023-11-20T11:35:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aisykaspol/video/7306813828765895941</id>
+    <title>No Title</title>
+    <updated>2023-11-29T09:29:31+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@aisykaspol/video/7306813828765895941" rel="alternate"/>
+    <published>2023-11-29T09:29:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aisykaspol/video/7307200227373550854</id>
+    <title>No Title</title>
+    <updated>2023-11-30T10:28:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@aisykaspol/video/7307200227373550854" rel="alternate"/>
+    <published>2023-11-30T10:28:56+00:00</published>
   </entry>
 </feed>
