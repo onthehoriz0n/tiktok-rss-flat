@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-21T15:41:31+00:00</updated>
+  <updated>2023-11-28T16:40:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7301988342487321861</id>
-    <title>Huft 😩 #kurumi #kurumicosplay #kurumitokisaki #cosplayer #foryoupage </title>
-    <updated>2023-11-16T09:24:08+00:00</updated>
-    <content>Huft 😩 #kurumi #kurumicosplay #kurumitokisaki #cosplayer #foryoupage </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7301988342487321861" rel="alternate"/>
-    <published>2023-11-16T09:24:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7302087710326492421</id>
     <title>😸 #fyp #bodytransformation #gymtok #gym </title>
@@ -51,5 +43,13 @@
     <content>guys aku ga live dlu ya mlm ini… not feeling well 🥹 #fyp </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7303941013112982790" rel="alternate"/>
     <published>2023-11-21T15:41:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7306553804391025925</id>
+    <title>cosplay siapaa tebak 🤓 #foryou #fyp #leedonna #spiderman </title>
+    <updated>2023-11-28T16:40:28+00:00</updated>
+    <content>cosplay siapaa tebak 🤓 #foryou #fyp #leedonna #spiderman </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7306553804391025925" rel="alternate"/>
+    <published>2023-11-28T16:40:28+00:00</published>
   </entry>
 </feed>
