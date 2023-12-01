@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-11-19T18:01:45+00:00</updated>
+  <updated>2023-11-28T07:20:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7300213756494138629</id>
-    <title>bayar tagihan listrik air wifi bensin etoll</title>
-    <updated>2023-11-11T14:37:51+00:00</updated>
-    <content>bayar tagihan listrik air wifi bensin etoll</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7300213756494138629" rel="alternate"/>
-    <published>2023-11-11T14:37:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7300816210705370374</id>
-    <title>hidup yagitu kadang diatas kadang di melasti</title>
-    <updated>2023-11-13T05:35:42+00:00</updated>
-    <content>hidup yagitu kadang diatas kadang di melasti</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7300816210705370374" rel="alternate"/>
-    <published>2023-11-13T05:35:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7301281505140116741</id>
-    <title>ig saw it first</title>
-    <updated>2023-11-14T11:41:15+00:00</updated>
-    <content>ig saw it first</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7301281505140116741" rel="alternate"/>
-    <published>2023-11-14T11:41:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7302316049905569029</id>
     <title>nü bangsss</title>
@@ -51,5 +27,29 @@
     <content>swifties for lyfeeeee</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7303234979423653126" rel="alternate"/>
     <published>2023-11-19T18:01:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7305480891772521733</id>
+    <title>No Title</title>
+    <updated>2023-11-25T19:17:02+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7305480891772521733" rel="alternate"/>
+    <published>2023-11-25T19:17:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7306013259667098886</id>
+    <title>cimol reog</title>
+    <updated>2023-11-27T05:42:54+00:00</updated>
+    <content>cimol reog</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7306013259667098886" rel="alternate"/>
+    <published>2023-11-27T05:42:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7306409496950181125</id>
+    <title>sungkem sama yg bikin trend</title>
+    <updated>2023-11-28T07:20:30+00:00</updated>
+    <content>sungkem sama yg bikin trend</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7306409496950181125" rel="alternate"/>
+    <published>2023-11-28T07:20:30+00:00</published>
   </entry>
 </feed>
