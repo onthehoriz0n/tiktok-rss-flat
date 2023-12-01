@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-11-30T14:43:49+00:00</updated>
+  <updated>2023-12-01T06:21:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7303124584491044101</id>
-    <title>#foru </title>
-    <updated>2023-11-19T10:53:20+00:00</updated>
-    <content>#foru </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7303124584491044101" rel="alternate"/>
-    <published>2023-11-19T10:53:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7303437727108828421</id>
     <title>#tremor </title>
@@ -51,5 +43,13 @@
     <content>🥳 #christmas #fyp #dancing #foryoupage </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7307265912292248837" rel="alternate"/>
     <published>2023-11-30T14:43:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7307507465447410950</id>
+    <title>Habis gelap terbitlah terang :) #fypシ #tiktok #capcut #foryourpage </title>
+    <updated>2023-12-01T06:21:10+00:00</updated>
+    <content>Habis gelap terbitlah terang :) #fypシ #tiktok #capcut #foryourpage </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7307507465447410950" rel="alternate"/>
+    <published>2023-12-01T06:21:10+00:00</published>
   </entry>
 </feed>
