@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-11-30T13:21:52+00:00</updated>
+  <updated>2023-12-02T10:33:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7305690214108908805</id>
-    <title>pake airpods pasti delay</title>
-    <updated>2023-11-26T08:49:18+00:00</updated>
-    <content>pake airpods pasti delay</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7305690214108908805" rel="alternate"/>
-    <published>2023-11-26T08:49:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7305775254591393030</id>
     <title>ky org bego</title>
@@ -51,5 +43,13 @@
     <content>pam pam pam pam</content>
     <link href="https://tiktok.com/@duhsirachel/video/7307244796542799110" rel="alternate"/>
     <published>2023-11-30T13:21:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7307943468205133061</id>
+    <title>No Title</title>
+    <updated>2023-12-02T10:33:05+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7307943468205133061" rel="alternate"/>
+    <published>2023-12-02T10:33:05+00:00</published>
   </entry>
 </feed>
