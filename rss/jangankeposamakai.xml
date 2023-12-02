@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jangankeposamakai</id>
   <title>jangankeposamakai TikTok</title>
-  <updated>2023-12-01T15:16:45+00:00</updated>
+  <updated>2023-12-01T22:48:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jangankeposamakai</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jangankeposamakai/video/7303437727108828421</id>
-    <title>#tremor </title>
-    <updated>2023-11-20T07:08:33+00:00</updated>
-    <content>#tremor </content>
-    <link href="https://tiktok.com/@jangankeposamakai/video/7303437727108828421" rel="alternate"/>
-    <published>2023-11-20T07:08:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jangankeposamakai/video/7303941013112982790</id>
     <title>guys aku ga live dlu ya mlm ini… not feeling well 🥹 #fyp </title>
@@ -51,5 +43,13 @@
     <content>muahhhh #fyp #foryou </content>
     <link href="https://tiktok.com/@jangankeposamakai/video/7307645489095167237" rel="alternate"/>
     <published>2023-12-01T15:16:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jangankeposamakai/video/7307761929127415045</id>
+    <title>Hinata cinta makanan praktis 🤤🫶 #frozenfood #nutrindo #ayoma </title>
+    <updated>2023-12-01T22:48:38+00:00</updated>
+    <content>Hinata cinta makanan praktis 🤤🫶 #frozenfood #nutrindo #ayoma </content>
+    <link href="https://tiktok.com/@jangankeposamakai/video/7307761929127415045" rel="alternate"/>
+    <published>2023-12-01T22:48:38+00:00</published>
   </entry>
 </feed>
