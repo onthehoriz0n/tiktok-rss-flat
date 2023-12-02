@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@spillstinax</id>
   <title>spillstinax TikTok</title>
-  <updated>2023-11-22T08:18:35+00:00</updated>
+  <updated>2023-12-02T17:33:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,11 +45,11 @@
     <published>2023-11-19T15:34:58+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@spillstinax/video/7304197948966030598</id>
+    <id>https://tiktok.com/@spillstinax/video/7308051749066099973</id>
     <title>No Title</title>
-    <updated>2023-11-22T08:18:35+00:00</updated>
+    <updated>2023-12-02T17:33:16+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@spillstinax/video/7304197948966030598" rel="alternate"/>
-    <published>2023-11-22T08:18:35+00:00</published>
+    <link href="https://tiktok.com/@spillstinax/video/7308051749066099973" rel="alternate"/>
+    <published>2023-12-02T17:33:16+00:00</published>
   </entry>
 </feed>
