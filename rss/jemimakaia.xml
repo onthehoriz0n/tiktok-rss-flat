@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jemimakaia</id>
   <title>jemimakaia TikTok</title>
-  <updated>2023-11-30T12:37:26+00:00</updated>
+  <updated>2023-12-03T11:34:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jemimakaia</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jemimakaia/video/7295309224777649413</id>
-    <title>his one and only playboy bunny</title>
-    <updated>2023-10-29T09:25:45+00:00</updated>
-    <content>his one and only playboy bunny</content>
-    <link href="https://tiktok.com/@jemimakaia/video/7295309224777649413" rel="alternate"/>
-    <published>2023-10-29T09:25:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jemimakaia/video/7295373410765458693</id>
     <title>Get ready with me to the airport! ✈️ Kalau mau long flight harus banget pakai pakaian yang nyaman, apalagi bra. Kali ini aku pakai Wireless Bra Ultra Relax dari @UNIQLO Indonesia karena suuuper comfy 🤏🏼 Buruan ke store UNIQLO terdekat atau UNIQLO.COM dan </title>
@@ -51,5 +43,13 @@
     <content>sebenernya masi hafalin😂 anw GOODNIGHTTT</content>
     <link href="https://tiktok.com/@jemimakaia/video/7307233347502099717" rel="alternate"/>
     <published>2023-11-30T12:37:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jemimakaia/video/7308330298775719173</id>
+    <title>DO IT NOW !!</title>
+    <updated>2023-12-03T11:34:11+00:00</updated>
+    <content>DO IT NOW !!</content>
+    <link href="https://tiktok.com/@jemimakaia/video/7308330298775719173" rel="alternate"/>
+    <published>2023-12-03T11:34:11+00:00</published>
   </entry>
 </feed>
