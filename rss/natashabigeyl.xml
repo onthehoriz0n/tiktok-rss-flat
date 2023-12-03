@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@natashabigeyl</id>
   <title>natashabigeyl TikTok</title>
-  <updated>2023-11-30T04:35:20+00:00</updated>
+  <updated>2023-12-03T15:24:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from natashabigeyl</subtitle>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7306169579305225478</id>
-    <title>Emang paling pr tiap pulang liburan yaaa olahraga🙂 dan tentunya krn kerjaan gue ngonten tiap hari, harus selalu keramas tiap hari juga supaya ga ketombean. as always, shampoo gue lagi pake @clearindonesia yaaa #CLEARINAJA</title>
-    <updated>2023-11-27T15:49:29+00:00</updated>
-    <content>Emang paling pr tiap pulang liburan yaaa olahraga🙂 dan tentunya krn kerjaan gue ngonten tiap hari, harus selalu keramas tiap hari juga supaya ga ketombean. as always, shampoo gue lagi pake @clearindonesia yaaa #CLEARINAJA</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7306169579305225478" rel="alternate"/>
-    <published>2023-11-27T15:49:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@natashabigeyl/video/7306332415100767494</id>
-    <title>cocok ga gue pake lipstick merah? HAHAHAHA best red lipstickkkkk sih ini ❤️ @L’Oreal Paris Makeup &amp; Hair #16HBoldMission #infalliblematteresistance #kendalljennerlipstick</title>
-    <updated>2023-11-28T02:21:23+00:00</updated>
-    <content>cocok ga gue pake lipstick merah? HAHAHAHA best red lipstickkkkk sih ini ❤️ @L’Oreal Paris Makeup &amp; Hair #16HBoldMission #infalliblematteresistance #kendalljennerlipstick</content>
-    <link href="https://tiktok.com/@natashabigeyl/video/7306332415100767494" rel="alternate"/>
-    <published>2023-11-28T02:21:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@natashabigeyl/video/7306512071196200197</id>
     <title>Ada yang kaya gue juga? Kalian tim rayain anniv atau ngga?💁🏻‍♀️ @Kérastase Indonesia #KerastaseID </title>
@@ -51,5 +35,21 @@
     <content>hehe telat gak tuh, ini lebih ke jeng YAAAAAH sih☺️🥲🙏🏻 #gadiskretek </content>
     <link href="https://tiktok.com/@natashabigeyl/video/7307109101689998598" rel="alternate"/>
     <published>2023-11-30T04:35:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7307111914503539974</id>
+    <title>otw punya kulit sekinclong Jeng Yah😌🙏🏻 @ERHA Truwhite Official Store #TheBrighteningSpecialist #ErhaTruwhite</title>
+    <updated>2023-11-30T04:46:16+00:00</updated>
+    <content>otw punya kulit sekinclong Jeng Yah😌🙏🏻 @ERHA Truwhite Official Store #TheBrighteningSpecialist #ErhaTruwhite</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7307111914503539974" rel="alternate"/>
+    <published>2023-11-30T04:46:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@natashabigeyl/video/7308389681081699589</id>
+    <title>gampang bgt</title>
+    <updated>2023-12-03T15:24:37+00:00</updated>
+    <content>gampang bgt</content>
+    <link href="https://tiktok.com/@natashabigeyl/video/7308389681081699589" rel="alternate"/>
+    <published>2023-12-03T15:24:37+00:00</published>
   </entry>
 </feed>
