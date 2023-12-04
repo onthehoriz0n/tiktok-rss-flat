@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-11-28T07:20:30+00:00</updated>
+  <updated>2023-12-04T13:02:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7302316049905569029</id>
-    <title>nü bangsss</title>
-    <updated>2023-11-17T06:35:50+00:00</updated>
-    <content>nü bangsss</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7302316049905569029" rel="alternate"/>
-    <published>2023-11-17T06:35:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7303234979423653126</id>
-    <title>swifties for lyfeeeee</title>
-    <updated>2023-11-19T18:01:45+00:00</updated>
-    <content>swifties for lyfeeeee</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7303234979423653126" rel="alternate"/>
-    <published>2023-11-19T18:01:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7305480891772521733</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>sungkem sama yg bikin trend</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7306409496950181125" rel="alternate"/>
     <published>2023-11-28T07:20:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7308686683950583046</id>
+    <title>SHOULD I??????</title>
+    <updated>2023-12-04T10:37:10+00:00</updated>
+    <content>SHOULD I??????</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7308686683950583046" rel="alternate"/>
+    <published>2023-12-04T10:37:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7308724198610914566</id>
+    <title>TLG SEKOLAH FOTOGRAFI DULU DAH SANA</title>
+    <updated>2023-12-04T13:02:43+00:00</updated>
+    <content>TLG SEKOLAH FOTOGRAFI DULU DAH SANA</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7308724198610914566" rel="alternate"/>
+    <published>2023-12-04T13:02:43+00:00</published>
   </entry>
 </feed>
