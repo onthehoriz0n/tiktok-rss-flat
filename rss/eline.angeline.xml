@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@eline.angeline</id>
   <title>eline.angeline TikTok</title>
-  <updated>2023-11-25T14:23:46+00:00</updated>
+  <updated>2023-12-05T15:04:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from eline.angeline</subtitle>
-  <entry>
-    <id>https://tiktok.com/@eline.angeline/video/7300924175928020230</id>
-    <title>Akhirnya ad temen buat bkin tiktok ini wkwkw</title>
-    <updated>2023-11-13T12:34:38+00:00</updated>
-    <content>Akhirnya ad temen buat bkin tiktok ini wkwkw</content>
-    <link href="https://tiktok.com/@eline.angeline/video/7300924175928020230" rel="alternate"/>
-    <published>2023-11-13T12:34:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@eline.angeline/video/7304945392007826694</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Pemanasan sblm tennis haha ✌🏻</content>
     <link href="https://tiktok.com/@eline.angeline/video/7305405321399340293" rel="alternate"/>
     <published>2023-11-25T14:23:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@eline.angeline/video/7309126552351034630</id>
+    <title>This is jamet🤙🏻</title>
+    <updated>2023-12-05T15:04:03+00:00</updated>
+    <content>This is jamet🤙🏻</content>
+    <link href="https://tiktok.com/@eline.angeline/video/7309126552351034630" rel="alternate"/>
+    <published>2023-12-05T15:04:03+00:00</published>
   </entry>
 </feed>
