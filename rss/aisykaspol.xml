@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@aisykaspol</id>
   <title>aisykaspol TikTok</title>
-  <updated>2023-11-30T10:28:56+00:00</updated>
+  <updated>2023-12-05T12:51:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from aisykaspol</subtitle>
-  <entry>
-    <id>https://tiktok.com/@aisykaspol/video/7300875149702663430</id>
-    <title>Diajarin hashfi lawlll</title>
-    <updated>2023-11-13T09:24:24+00:00</updated>
-    <content>Diajarin hashfi lawlll</content>
-    <link href="https://tiktok.com/@aisykaspol/video/7300875149702663430" rel="alternate"/>
-    <published>2023-11-13T09:24:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@aisykaspol/video/7300924008550141189</id>
     <title>You’re not going anywhere 👹👹👺👺👺 (jk, I’m single)</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@aisykaspol/video/7307200227373550854" rel="alternate"/>
     <published>2023-11-30T10:28:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@aisykaspol/video/7309092462633471237</id>
+    <title>If you’re Han Sohee hmu</title>
+    <updated>2023-12-05T12:51:45+00:00</updated>
+    <content>If you’re Han Sohee hmu</content>
+    <link href="https://tiktok.com/@aisykaspol/video/7309092462633471237" rel="alternate"/>
+    <published>2023-12-05T12:51:45+00:00</published>
   </entry>
 </feed>
