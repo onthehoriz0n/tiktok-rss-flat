@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@abigailgusmawan</id>
   <title>abigailgusmawan TikTok</title>
-  <updated>2023-12-04T13:02:43+00:00</updated>
+  <updated>2023-12-05T12:17:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from abigailgusmawan</subtitle>
-  <entry>
-    <id>https://tiktok.com/@abigailgusmawan/video/7305480891772521733</id>
-    <title>No Title</title>
-    <updated>2023-11-25T19:17:02+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@abigailgusmawan/video/7305480891772521733" rel="alternate"/>
-    <published>2023-11-25T19:17:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@abigailgusmawan/video/7306013259667098886</id>
     <title>cimol reog</title>
@@ -51,5 +43,13 @@
     <content>TLG SEKOLAH FOTOGRAFI DULU DAH SANA</content>
     <link href="https://tiktok.com/@abigailgusmawan/video/7308724198610914566" rel="alternate"/>
     <published>2023-12-04T13:02:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@abigailgusmawan/video/7309083611783908614</id>
+    <title>aku teh maung</title>
+    <updated>2023-12-05T12:17:25+00:00</updated>
+    <content>aku teh maung</content>
+    <link href="https://tiktok.com/@abigailgusmawan/video/7309083611783908614" rel="alternate"/>
+    <published>2023-12-05T12:17:25+00:00</published>
   </entry>
 </feed>
