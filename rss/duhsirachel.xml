@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@duhsirachel</id>
   <title>duhsirachel TikTok</title>
-  <updated>2023-12-05T01:33:07+00:00</updated>
+  <updated>2023-12-04T04:02:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://onthehoriz0n.github.io/tiktok-rss/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from duhsirachel</subtitle>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7307196022231469318</id>
+    <title>my bf&lt;3</title>
+    <updated>2023-11-30T10:12:38+00:00</updated>
+    <content>my bf&lt;3</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7307196022231469318" rel="alternate"/>
+    <published>2023-11-30T10:12:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@duhsirachel/video/7307244796542799110</id>
+    <title>pam pam pam pam</title>
+    <updated>2023-11-30T13:21:52+00:00</updated>
+    <content>pam pam pam pam</content>
+    <link href="https://tiktok.com/@duhsirachel/video/7307244796542799110" rel="alternate"/>
+    <published>2023-11-30T13:21:52+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@duhsirachel/video/7307943468205133061</id>
     <title>No Title</title>
@@ -35,21 +51,5 @@
     <content>this song💘💘💘</content>
     <link href="https://tiktok.com/@duhsirachel/video/7308584943548927238" rel="alternate"/>
     <published>2023-12-04T04:02:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7308917408721407237</id>
-    <title>jamet bgt gakuat</title>
-    <updated>2023-12-05T01:32:29+00:00</updated>
-    <content>jamet bgt gakuat</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7308917408721407237" rel="alternate"/>
-    <published>2023-12-05T01:32:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@duhsirachel/video/7308917571858844934</id>
-    <title>ciciro jamet😭</title>
-    <updated>2023-12-05T01:33:07+00:00</updated>
-    <content>ciciro jamet😭</content>
-    <link href="https://tiktok.com/@duhsirachel/video/7308917571858844934" rel="alternate"/>
-    <published>2023-12-05T01:33:07+00:00</published>
   </entry>
 </feed>
